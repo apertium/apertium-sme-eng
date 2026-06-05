@@ -51,4 +51,26 @@ m4/lt~obsolete.m4
 # (meta build system like autotools,
 # can automatically generate from config.status script
 # (which is called by configure script))
+
+# ape stuff
 Makefile
+INSTALL
+ap_include.am
+eng-sme.autobil.bin
+eng-sme.autogen.hfst
+eng-sme.autolex.bin
+eng-sme.automorf-untrimmed.bin
+eng-sme.automorf.bin
+eng-sme.prob
+eng-sme.rlx.bin
+eng-sme.rtx.bin
+gt2apertium.cg3r
+modes/
+sme-eng.autobil.bin
+sme-eng.autogen.bin
+sme-eng.autolex.bin
+sme-eng.automorf.hfst
+sme-eng.autopgen.bin
+sme-eng.mor.rlx.bin
+sme-eng.rtx.bin
+sme-eng.syn.rlx.bin
