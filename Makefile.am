@@ -10,13 +10,11 @@ PREFIX2=$(LANG2)-$(LANG1)
 BASENAME=apertium-$(PREFIX1)
 
 TARGETS_DIR1 =		\
-	$(PREFIX1).prob		\
-	$(PREFIX1).rlx.bin	\
 	$(PREFIX1).mor.rlx.bin  \
 	$(PREFIX1).syn.rlx.bin  \
 	$(PREFIX1).autobil.bin	\
 	$(PREFIX1).autolex.bin	\
-	$(PREFIX1).autogen.hfst \
+	$(PREFIX1).autogen.bin \
 	$(PREFIX1).autopgen.bin	\
 	$(PREFIX1).rtx.bin
 
@@ -31,8 +29,7 @@ TARGETS_DIR2 =		\
 	$(PREFIX2).rlx.bin	\
 	$(PREFIX2).autobil.bin	\
 	$(PREFIX2).autolex.bin	\
-	$(PREFIX2).autogen.bin	\
-	$(PREFIX2).autopgen.bin	\
+	$(PREFIX2).autogen.hfst	\
 	$(PREFIX2).rtx.bin
 
 TRIMMED_TARGETS_DIR2 = \
@@ -121,9 +118,6 @@ $(PREFIX1).autogen.bin: $(AP_SRC2)/$(LANG2).autogen.bin
 ###############################################################################
 ## Tagger models
 ###############################################################################
-
-$(PREFIX1).prob: $(AP_SRC1)/$(LANG1).prob
-	cp $< $@
 
 $(PREFIX2).prob: $(AP_SRC2)/$(LANG2).prob
 	cp $< $@
