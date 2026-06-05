@@ -2,8 +2,8 @@
 !! ATTRIBUTE CATEGORIES
 !!!!!!!!!!!!!!!
 
-number = (ND sg) sg pl sp ND;
-gender = (GD m) m f mf GD;
+number = sg pl du sp ;
+case = nom acc gen locill par abe ess ;
 det_type = def ind dem itg;
 tense = pres past fut ifi pri fti;
 
@@ -11,12 +11,10 @@ tense = pres past fut ifi pri fti;
 !! OUTPUT PATTERNS
 !!!!!!!!!!!!!!!
 
-n: _.gender.number;
+n: _.number.case;
 adj: _.gender.number;
-det_default: _.det_type;
-det_def: _.det_type.number;
 
-NP: _.number;
+NP: _ ;
 
 !!!!!!!!!!!!!!!
 !! TAG-REWRITE RULES
@@ -36,6 +34,8 @@ det: (if (1.det_type = def or 1.det_type = ind)
 !!!!!!!!!!!!!!!
 !! REDUCTION RULES
 !!!!!!!!!!!!!!!
+
+NP -> n { 1[case=nom] } ;
 
 ! Example rule:
 ! Input:  ^ראש<n><m><sg>/hovud<n><nt><sg>$ ^גדול<adj><m><sg>/stor<adj><nt><sg>$
