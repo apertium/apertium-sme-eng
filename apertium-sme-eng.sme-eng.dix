@@ -95,13 +95,106 @@
     <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
   </sdefs>
 
-   <section id="main" type="standard">
-      <!-- Define entries within <e> here. -->
-      <e><p><l>viessu<s n="n"/></l><r>house<s n="n"/></r></p></e>
+  <section id="main" type="standard">
+    <!-- exceptions -->
 
-      <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-      <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
-   </section>
+    <!-- conjunctions -->
+
+    <e><p><l>ja<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+
+    <!-- proper nouns -->
+
+    <e><i>Vå<s n="np"/></i></e>
+    <e><i>Vågå<s n="np"/></i></e>
+    <e><i>Vår<s n="np"/></i></e>
+    <e><i>Værøy<s n="np"/></i></e>
+    <e><i>Västerbotten<s n="np"/></i></e>
+    <e><i>Waldemar<s n="np"/></i></e>
+    <e><i>Wales<s n="np"/></i></e>
+    <e><i>Walker<s n="np"/></i></e>
+    <e><i>Wall<s n="np"/></i></e>
+    <e><i>Warwick<s n="np"/></i></e>
+    <e><i>Washington<s n="np"/></i></e>
+    <e><i>Watson<s n="np"/></i></e>
+    <e><i>Wattne<s n="np"/></i></e>
+    <e><i>WCIP<s n="np"/></i></e>
+    <e><i>Web<s n="np"/></i></e>
+    <e><i>Weidemann<s n="np"/></i></e>
+    <e><i>Wenche<s n="np"/></i></e>
+    <e><i>Westerfjell<s n="np"/></i></e>
+    <e><i>West<s n="np"/></i></e>
+    <e><i>Westen<s n="np"/></i></e>
+    <e><i>Western<s n="np"/></i></e>
+    <e><i>Wexelsen<s n="np"/></i></e>
+    <e><i>WGIP<s n="np"/></i></e>
+    <e><i>Widerøe<s n="np"/></i></e>
+    <e><i>Wigelius<s n="np"/></i></e>
+    <e><i>Wikimedia<s n="np"/></i></e>
+    <e><i>Wilbur<s n="np"/></i></e>
+    <e><i>Wilhelm<s n="np"/></i></e>
+    <e><i>Wilhelmsen<s n="np"/></i></e>
+    <e><i>Willy<s n="np"/></i></e>
+    <e><i>Windows<s n="np"/></i></e>
+    <e><i>Winter<s n="np"/></i></e>
+    <e><i>WINHEC<s n="np"/></i></e>
+    <e><i>WIPO<s n="np"/></i></e>
+    <e><i>Wirkola<s n="np"/></i></e>
+    <e><i>Wisborg<s n="np"/></i></e>
+    <e><i>Wollmann<s n="np"/></i></e>
+    <e><i>World<s n="np"/></i></e>
+    <e><i>WP1<s n="np"/></i></e>
+    <e><i>WWF<s n="np"/></i></e>
+    <e><i>XIII<s n="np"/></i></e>
+    <e><i>XM<s n="np"/></i></e>
+    <e><i>XVI<s n="np"/></i></e>
+    <e><i>XVII<s n="np"/></i></e>
+    <e><i>Yakutia<s n="np"/></i></e>
+    <e><i>Yangon<s n="np"/></i></e>
+    <e><i>Yle<s n="np"/></i></e>
+    <e><i>YLE<s n="np"/></i></e>
+    <e><i>Ylikoski<s n="np"/></i></e>
+    <e><i>Ylva<s n="np"/></i></e>
+    <e><i>Youth<b/>Yindi<s n="np"/></i></e>
+    <e><i>Youth<s n="np"/></i></e>
+    <e><i>Zapoljarnyj<s n="np"/></i></e>
+    <e><i>ZERO<s n="np"/></i></e>
+    <e><i>Zoya<s n="np"/></i></e>
+    <e><i>Ådne<s n="np"/></i></e>
+    <e><i>Åfjord<s n="np"/></i></e>
+    <e><i>Åhren<s n="np"/></i></e>
+    <e><i>Åknes<s n="np"/></i></e>
+    <e><i>Ålesund<s n="np"/></i></e>
+    <e><i>Åre<s n="np"/></i></e>
+    <e><i>Årøya<s n="np"/></i></e>
+    <e><i>Åsa<s n="np"/></i></e>
+    <e><i>Åse<s n="np"/></i></e>
+    <e><i>Åserud<s n="np"/></i></e>
+    <e><i>Åsli<s n="np"/></i></e>
+    <e><i>Ødegård<s n="np"/></i></e>
+    <e><i>ØFAS<s n="np"/></i></e>
+    <e><i>Øien<s n="np"/></i></e>
+    <e><i>Øistein<s n="np"/></i></e>
+    <e><i>Örebro<s n="np"/></i></e>
+    <e><i>Øreting<s n="np"/></i></e>
+    <e><i>Ørnebakk<s n="np"/></i></e>
+    <e><i>Østfold<s n="np"/></i></e>
+    <e><i>Øverland<s n="np"/></i></e>
+    <e><i>Øysten<s n="np"/></i></e>
+
+    <!-- nouns -->
+
+    <e><p><l>viessu<s n="n"/></l><r>house<s n="n"/></r></p></e>
+
+    <!-- verbs -->
+
+    <e><p><l>leat<s n="vblex"/></l><r>be<s n="vbser"/></r></p></e>
+    <e><p><l>leat<s n="vblex"/></l><r>have<s n="vbhaver"/></r></p></e>
+
+
+    <!-- puncts -->
+    <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+  </section>
 </dictionary>
 
 <!--
