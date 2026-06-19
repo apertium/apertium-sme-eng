@@ -78,6 +78,10 @@ def main():
     options = argp.parse_args()
     dix1 = parsedix(options.first_dix)
     dix2 = parsedix(options.second_dix)
+    print("<?xml version=\"1.0\" encoding=\"UTF-8\"?>", file=options.output)
+    print("<dictionary>", file=options.output)
+    print("  <alphabet/>", file=options.output)
+    print("  <section id=\"crossdix\" type=\"standard\">", file=options.output)
     for lexpair in dix1:
         sourcel = lexpair["sl"]
         middel = lexpair["tl"]
@@ -85,6 +89,7 @@ def main():
             continue
         if not middel["lemma"]:
             continue
+        print(f"** new word: {sourcel["lemma"]}**")
         for lexpair2 in dix2:
             if lexpair2["sl"]["lemma"] == middel["lemma"]:
                 targetl = lexpair2["tl"]
@@ -116,6 +121,8 @@ def main():
                     print("skipping")
                 else:
                     print(f"Assuming {answer} means no, skipping")
+    print("  </section>", file=options.output)
+    print("</dictionary>", file=options.output)
 
 
 if __name__ == "__main__":
