@@ -1,0 +1,2186 @@
+    <e w="1">><p><l>ge<s n="pcle"/></l><r>also<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ge<s n="pcle"/></l><r>neither<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gen<s n="pcle"/></l><r>also<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ges<s n="pcle"/></l><r>also<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gis<s n="pcle"/></l><r>also<s n="adv"/></r></p></e>
+    <e w="1">><p><l>fal<s n="pcle"/></l><r>maybe<s n="adv"/></r></p></e>
+    <e w="1">><p><l>han<s n="pcle"/></l><r>indeed<s n="adv"/></r></p></e>
+    <e w="1">><p><l>nai<s n="pcle"/></l><r>also<s n="adv"/></r></p></e>
+    <e w="1">><p><l>son<s n="pcle"/></l><r>indeed<s n="adv"/></r></p></e>
+    <e w="1">><p><l>go<s n="pcle"/></l><r>do<s n="adv"/></r></p></e>
+    <e w="1">><p><l>go<s n="pcle"/></l><r>ko<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ai<s n="pcle"/></l><r>ouch<s n="ij"/></r></p></e>
+    <e w="1">><p><l>almma<s n="pcle"/></l><r>maybe<s n="adv"/></r></p></e>
+    <e w="1">><p><l>almmat<s n="pcle"/></l><r>surely<s n="adv"/></r></p></e>
+    <e w="1">><p><l>go<s n="pcle"/></l><r>by<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>go<s n="pcle"/></l><r>when<s n="adv"/></r></p></e>
+    <e w="1">><p><l>go<s n="pcle"/></l><r>when<s n="rel"/></r></p></e>
+    <e w="1">><p><l>go<s n="pcle"/></l><r>when<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>go<s n="pcle"/></l><r>when<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>go<s n="pcle"/></l><r>whereas<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>go<s n="pcle"/></l><r>at<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>go<s n="pcle"/></l><r>at<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>hás<s n="pcle"/></l><r>if<s n="cnjsub"/></r></p></e>
+    <e><p><l>na<s n="pcle"/></l><r>well<s n="ij"/></r></p></e>
+    <e w="1">><p><l>sihke<s n="adv"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e w="2">><p><l>sihke<s n="adv"/></l><r>as<s n="cnjcoo"/></r></p></e>
+    <e w="2">><p><l>sihke<s n="adv"/></l><r>both<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>dehe<s n="adv"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>dehe<s n="adv"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>dehe<s n="adv"/></l><r>or<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dehe<s n="adv"/></l><r>or<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dehege<s n="cnjcoo"/></l><r>so<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>dehege<s n="cnjcoo"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e w="1">><p><l>muhto<s n="cnjcoo"/></l><r>rather<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>muhto<s n="cnjcoo"/></l><r>instead<s n="adv"/></r></p></e>
+    <e><p><l>muhto<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>muhto<s n="cnjcoo"/></l><r>rather<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>muhto<s n="cnjcoo"/></l><r>instead<s n="adv"/></r></p></e>
+    <e><p><l>bále<s n="post"/></l><r>during<s n="pr"/></r></p></e>
+    <e><p><l>bále<s n="post"/></l><r>over<s n="pr"/></r></p></e>
+    <e w="1">><p><l>bále<s n="post"/></l><r>during<s n="adv"/></r></p></e>
+    <e><p><l>duohken<s n="post"/></l><r>by<s n="pr"/></r></p></e>
+    <e w="1">><p><l>duohken<s n="post"/></l><r>by<s n="adv"/></r></p></e>
+    <e w="1">><p><l>duohken<s n="post"/></l><r>by<s n="adv"/></r></p></e>
+    <e><p><l>duohken<s n="post"/></l><r>from<s n="pr"/></r></p></e>
+    <e w="1">><p><l>duohken<s n="post"/></l><r>from<s n="adv"/></r></p></e>
+    <e><p><l>duohkin<s n="post"/></l><r>behind<s n="pr"/></r></p></e>
+    <e w="1">><p><l>duohkin<s n="post"/></l><r>after<s n="adv"/></r></p></e>
+    <e w="1">><p><l>duohkin<s n="post"/></l><r>after<s n="adv"/></r></p></e>
+    <e w="1">><p><l>duohkin<s n="post"/></l><r>behind<s n="adv"/></r></p></e>
+    <e w="1">><p><l>duohkin<s n="post"/></l><r>behind<s n="adv"/></r></p></e>
+    <e><p><l>dáfus<s n="post"/></l><r>behalf<s n="pr"/></r></p></e>
+    <e w="1">><p><l>dáfus<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e w="1">><p><l>dáfus<s n="post"/></l><r>on<s n="pr"/></r></p></e>
+    <e w="1">><p><l>dáfus<s n="post"/></l><r>behalf<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dáfus<s n="post"/></l><r>pro<s n="adv"/></r></p></e>
+    <e w="1">><p><l>geahčai<s n="post"/></l><r>towards<s n="adv"/></r></p></e>
+    <e><p><l>geahčai<s n="post"/></l><r>around<s n="pr"/></r></p></e>
+    <e><p><l>geahčai<s n="post"/></l><r>towards<s n="pr"/></r></p></e>
+    <e w="1">><p><l>geahčai<s n="post"/></l><r>nearby<s n="adv"/></r></p></e>
+    <e><p><l>geažil<s n="post"/></l><r>for<s n="pr"/></r></p></e>
+    <e><p><l>geažil<s n="post"/></l><r>because<s n="pr"/></r></p></e>
+    <e><p><l>geažil<s n="post"/></l><r>due<s n="pr"/></r></p></e>
+    <e w="1">><p><l>geažil<s n="post"/></l><r>for<s n="pr"/></r></p></e>
+    <e w="1">><p><l>geažil<s n="post"/></l><r>behalf<s n="adv"/></r></p></e>
+    <e w="2">><p><l>geažil<s n="post"/></l><r>sake<s n="adv"/></r></p></e>
+    <e><p><l>geažil<s n="post"/></l><r>for<s n="pr"/></r></p></e>
+    <e w="1">><p><l>geažil<s n="post"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e><p><l>maŋŋil<s n="post"/></l><r>after<s n="pr"/></r></p></e>
+    <e><p><l>maŋŋil<s n="post"/></l><r>after<s n="pr"/></r></p></e>
+    <e w="1">><p><l>maŋŋil<s n="post"/></l><r>after<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋŋil<s n="post"/></l><r>after<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋŋil<s n="post"/></l><r>afterwards<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋŋil<s n="post"/></l><r>behind<s n="adv"/></r></p></e>
+    <e><p><l>rájes<s n="post"/></l><r>until<s n="pr"/></r></p></e>
+    <e><p><l>rájes<s n="post"/></l><r>until<s n="pr"/></r></p></e>
+    <e w="1">><p><l>rájes<s n="post"/></l><r>up<s n="pr"/></r></p></e>
+    <e w="1">><p><l>rájes<s n="post"/></l><r>until<s n="adv"/></r></p></e>
+    <e w="1">><p><l>rájes<s n="post"/></l><r>until<s n="adv"/></r></p></e>
+    <e><p><l>vuostái<s n="post"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>vuostái<s n="post"/></l><r>toward<s n="pr"/></r></p></e>
+    <e><p><l>vuostái<s n="post"/></l><r>towards<s n="pr"/></r></p></e>
+    <e w="1">><p><l>vuostái<s n="post"/></l><r>squarely<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuostái<s n="post"/></l><r>square<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuostái<s n="post"/></l><r>toward<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuostái<s n="post"/></l><r>towards<s n="adv"/></r></p></e>
+    <e><p><l>čađa<s n="post"/></l><r>via<s n="pr"/></r></p></e>
+    <e><p><l>geahčen<s n="post"/></l><r>from<s n="pr"/></r></p></e>
+    <e w="1">><p><l>geahčen<s n="post"/></l><r>from<s n="adv"/></r></p></e>
+    <e><p><l>ala<s n="post"/></l><r>onto<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ala<s n="post"/></l><r>unto<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ala<s n="post"/></l><r>atop<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ala<s n="post"/></l><r>on<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mađe<s n="post"/></l><r>amount<s n="adv"/></r></p></e>
+    <e><p><l>alde<s n="post"/></l><r>on<s n="pr"/></r></p></e>
+    <e w="1">><p><l>alde<s n="post"/></l><r>up<s n="pr"/></r></p></e>
+    <e w="1">><p><l>alde<s n="post"/></l><r>atop<s n="adv"/></r></p></e>
+    <e w="1">><p><l>alde<s n="post"/></l><r>surmounted<s n="adv"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="post"/></l><r>more<s n="det"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="post"/></l><r>over<s n="n"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="post"/></l><r>over<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjel<s n="post"/></l><r>more<s n="pr"/></r></p></e>
+    <e><p><l>badjel<s n="post"/></l><r>over<s n="pr"/></r></p></e>
+    <e><p><l>badjel<s n="post"/></l><r>over<s n="pr"/></r></p></e>
+    <e w="1">><p><l>badjel<s n="post"/></l><r>overboard<s n="adv"/></r></p></e>
+    <e w="1">><p><l>badjel<s n="post"/></l><r>across<s n="adv"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="post"/></l><r>o'er<s n="adv"/></r></p></e>
+    <e w="1">><p><l>badjel<s n="post"/></l><r>over<s n="adv"/></r></p></e>
+    <e w="1">><p><l>badjel<s n="post"/></l><r>over<s n="adv"/></r></p></e>
+    <e w="1">><p><l>badjel<s n="post"/></l><r>over<s n="adv"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="pr"/></l><r>more<s n="det"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="pr"/></l><r>over<s n="n"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="pr"/></l><r>over<s n="n"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="pr"/></l><r>more<s n="pr"/></r></p></e>
+    <e><p><l>badjel<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
+    <e><p><l>badjel<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="pr"/></l><r>overboard<s n="adv"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="pr"/></l><r>across<s n="adv"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="pr"/></l><r>o'er<s n="adv"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="pr"/></l><r>over<s n="adv"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="pr"/></l><r>over<s n="adv"/></r></p></e>
+    <e w="2">><p><l>badjel<s n="pr"/></l><r>over<s n="adv"/></r></p></e>
+    <e><p><l>badjel<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
+    <e w="1">><p><l>badjel<s n="pr"/></l><r>over<s n="adv"/></r></p></e>
+    <e><p><l>badjelii<s n="post"/></l><r>over<s n="pr"/></r></p></e>
+    <e w="1">><p><l>badjelii<s n="post"/></l><r>over<s n="adv"/></r></p></e>
+    <e w="2">><p><l>badjelis<s n="post"/></l><r>supra<s n="adv"/></r></p></e>
+    <e><p><l>bajábealde<s n="post"/></l><r>above<s n="pr"/></r></p></e>
+    <e w="1">><p><l>bajábealde<s n="post"/></l><r>above<s n="adv"/></r></p></e>
+    <e w="1">><p><l>bajábealde<s n="post"/></l><r>overhead<s n="adv"/></r></p></e>
+    <e w="1">><p><l>bajábealde<s n="post"/></l><r>overlooking<s n="adv"/></r></p></e>
+    <e w="1">><p><l>bajábealde<s n="post"/></l><r>over<s n="adv"/></r></p></e>
+    <e w="1">><p><l>bealde<s n="post"/></l><r>side<s n="adv"/></r></p></e>
+    <e w="1">><p><l>bealde<s n="post"/></l><r>on<s n="pr"/></r></p></e>
+    <e w="1">><p><l>bealde<s n="post"/></l><r>behalf<s n="adv"/></r></p></e>
+    <e w="1">><p><l>bealde<s n="post"/></l><r>from<s n="pr"/></r></p></e>
+    <e><p><l>beales<s n="post"/></l><r>behalf<s n="pr"/></r></p></e>
+    <e w="1">><p><l>beales<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e w="1">><p><l>beales<s n="post"/></l><r>on<s n="pr"/></r></p></e>
+    <e w="1">><p><l>beales<s n="post"/></l><r>behalf<s n="adv"/></r></p></e>
+    <e w="1">><p><l>beales<s n="post"/></l><r>pro<s n="adv"/></r></p></e>
+    <e w="1">><p><l>bealis<s n="post"/></l><r>half<s n="pr"/></r></p></e>
+    <e w="1">><p><l>beallái<s n="post"/></l><r>side<s n="adv"/></r></p></e>
+    <e><p><l>beallái<s n="post"/></l><r>side<s n="pr"/></r></p></e>
+    <e w="1">><p><l>beallái<s n="post"/></l><r>behalf<s n="adv"/></r></p></e>
+    <e><p><l>birra<s n="post"/></l><r>round<s n="pr"/></r></p></e>
+    <e w="1">><p><l>birra<s n="post"/></l><r>about<s n="adv"/></r></p></e>
+    <e w="1">><p><l>birra<s n="post"/></l><r>around<s n="adv"/></r></p></e>
+    <e w="1">><p><l>birra<s n="post"/></l><r>circularly<s n="adv"/></r></p></e>
+    <e w="1">><p><l>birra<s n="post"/></l><r>round<s n="adv"/></r></p></e>
+    <e w="1">><p><l>birra<s n="post"/></l><r>around<s n="adv"/></r></p></e>
+    <e w="1">><p><l>birra<s n="post"/></l><r>around<s n="adv"/></r></p></e>
+    <e><p><l>birra<s n="post"/></l><r>around<s n="pr"/></r></p></e>
+    <e><p><l>birra<s n="post"/></l><r>around<s n="pr"/></r></p></e>
+    <e w="1">><p><l>birra<s n="post"/></l><r>around<s n="adv"/></r></p></e>
+    <e w="1">><p><l>birra<s n="post"/></l><r>around<s n="adv"/></r></p></e>
+    <e w="1">><p><l>birra<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+    <e w="1">><p><l>birra<s n="pr"/></l><r>as<s n="pr"/></r></p></e>
+    <e><p><l>birra<s n="pr"/></l><r>concerning<s n="pr"/></r></p></e>
+    <e w="1">><p><l>birra<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e w="1">><p><l>birra<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
+    <e><p><l>birra<s n="pr"/></l><r>regarding<s n="pr"/></r></p></e>
+    <e w="1">><p><l>birra<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+    <e w="1">><p><l>birra<s n="pr"/></l><r>about<s n="adv"/></r></p></e>
+    <e><p><l>bokte<s n="post"/></l><r>via<s n="pr"/></r></p></e>
+    <e><p><l>botnis<s n="post"/></l><r>bottom<s n="pr"/></r></p></e>
+    <e><p><l>buohta<s n="post"/></l><r>across<s n="pr"/></r></p></e>
+    <e w="1">><p><l>buohta<s n="post"/></l><r>oppositely<s n="adv"/></r></p></e>
+    <e w="1">><p><l>buohta<s n="post"/></l><r>opposite<s n="adv"/></r></p></e>
+    <e w="1">><p><l>buorrin<s n="post"/></l><r>for<s n="pr"/></r></p></e>
+    <e><p><l>báldda<s n="post"/></l><r>around<s n="pr"/></r></p></e>
+    <e w="1">><p><l>bálddas<s n="post"/></l><r>side<s n="pr"/></r></p></e>
+    <e w="1">><p><l>bálddas<s n="post"/></l><r>side<s n="pr"/></r></p></e>
+    <e w="1">><p><l>bálddas<s n="post"/></l><r>alongside<s n="adv"/></r></p></e>
+    <e w="1">><p><l>bálddas<s n="post"/></l><r>abreast<s n="adv"/></r></p></e>
+    <e><p><l>bálddas<s n="post"/></l><r>beside<s n="pr"/></r></p></e>
+    <e><p><l>bálddas<s n="post"/></l><r>next<s n="pr"/></r></p></e>
+    <e w="1">><p><l>bálddas<s n="post"/></l><r>alongside<s n="adv"/></r></p></e>
+    <e><p><l>báldii<s n="post"/></l><r>beside<s n="pr"/></r></p></e>
+    <e w="1">><p><l>báldii<s n="post"/></l><r>abreast<s n="adv"/></r></p></e>
+    <e w="1">><p><l>báldii<s n="post"/></l><r>next<s n="pr"/></r></p></e>
+    <e w="1">><p><l>báldii<s n="post"/></l><r>next<s n="pr"/></r></p></e>
+    <e w="1">><p><l>báldii<s n="post"/></l><r>next<s n="adv"/></r></p></e>
+    <e w="1">><p><l>báldii<s n="post"/></l><r>next<s n="pr"/></r></p></e>
+    <e><p><l>dihte<s n="post"/></l><r>as<s n="pr"/></r></p></e>
+    <e w="1">><p><l>dihte<s n="post"/></l><r>thank<s n="pr"/></r></p></e>
+    <e w="1">><p><l>dihte<s n="post"/></l><r>thank<s n="adv"/></r></p></e>
+    <e><p><l>dihte<s n="post"/></l><r>for<s n="pr"/></r></p></e>
+    <e><p><l>dihte<s n="post"/></l><r>because<s n="pr"/></r></p></e>
+    <e><p><l>dihte<s n="post"/></l><r>due<s n="pr"/></r></p></e>
+    <e w="1">><p><l>dihte<s n="post"/></l><r>for<s n="pr"/></r></p></e>
+    <e w="1">><p><l>dihte<s n="post"/></l><r>behalf<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dihte<s n="post"/></l><r>sake<s n="adv"/></r></p></e>
+    <e><p><l>dihte<s n="post"/></l><r>for<s n="pr"/></r></p></e>
+    <e w="1">><p><l>dihte<s n="post"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dihte<s n="post"/></l><r>because<s n="pr"/></r></p></e>
+    <e w="1">><p><l>duogi<s n="post"/></l><r>from<s n="adv"/></r></p></e>
+    <e w="1">><p><l>duogi<s n="post"/></l><r>behind<s n="adv"/></r></p></e>
+    <e w="1">><p><l>duogi<s n="post"/></l><r>from<s n="adv"/></r></p></e>
+    <e><p><l>duohken<s n="post"/></l><r>by<s n="pr"/></r></p></e>
+    <e w="1">><p><l>duohken<s n="post"/></l><r>by<s n="adv"/></r></p></e>
+    <e w="1">><p><l>duohken<s n="post"/></l><r>by<s n="adv"/></r></p></e>
+    <e w="1">><p><l>duohken<s n="post"/></l><r>from<s n="pr"/></r></p></e>
+    <e w="1">><p><l>duohken<s n="post"/></l><r>from<s n="adv"/></r></p></e>
+    <e><p><l>duohken<s n="post"/></l><r>behind<s n="pr"/></r></p></e>
+    <e w="1">><p><l>duohken<s n="post"/></l><r>after<s n="adv"/></r></p></e>
+    <e w="1">><p><l>duohken<s n="post"/></l><r>after<s n="adv"/></r></p></e>
+    <e w="1">><p><l>duohken<s n="post"/></l><r>behind<s n="adv"/></r></p></e>
+    <e w="1">><p><l>duohken<s n="post"/></l><r>behind<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dáfus<s n="post"/></l><r>according<s n="adv"/></r></p></e>
+    <e w="1">><p><l>eará<s n="post"/></l><r>amongst<s n="adv"/></r></p></e>
+    <e><p><l>ektui<s n="post"/></l><r>regarding<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ektui<s n="post"/></l><r>regarding<s n="adv"/></r></p></e>
+    <e><p><l>eret<s n="post"/></l><r>detached<s n="pr"/></r></p></e>
+    <e w="1">><p><l>eret<s n="post"/></l><r>loose<s n="adv"/></r></p></e>
+    <e><p><l>fuolakeahttá<s n="post"/></l><r>despite<s n="pr"/></r></p></e>
+    <e><p><l>fuolakeahttá<s n="post"/></l><r>regardless<s n="pr"/></r></p></e>
+    <e w="1">><p><l>fuolakeahttá<s n="post"/></l><r>irregardless<s n="adv"/></r></p></e>
+    <e w="1">><p><l>fuolakeahttá<s n="post"/></l><r>no matter<s n="adv"/></r></p></e>
+    <e w="1">><p><l>fuolakeahttá<s n="post"/></l><r>notwithstanding<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskan<s n="post"/></l><r>between<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskii<s n="post"/></l><r>amidst<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskii<s n="post"/></l><r>between<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskii<s n="post"/></l><r>between<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskii<s n="post"/></l><r>betwixt<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskii<s n="post"/></l><r>'tween<s n="adv"/></r></p></e>
+    <e><p><l>gaskii<s n="post"/></l><r>between<s n="pr"/></r></p></e>
+    <e w="1">><p><l>gaskka<s n="post"/></l><r>between<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskka<s n="post"/></l><r>betwixt<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskka<s n="post"/></l><r>occasionally<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskka<s n="post"/></l><r>'tween<s n="adv"/></r></p></e>
+    <e><p><l>gaskka<s n="post"/></l><r>between<s n="pr"/></r></p></e>
+    <e w="1">><p><l>gaskka<s n="post"/></l><r>occasionally<s n="adv"/></r></p></e>
+    <e><p><l>gaskka<s n="post"/></l><r>between<s n="pr"/></r></p></e>
+    <e w="1">><p><l>gaskkas<s n="post"/></l><r>middle<s n="pr"/></r></p></e>
+    <e><p><l>gaskkas<s n="post"/></l><r>middle<s n="pr"/></r></p></e>
+    <e w="1">><p><l>gaskkas<s n="post"/></l><r>amidst<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskkas<s n="post"/></l><r>with<s n="pr"/></r></p></e>
+    <e w="1">><p><l>gaskkas<s n="post"/></l><r>between<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskkas<s n="post"/></l><r>betwixt<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskkas<s n="post"/></l><r>'tween<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskkas<s n="post"/></l><r>between<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskkas<s n="post"/></l><r>between<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskkas<s n="post"/></l><r>betwixt<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskkas<s n="post"/></l><r>in<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gaskkas<s n="post"/></l><r>'tween<s n="adv"/></r></p></e>
+    <e><p><l>gasku<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>gasku<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>gasku<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="post"/></l><r>centered<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="post"/></l><r>centre<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="post"/></l><r>centrical<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="post"/></l><r>centric<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="post"/></l><r>in<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="post"/></l><r>in the midst<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="post"/></l><r>midmost<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="post"/></l><r>midst<s n="adv"/></r></p></e>
+    <e><p><l>gasku<s n="pr"/></l><r>amid<s n="pr"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>amidst<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>centered<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>centre<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>centrical<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>centric<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>in<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>in the midst<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>midmost<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>midst<s n="adv"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>middle<s n="pr"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>middle<s n="pr"/></r></p></e>
+    <e w="1">><p><l>gasku<s n="pr"/></l><r>amidst<s n="adv"/></r></p></e>
+    <e w="1">><p><l>geahčai<s n="post"/></l><r>to<s n="adv"/></r></p></e>
+    <e><p><l>geažes<s n="post"/></l><r>after<s n="pr"/></r></p></e>
+    <e><p><l>geažes<s n="post"/></l><r>after<s n="pr"/></r></p></e>
+    <e w="1">><p><l>geažil<s n="post"/></l><r>thanks<s n="adv"/></r></p></e>
+    <e><p><l>geažil<s n="post"/></l><r>according<s n="pr"/></r></p></e>
+    <e w="1">><p><l>geažis<s n="post"/></l><r>in<s n="adv"/></r></p></e>
+    <e><p><l>guoras<s n="post"/></l><r>aside<s n="pr"/></r></p></e>
+    <e><p><l>gurrii<s n="post"/></l><r>aside<s n="pr"/></r></p></e>
+    <e w="1">><p><l>gurrii<s n="post"/></l><r>nearby<s n="adv"/></r></p></e>
+    <e w="1">><p><l>guvlui<s n="post"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>guvlui<s n="post"/></l><r>toward<s n="pr"/></r></p></e>
+    <e><p><l>guvlui<s n="post"/></l><r>towards<s n="pr"/></r></p></e>
+    <e w="1">><p><l>guvlui<s n="post"/></l><r>squarely<s n="adv"/></r></p></e>
+    <e w="1">><p><l>guvlui<s n="post"/></l><r>square<s n="adv"/></r></p></e>
+    <e w="1">><p><l>guvlui<s n="post"/></l><r>toward<s n="adv"/></r></p></e>
+    <e w="1">><p><l>guvlui<s n="post"/></l><r>towards<s n="adv"/></r></p></e>
+    <e w="1">><p><l>haga<s n="post"/></l><r>but<s n="pr"/></r></p></e>
+    <e><p><l>haga<s n="post"/></l><r>without<s n="pr"/></r></p></e>
+    <e><p><l>haga<s n="post"/></l><r>without<s n="pr"/></r></p></e>
+    <e w="1">><p><l>haga<s n="post"/></l><r>without<s n="adv"/></r></p></e>
+    <e w="2">><p><l>haga<s n="post"/></l><r>free<s n="adv"/></r></p></e>
+    <e w="1">><p><l>haga<s n="post"/></l><r>without<s n="adv"/></r></p></e>
+    <e><p><l>haga<s n="post"/></l><r>without<s n="pr"/></r></p></e>
+    <e w="1">><p><l>haga<s n="post"/></l><r>short<s n="adv"/></r></p></e>
+    <e><p><l>hárrái<s n="post"/></l><r>regaring<s n="pr"/></r></p></e>
+    <e w="1">><p><l>hárrái<s n="post"/></l><r>regardingly<s n="adv"/></r></p></e>
+    <e><p><l>lahka<s n="post"/></l><r>near<s n="pr"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>almost<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>close<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>nearly<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>near<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>around<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>nearby<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>nearby<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>near<s n="adv"/></r></p></e>
+    <e><p><l>lahka<s n="post"/></l><r>near<s n="pr"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>nigh<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>near<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>near<s n="adv"/></r></p></e>
+    <e><p><l>lahka<s n="post"/></l><r>near<s n="pr"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>closely<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>close up<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="post"/></l><r>closely<s n="adv"/></r></p></e>
+    <e><p><l>lahka<s n="pr"/></l><r>near<s n="pr"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>close<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>near<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>near<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>near<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>around<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>at hand<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>close at hand<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>close<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>closely<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>close<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>hot<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>nearby<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>nearby<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>near<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>near<s n="pr"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>nigh<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>near<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lahka<s n="pr"/></l><r>near<s n="adv"/></r></p></e>
+    <e><p><l>luhtte<s n="post"/></l><r>by<s n="pr"/></r></p></e>
+    <e w="1">><p><l>luhtte<s n="post"/></l><r>by<s n="adv"/></r></p></e>
+    <e w="1">><p><l>luhtte<s n="post"/></l><r>by<s n="adv"/></r></p></e>
+    <e w="1">><p><l>luhtte<s n="post"/></l><r>from<s n="pr"/></r></p></e>
+    <e w="1">><p><l>luhtte<s n="post"/></l><r>from<s n="adv"/></r></p></e>
+    <e w="1">><p><l>luhtte<s n="post"/></l><r>near<s n="pr"/></r></p></e>
+    <e w="1">><p><l>luhtte<s n="post"/></l><r>close<s n="adv"/></r></p></e>
+    <e w="1">><p><l>luhtte<s n="post"/></l><r>near<s n="adv"/></r></p></e>
+    <e w="1">><p><l>luhtte<s n="post"/></l><r>near<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lusa<s n="post"/></l><r>towards<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lusa<s n="post"/></l><r>around<s n="pr"/></r></p></e>
+    <e><p><l>lusa<s n="post"/></l><r>towards<s n="pr"/></r></p></e>
+    <e w="1">><p><l>lusa<s n="post"/></l><r>nearby<s n="adv"/></r></p></e>
+    <e w="1">><p><l>lusa<s n="post"/></l><r>unto<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>maŋil<s n="post"/></l><r>behind<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋis<s n="post"/></l><r>behindhand<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋis<s n="post"/></l><r>behindhand<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋis<s n="post"/></l><r>behind<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋis<s n="post"/></l><r>down<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋis<s n="post"/></l><r>down<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋis<s n="post"/></l><r>slow<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋis<s n="post"/></l><r>aft<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋis<s n="post"/></l><r>astern<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋis<s n="post"/></l><r>behind<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋis<s n="post"/></l><r>in<s n="adv"/></r></p></e>
+    <e><p><l>maŋŋel<s n="post"/></l><r>after<s n="pr"/></r></p></e>
+    <e><p><l>maŋŋel<s n="post"/></l><r>after<s n="pr"/></r></p></e>
+    <e w="1">><p><l>maŋŋel<s n="post"/></l><r>after<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋŋel<s n="post"/></l><r>after<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋŋel<s n="post"/></l><r>afterwards<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋŋel<s n="post"/></l><r>behind<s n="adv"/></r></p></e>
+    <e><p><l>maŋŋá<s n="post"/></l><r>after<s n="pr"/></r></p></e>
+    <e><p><l>maŋŋá<s n="post"/></l><r>after<s n="pr"/></r></p></e>
+    <e w="1">><p><l>maŋŋá<s n="post"/></l><r>after<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋŋá<s n="post"/></l><r>after<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋŋá<s n="post"/></l><r>afterwards<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋŋá<s n="post"/></l><r>behind<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋŋái<s n="post"/></l><r>astern<s n="adv"/></r></p></e>
+    <e w="1">><p><l>maŋŋái<s n="post"/></l><r>behind<s n="adv"/></r></p></e>
+    <e><p><l>meaddil<s n="post"/></l><r>past<s n="pr"/></r></p></e>
+    <e w="1">><p><l>meaddil<s n="post"/></l><r>by<s n="adv"/></r></p></e>
+    <e><p><l>meattá<s n="post"/></l><r>beyond<s n="pr"/></r></p></e>
+    <e><p><l>meattá<s n="post"/></l><r>over<s n="pr"/></r></p></e>
+    <e w="1">><p><l>meattá<s n="post"/></l><r>by<s n="adv"/></r></p></e>
+    <e w="1">><p><l>meattá<s n="post"/></l><r>over<s n="adv"/></r></p></e>
+    <e w="1">><p><l>meattá<s n="post"/></l><r>past<s n="adv"/></r></p></e>
+    <e><p><l>miehtá<s n="post"/></l><r>through<s n="pr"/></r></p></e>
+    <e w="1">><p><l>miehtá<s n="post"/></l><r>up<s n="pr"/></r></p></e>
+    <e w="1">><p><l>miehtá<s n="post"/></l><r>along<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>included<s n="pr"/></r></p></e>
+    <e><p><l>mielde<s n="post"/></l><r>according<s n="pr"/></r></p></e>
+    <e><p><l>mielde<s n="post"/></l><r>according<s n="pr"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>with<s n="pr"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>including<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>according<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>according<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>along<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>pursuant<s n="adv"/></r></p></e>
+    <e><p><l>mielde<s n="post"/></l><r>along<s n="pr"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>aboard<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>along<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>along<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>included<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>in on<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>with<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>together<s n="pr"/></r></p></e>
+    <e><p><l>mielde<s n="post"/></l><r>with<s n="pr"/></r></p></e>
+    <e><p><l>mielde<s n="post"/></l><r>with<s n="pr"/></r></p></e>
+    <e><p><l>mielde<s n="post"/></l><r>with<s n="pr"/></r></p></e>
+    <e w="1">><p><l>mielde<s n="post"/></l><r>as well<s n="adv"/></r></p></e>
+    <e><p><l>nala<s n="post"/></l><r>onto<s n="pr"/></r></p></e>
+    <e w="1">><p><l>nala<s n="post"/></l><r>unto<s n="pr"/></r></p></e>
+    <e w="1">><p><l>nala<s n="post"/></l><r>atop<s n="adv"/></r></p></e>
+    <e w="1">><p><l>nala<s n="post"/></l><r>on<s n="adv"/></r></p></e>
+    <e w="1">><p><l>nalde<s n="post"/></l><r>afloat<s n="pr"/></r></p></e>
+    <e w="1">><p><l>nalde<s n="post"/></l><r>afloat<s n="adv"/></r></p></e>
+    <e w="1">><p><l>nalde<s n="post"/></l><r>on<s n="pr"/></r></p></e>
+    <e w="1">><p><l>nalde<s n="post"/></l><r>up<s n="pr"/></r></p></e>
+    <e w="1">><p><l>nalde<s n="post"/></l><r>atop<s n="adv"/></r></p></e>
+    <e w="1">><p><l>nalde<s n="post"/></l><r>surmounted<s n="adv"/></r></p></e>
+    <e w="1">><p><l>nalde<s n="post"/></l><r>over<s n="adv"/></r></p></e>
+    <e w="1">><p><l>njeaiga<s n="post"/></l><r>at<s n="pr"/></r></p></e>
+    <e><p><l>njeaiga<s n="post"/></l><r>towards<s n="pr"/></r></p></e>
+    <e w="1">><p><l>njeaiga<s n="post"/></l><r>squarely<s n="adv"/></r></p></e>
+    <e w="1">><p><l>njeaiga<s n="post"/></l><r>square<s n="adv"/></r></p></e>
+    <e><p><l>njeaigga<s n="post"/></l><r>against<s n="pr"/></r></p></e>
+    <e w="1">><p><l>njeaigga<s n="post"/></l><r>against<s n="adv"/></r></p></e>
+    <e w="1">><p><l>olggobealde<s n="post"/></l><r>outside<s n="adv"/></r></p></e>
+    <e><p><l>olggobealde<s n="post"/></l><r>outside<s n="pr"/></r></p></e>
+    <e w="1">><p><l>olggobealde<s n="post"/></l><r>outside<s n="adv"/></r></p></e>
+    <e w="1">><p><l>olggobeallai<s n="post"/></l><r>outside<s n="adv"/></r></p></e>
+    <e w="1">><p><l>olggobeallai<s n="post"/></l><r>ex vivo<s n="adv"/></r></p></e>
+    <e w="1">><p><l>olggobeallai<s n="post"/></l><r>in vitro<s n="adv"/></r></p></e>
+    <e w="1">><p><l>olgobealde<s n="post"/></l><r>in<s n="post"/></r></p></e>
+    <e w="1">><p><l>olgobealde<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e w="1">><p><l>olgobealde<s n="post"/></l><r>right<s n="pr"/></r></p></e>
+    <e w="1">><p><l>olgobealde<s n="post"/></l><r>front<s n="adv"/></r></p></e>
+    <e w="1">><p><l>olgobealde<s n="post"/></l><r>in front of<s n="adv"/></r></p></e>
+    <e w="1">><p><l>olgobealde<s n="post"/></l><r>in front<s n="adv"/></r></p></e>
+    <e w="1">><p><l>olgobealde<s n="post"/></l><r>out front<s n="adv"/></r></p></e>
+    <e><p><l>olgobealde<s n="post"/></l><r>outside<s n="pr"/></r></p></e>
+    <e w="1">><p><l>olgobealde<s n="post"/></l><r>outside<s n="adv"/></r></p></e>
+    <e><p><l>olgobealde<s n="post"/></l><r>outside<s n="pr"/></r></p></e>
+    <e w="1">><p><l>olgobealde<s n="post"/></l><r>outside<s n="adv"/></r></p></e>
+    <e><p><l>ovdal<s n="post"/></l><r>before<s n="pr"/></r></p></e>
+    <e><p><l>ovdal<s n="post"/></l><r>before<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="post"/></l><r>ahead<s n="pr"/></r></p></e>
+    <e><p><l>ovdal<s n="post"/></l><r>before<s n="pr"/></r></p></e>
+    <e><p><l>ovdal<s n="post"/></l><r>before<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="post"/></l><r>prior<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="post"/></l><r>before<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="post"/></l><r>above<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="post"/></l><r>especially<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="post"/></l><r>first<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="post"/></l><r>beforehands<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="post"/></l><r>before<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="post"/></l><r>in<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="post"/></l><r>before<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="post"/></l><r>erst<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="post"/></l><r>formerly<s n="adv"/></r></p></e>
+    <e><p><l>ovdal<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
+    <e><p><l>ovdal<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="pr"/></l><r>ahead<s n="pr"/></r></p></e>
+    <e><p><l>ovdal<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
+    <e><p><l>ovdal<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="pr"/></l><r>prior<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="pr"/></l><r>before<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="pr"/></l><r>above<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="pr"/></l><r>especially<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="pr"/></l><r>first<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="pr"/></l><r>beforehands<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="pr"/></l><r>before<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="pr"/></l><r>in<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="pr"/></l><r>before<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="pr"/></l><r>erst<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="pr"/></l><r>formerly<s n="adv"/></r></p></e>
+    <e><p><l>ovddal<s n="post"/></l><r>across<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ovddal<s n="post"/></l><r>against<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovddas<s n="post"/></l><r>in<s n="post"/></r></p></e>
+    <e w="1">><p><l>ovddas<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ovddas<s n="post"/></l><r>right<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ovddas<s n="post"/></l><r>front<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovddas<s n="post"/></l><r>in front of<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovddas<s n="post"/></l><r>in front<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovddas<s n="post"/></l><r>out front<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovddas<s n="post"/></l><r>before<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ovddas<s n="post"/></l><r>for<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovddas<s n="post"/></l><r>in the way<s n="adv"/></r></p></e>
+    <e><p><l>ovdii<s n="post"/></l><r>ahead<s n="pr"/></r></p></e>
+    <e><p><l>ovdii<s n="post"/></l><r>ahead<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ovdii<s n="post"/></l><r>forward<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ovdii<s n="post"/></l><r>way<s n="pr"/></r></p></e>
+    <e w="1">><p><l>rastá<s n="post"/></l><r>split<s n="adv"/></r></p></e>
+    <e w="1">><p><l>rastá<s n="post"/></l><r>over<s n="pr"/></r></p></e>
+    <e w="1">><p><l>rastá<s n="post"/></l><r>over<s n="adv"/></r></p></e>
+    <e><p><l>rádjái<s n="post"/></l><r>until<s n="pr"/></r></p></e>
+    <e><p><l>rádjái<s n="post"/></l><r>until<s n="pr"/></r></p></e>
+    <e w="1">><p><l>rádjái<s n="post"/></l><r>up<s n="pr"/></r></p></e>
+    <e w="1">><p><l>rádjái<s n="post"/></l><r>until<s n="adv"/></r></p></e>
+    <e w="1">><p><l>rádjái<s n="post"/></l><r>until<s n="adv"/></r></p></e>
+    <e w="1">><p><l>rádjái<s n="post"/></l><r>till<s n="pr"/></r></p></e>
+    <e><p><l>rádjái<s n="post"/></l><r>until<s n="pr"/></r></p></e>
+    <e w="1">><p><l>rádjái<s n="post"/></l><r>until<s n="adv"/></r></p></e>
+    <e><p><l>ráigge<s n="post"/></l><r>along<s n="pr"/></r></p></e>
+    <e><p><l>ráigge<s n="post"/></l><r>along<s n="pr"/></r></p></e>
+    <e w="1">><p><l>ráigge<s n="post"/></l><r>apart<s n="adv"/></r></p></e>
+    <e w="1">><p><l>rájes<s n="post"/></l><r>from<s n="pr"/></r></p></e>
+    <e w="1">><p><l>rájes<s n="post"/></l><r>initially<s n="adv"/></r></p></e>
+    <e w="1">><p><l>rájes<s n="post"/></l><r>ever<s n="pr"/></r></p></e>
+    <e w="1">><p><l>rájes<s n="post"/></l><r>from<s n="pr"/></r></p></e>
+    <e w="1">><p><l>rájes<s n="post"/></l><r>forward<s n="adv"/></r></p></e>
+    <e w="1">><p><l>sadjái<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>sadjái<s n="post"/></l><r>instead<s n="pr"/></r></p></e>
+    <e><p><l>sadjái<s n="post"/></l><r>instead<s n="pr"/></r></p></e>
+    <e w="1">><p><l>sadjái<s n="post"/></l><r>instead<s n="adv"/></r></p></e>
+    <e w="1">><p><l>sajis<s n="post"/></l><r>instead<s n="adv"/></r></p></e>
+    <e w="1">><p><l>sajis<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>sisa<s n="post"/></l><r>amid<s n="pr"/></r></p></e>
+    <e w="1">><p><l>sisa<s n="post"/></l><r>amidst<s n="adv"/></r></p></e>
+    <e><p><l>sisa<s n="post"/></l><r>amidst<s n="pr"/></r></p></e>
+    <e w="1">><p><l>sisa<s n="post"/></l><r>with<s n="pr"/></r></p></e>
+    <e w="1">><p><l>sisa<s n="post"/></l><r>mixed-up<s n="adv"/></r></p></e>
+    <e w="1">><p><l>sisa<s n="post"/></l><r>inside<s n="adv"/></r></p></e>
+    <e><p><l>sisa<s n="post"/></l><r>into<s n="pr"/></r></p></e>
+    <e w="1">><p><l>sisa<s n="post"/></l><r>inside<s n="adv"/></r></p></e>
+    <e w="1">><p><l>sisa<s n="post"/></l><r>inwards<s n="adv"/></r></p></e>
+    <e w="1">><p><l>sisa<s n="post"/></l><r>inside<s n="adv"/></r></p></e>
+    <e w="1">><p><l>siskkil<s n="post"/></l><r>within<s n="adv"/></r></p></e>
+    <e w="1">><p><l>siskkil<s n="post"/></l><r>within<s n="adv"/></r></p></e>
+    <e><p><l>siste<s n="post"/></l><r>amid<s n="pr"/></r></p></e>
+    <e><p><l>siste<s n="post"/></l><r>within<s n="pr"/></r></p></e>
+    <e w="1">><p><l>siste<s n="post"/></l><r>amongst<s n="adv"/></r></p></e>
+    <e w="1">><p><l>siste<s n="post"/></l><r>amidst<s n="adv"/></r></p></e>
+    <e w="1">><p><l>siste<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e w="1">><p><l>siste<s n="post"/></l><r>inside<s n="adv"/></r></p></e>
+    <e><p><l>siste<s n="post"/></l><r>inside<s n="pr"/></r></p></e>
+    <e><p><l>siste<s n="post"/></l><r>inside<s n="pr"/></r></p></e>
+    <e w="1">><p><l>siste<s n="post"/></l><r>in<s n="adv"/></r></p></e>
+    <e w="1">><p><l>siste<s n="post"/></l><r>in play<s n="adv"/></r></p></e>
+    <e w="1">><p><l>siste<s n="post"/></l><r>inside<s n="adv"/></r></p></e>
+    <e><p><l>siste<s n="post"/></l><r>inside<s n="pr"/></r></p></e>
+    <e w="1">><p><l>siste<s n="post"/></l><r>in<s n="adv"/></r></p></e>
+    <e w="1">><p><l>siste<s n="post"/></l><r>in<s n="adv"/></r></p></e>
+    <e><p><l>siste<s n="post"/></l><r>inside<s n="pr"/></r></p></e>
+    <e><p><l>siste<s n="post"/></l><r>inside<s n="pr"/></r></p></e>
+    <e w="1">><p><l>veagas<s n="post"/></l><r>based<s n="pr"/></r></p></e>
+    <e w="1">><p><l>veagas<s n="post"/></l><r>supported<s n="pr"/></r></p></e>
+    <e w="1">><p><l>veardde<s n="post"/></l><r>amount<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuolde<s n="post"/></l><r>below<s n="pr"/></r></p></e>
+    <e><p><l>vuolde<s n="post"/></l><r>at a lower place<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuolde<s n="post"/></l><r>below<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuolde<s n="post"/></l><r>beneath<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuolde<s n="post"/></l><r>down<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuolde<s n="post"/></l><r>underneath<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuolde<s n="post"/></l><r>underneath<s n="adv"/></r></p></e>
+    <e><p><l>vuolde<s n="post"/></l><r>below<s n="pr"/></r></p></e>
+    <e><p><l>vuolde<s n="post"/></l><r>under<s n="pr"/></r></p></e>
+    <e><p><l>vuolde<s n="post"/></l><r>under<s n="pr"/></r></p></e>
+    <e><p><l>vuolde<s n="post"/></l><r>beneath<s n="pr"/></r></p></e>
+    <e w="1">><p><l>vuolde<s n="post"/></l><r>upon<s n="pr"/></r></p></e>
+    <e w="1">><p><l>vuolde<s n="post"/></l><r>under<s n="adv"/></r></p></e>
+    <e><p><l>vuolde<s n="post"/></l><r>under<s n="pr"/></r></p></e>
+    <e w="1">><p><l>vuolde<s n="post"/></l><r>under<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuolil<s n="post"/></l><r>under<s n="adv"/></r></p></e>
+    <e><p><l>vuolil<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
+    <e><p><l>vuolil<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
+    <e><p><l>vuolil<s n="pr"/></l><r>beneath<s n="pr"/></r></p></e>
+    <e w="1">><p><l>vuolil<s n="pr"/></l><r>below<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuolil<s n="pr"/></l><r>below<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuolil<s n="pr"/></l><r>beneath<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuolil<s n="pr"/></l><r>less<s n="adv"/></r></p></e>
+    <e w="11">><p><l>vuolil<s n="pr"/></l><r>short<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuolil<s n="pr"/></l><r>to a lower place<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuollái<s n="post"/></l><r>below<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuollái<s n="post"/></l><r>below<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuollái<s n="post"/></l><r>beneath<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuollái<s n="post"/></l><r>to a lower place<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuollái<s n="post"/></l><r>under<s n="adv"/></r></p></e>
+    <e><p><l>vuollái<s n="post"/></l><r>below<s n="pr"/></r></p></e>
+    <e><p><l>vuollái<s n="post"/></l><r>under<s n="pr"/></r></p></e>
+    <e><p><l>vuollái<s n="post"/></l><r>beneath<s n="pr"/></r></p></e>
+    <e w="1">><p><l>vuollái<s n="post"/></l><r>below<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuollái<s n="post"/></l><r>below<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuollái<s n="post"/></l><r>beneath<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuollái<s n="post"/></l><r>less<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuollái<s n="post"/></l><r>short<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuollái<s n="post"/></l><r>to a lower place<s n="adv"/></r></p></e>
+    <e><p><l>vuollái<s n="post"/></l><r>towards<s n="pr"/></r></p></e>
+    <e w="1">><p><l>vuollái<s n="post"/></l><r>towards<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuostá<s n="post"/></l><r>against<s n="pr"/></r></p></e>
+    <e w="1">><p><l>vuostá<s n="post"/></l><r>versus<s n="pr"/></r></p></e>
+    <e w="3">><p><l>vuostá<s n="post"/></l><r>con<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vuostái<s n="post"/></l><r>against<s n="pr"/></r></p></e>
+    <e><p><l>vuostái<s n="pr"/></l><r>against<s n="pr"/></r></p></e>
+    <e w="1">><p><l>vuostái<s n="pr"/></l><r>against<s n="adv"/></r></p></e>
+    <e><p><l>vuođul<s n="post"/></l><r>based<s n="pr"/></r></p></e>
+    <e w="1">><p><l>várás<s n="post"/></l><r>in<s n="adv"/></r></p></e>
+    <e w="1">><p><l>várás<s n="post"/></l><r>just in case<s n="adv"/></r></p></e>
+    <e w="1">><p><l>várás<s n="post"/></l><r>for<s n="pr"/></r></p></e>
+    <e w="1">><p><l>várás<s n="post"/></l><r>for<s n="adv"/></r></p></e>
+    <e><p><l>áigge<s n="post"/></l><r>during<s n="pr"/></r></p></e>
+    <e w="1">><p><l>áigge<s n="post"/></l><r>over<s n="pr"/></r></p></e>
+    <e w="1">><p><l>áigge<s n="post"/></l><r>during<s n="adv"/></r></p></e>
+    <e><p><l>čađa<s n="post"/></l><r>across<s n="pr"/></r></p></e>
+    <e><p><l>čađa<s n="post"/></l><r>throughout<s n="pr"/></r></p></e>
+    <e><p><l>čađa<s n="post"/></l><r>through<s n="pr"/></r></p></e>
+    <e><p><l>čađa<s n="post"/></l><r>through<s n="pr"/></r></p></e>
+    <e w="1">><p><l>čađa<s n="post"/></l><r>through<s n="adv"/></r></p></e>
+    <e w="1">><p><l>čađa<s n="post"/></l><r>throughout<s n="adv"/></r></p></e>
+    <e w="1">><p><l>čađa<s n="post"/></l><r>through<s n="adv"/></r></p></e>
+    <e w="1">><p><l>čađa<s n="post"/></l><r>through<s n="adv"/></r></p></e>
+    <e w="1">><p><l>čađa<s n="post"/></l><r>through<s n="adv"/></r></p></e>
+    <e w="1">><p><l>čađa<s n="post"/></l><r>via<s n="pr"/></r></p></e>
+    <e w="1">><p><l>čađa<s n="post"/></l><r>via<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ládje<s n="post"/></l><r>-wise<s n="adv"/></r></p></e>
+    <e w="2">><p><l>ja<s n="cnjcoo"/></l><r>nor<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ja<s n="cnjcoo"/></l><r>and<s n="n"/></r></p></e>
+    <e><p><l>ja<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>ja<s n="cnjcoo"/></l><r>and<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ja<s n="cnjcoo"/></l><r>and<s n="adv"/></r></p></e>
+    <e w="1">><p><l>ja<s n="cnjcoo"/></l><r>also<s n="adv"/></r></p></e>
+    <e><p><l>vai<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e><p><l>vai<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>vai<s n="cnjcoo"/></l><r>or<s n="adv"/></r></p></e>
+    <e><p><l>muhto<s n="cnjcoo"/></l><r>but<s n="pr"/></r></p></e>
+    <e><p><l>muhto<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+    <e><p><l>muhto<s n="cnjcoo"/></l><r>but<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>muhto<s n="cnjcoo"/></l><r>but<s n="adv"/></r></p></e>
+    <e w="2">><p><l>muhto<s n="cnjcoo"/></l><r>rather<s n="cnjcoo"/></r></p></e>
+    <e w="2">><p><l>muhto<s n="cnjcoo"/></l><r>instead<s n="adv"/></r></p></e>
+    <e><p><l>muhto<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+    <e w="2">><p><l>muhto<s n="cnjcoo"/></l><r>rather<s n="cnjsub"/></r></p></e>
+    <e w="2">><p><l>muhto<s n="cnjcoo"/></l><r>instead<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dahje<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>dahje<s n="cnjcoo"/></l><r>or<s n="adv"/></r></p></e>
+    <e w="1">><p><l>sihke<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e w="2">><p><l>sihke<s n="cnjcoo"/></l><r>as<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>sihke<s n="cnjcoo"/></l><r>both<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ele<s n="cnjcoo"/></l><r>so<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>ele<s n="cnjcoo"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dahjege<s n="cnjcoo"/></l><r>so<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>dahjege<s n="cnjcoo"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e><p><l>dahje<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e><p><l>dahje<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>dahje<s n="cnjcoo"/></l><r>or<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dahje<s n="cnjcoo"/></l><r>or<s n="adv"/></r></p></e>
+    <e><p><l>vai<s n="cnjcoo"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>vai<s n="cnjcoo"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>vai<s n="cnjcoo"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>vai<s n="cnjsub"/></l><r>so<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>vai<s n="cnjsub"/></l><r>so<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>vai<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>vai<s n="cnjsub"/></l><r>in<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vai<s n="cnjsub"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>vai<s n="cnjsub"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>vai<s n="cnjsub"/></l><r>or<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vai<s n="cnjsub"/></l><r>or<s n="adv"/></r></p></e>
+    <e><p><l>jos<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>jos<s n="cnjsub"/></l><r>provided<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>jos<s n="cnjsub"/></l><r>provided<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>jos<s n="cnjsub"/></l><r>providing<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>jos<s n="cnjsub"/></l><r>whether<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>jos<s n="cnjsub"/></l><r>whether<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>jos<s n="cnjsub"/></l><r>if<s n="adv"/></r></p></e>
+    <e w="1">><p><l>jos<s n="cnjsub"/></l><r>if<s n="adv"/></r></p></e>
+    <e><p><l>juos<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>juos<s n="cnjsub"/></l><r>provided<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>juos<s n="cnjsub"/></l><r>provided<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>juos<s n="cnjsub"/></l><r>providing<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>juos<s n="cnjsub"/></l><r>whether<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>juos<s n="cnjsub"/></l><r>whether<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>juos<s n="cnjsub"/></l><r>if<s n="adv"/></r></p></e>
+    <e w="1">><p><l>juos<s n="cnjsub"/></l><r>if<s n="adv"/></r></p></e>
+    <e><p><l>ahte<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>ahte<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>ahte<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>dasgo<s n="cnjsub"/></l><r>for<s n="cnjadv"/></r></p></e>
+    <e><p><l>dasgo<s n="cnjsub"/></l><r>for<s n="cnjadv"/></r></p></e>
+    <e><p><l>daningo<s n="cnjsub"/></l><r>because<s n="cnjadv"/></r></p></e>
+    <e><p><l>daningo<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>daningo<s n="cnjsub"/></l><r>for<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>daningo<s n="cnjsub"/></l><r>for<s n="cnjadv"/></r></p></e>
+    <e><p><l>daningo<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>daningo<s n="cnjsub"/></l><r>when<s n="adv"/></r></p></e>
+    <e><p><l>dego<s n="cnjsub"/></l><r>such<s n="pr"/></r></p></e>
+    <e w="1">><p><l>dego<s n="cnjsub"/></l><r>as<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dego<s n="cnjsub"/></l><r>just<s n="adv"/></r></p></e>
+    <e><p><l>dego<s n="cnjsub"/></l><r>like<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dego<s n="cnjsub"/></l><r>like<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dego<s n="cnjsub"/></l><r>such<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dego<s n="cnjsub"/></l><r>such<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dego<s n="cnjsub"/></l><r>such<s n="adv"/></r></p></e>
+    <e w="1">><p><l>go<s n="cnjsub"/></l><r>until<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>go<s n="cnjsub"/></l><r>after<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>go<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>go<s n="cnjsub"/></l><r>by<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>go<s n="cnjsub"/></l><r>when<s n="adv"/></r></p></e>
+    <e w="1">><p><l>go<s n="cnjsub"/></l><r>when<s n="rel"/></r></p></e>
+    <e><p><l>go<s n="cnjsub"/></l><r>when<s n="cnjadv"/></r></p></e>
+    <e><p><l>go<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>go<s n="cnjsub"/></l><r>whereas<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>go<s n="cnjsub"/></l><r>at<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>go<s n="cnjsub"/></l><r>at<s n="cnjadv"/></r></p></e>
+    <e><p><l>jus<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>jus<s n="cnjsub"/></l><r>provided<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>jus<s n="cnjsub"/></l><r>provided<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>jus<s n="cnjsub"/></l><r>providing<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>jus<s n="cnjsub"/></l><r>whether<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>jus<s n="cnjsub"/></l><r>whether<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>jus<s n="cnjsub"/></l><r>if<s n="adv"/></r></p></e>
+    <e w="1">><p><l>jus<s n="cnjsub"/></l><r>if<s n="adv"/></r></p></e>
+    <e w="1">><p><l>jus<s n="cnjsub"/></l><r>however<s n="adv"/></r></p></e>
+    <e><p><l>muhte<s n="cnjcoo"/></l><r>but<s n="pr"/></r></p></e>
+    <e><p><l>muhte<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+    <e><p><l>muhte<s n="cnjcoo"/></l><r>but<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>muhte<s n="cnjcoo"/></l><r>but<s n="adv"/></r></p></e>
+    <e w="1">><p><l>nugo<s n="cnjsub"/></l><r>such<s n="pr"/></r></p></e>
+    <e w="1">><p><l>nugo<s n="cnjsub"/></l><r>as<s n="adv"/></r></p></e>
+    <e w="1">><p><l>nugo<s n="cnjsub"/></l><r>just<s n="adv"/></r></p></e>
+    <e w="1">><p><l>nugo<s n="cnjsub"/></l><r>like<s n="adv"/></r></p></e>
+    <e w="1">><p><l>nugo<s n="cnjsub"/></l><r>like<s n="adv"/></r></p></e>
+    <e w="1">><p><l>nugo<s n="cnjsub"/></l><r>such<s n="adv"/></r></p></e>
+    <e w="1">><p><l>nugo<s n="cnjsub"/></l><r>such<s n="adv"/></r></p></e>
+    <e w="1">><p><l>nugo<s n="cnjsub"/></l><r>such<s n="adv"/></r></p></e>
+    <e><p><l>vai<s n="cnjsub"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e><p><l>vai<s n="cnjsub"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>vai<s n="cnjsub"/></l><r>or<s n="adv"/></r></p></e>
+    <e><p><l>vai<s n="cnjsub"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e><p><l>vai<s n="cnjsub"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>vai<s n="cnjsub"/></l><r>or<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vai<s n="cnjsub"/></l><r>or<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vaikko<s n="cnjsub"/></l><r>without<s n="pr"/></r></p></e>
+    <e><p><l>vaikko<s n="cnjsub"/></l><r>though<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>vaikko<s n="cnjsub"/></l><r>albeit<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vaikko<s n="cnjsub"/></l><r>although<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vaikko<s n="cnjsub"/></l><r>although<s n="adv"/></r></p></e>
+    <e><p><l>vaikko<s n="cnjsub"/></l><r>although<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>vaikko<s n="cnjsub"/></l><r>even<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>vaikko<s n="cnjsub"/></l><r>albeit<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vaikko<s n="cnjsub"/></l><r>although<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vaikke<s n="cnjsub"/></l><r>without<s n="pr"/></r></p></e>
+    <e><p><l>vaikke<s n="cnjsub"/></l><r>though<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>vaikke<s n="cnjsub"/></l><r>albeit<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vaikke<s n="cnjsub"/></l><r>although<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vaikke<s n="cnjsub"/></l><r>although<s n="adv"/></r></p></e>
+    <e><p><l>vaikke<s n="cnjsub"/></l><r>although<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>vaikke<s n="cnjsub"/></l><r>even<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>vaikke<s n="cnjsub"/></l><r>albeit<s n="adv"/></r></p></e>
+    <e w="1">><p><l>vaikke<s n="cnjsub"/></l><r>although<s n="adv"/></r></p></e>
+    <e><p><l>ovdal<s n="cnjsub"/></l><r>before<s n="cnjcoo"/></r></p></e>
+    <e w="1">><p><l>ovdal<s n="cnjsub"/></l><r>before<s n="adv"/></r></p></e>
+    <e><p><l>dasságo<s n="cnjsub"/></l><r>until<s n="pr"/></r></p></e>
+    <e><p><l>dasságo<s n="cnjsub"/></l><r>until<s n="cnjcoo"/></r></p></e>
+    <e><p><l>dasságo<s n="cnjsub"/></l><r>until<s n="cnjcoo"/></r></p></e>
+    <e><p><l>dasságo<s n="cnjsub"/></l><r>until<s n="cnjadv"/></r></p></e>
+    <e><p><l>dasságo<s n="cnjsub"/></l><r>until<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>nugo<s n="cnjsub"/></l><r>like<s n="adv"/></r></p></e>
+    <e><p><l>go<s n="cnjsub"/></l><r>than<s n="cnjcoo"/></r></p></e>
+    <e><p><l>go<s n="cnjsub"/></l><r>than<s n="cnjcoo"/></r></p></e>
+    <e><p><l>go<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>go<s n="cnjsub"/></l><r>as<s n="preadv"/></r></p></e>
+    <e w="1">><p><l>go<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
+    <e><p><l>go<s n="cnjsub"/></l><r>than<s n="cnjadv"/></r></p></e>
+    <e><p><l>go<s n="cnjsub"/></l><r>than<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>go<s n="cnjsub"/></l><r>like<s n="adv"/></r></p></e>
+    <e><p><l>juos<s n="cnjsub"/></l><r>if<s n="cnjcoo"/></r></p></e>
+    <e><p><l>juos<s n="cnjsub"/></l><r>if<s n="cnjcoo"/></r></p></e>
+    <e><p><l>juos<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
+    <e><p><l>juos<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>juos<s n="cnjsub"/></l><r>in case<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mun<s n="prn"/></l><r>my<s n="det"/></r></p></e>
+    <e><p><l>mun<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mun<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>mun<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="2">><p><l>mun<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>don<s n="prn"/></l><r>your<s n="det"/></r></p></e>
+    <e w="1">><p><l>don<s n="prn"/></l><r>yours<s n="adj"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>you<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>don<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>his<s n="det"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>his<s n="adj"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>her<s n="det"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>their<s n="det"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>his<s n="adj"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>hers<s n="adj"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mun<s n="prn"/></l><r>our<s n="det"/></r></p></e>
+    <e w="1">><p><l>mun<s n="prn"/></l><r>our<s n="det"/></r></p></e>
+    <e w="1">><p><l>mun<s n="prn"/></l><r>ours<s n="adj"/></r></p></e>
+    <e><p><l>mun<s n="prn"/></l><r>we<s n="prn"/></r></p></e>
+    <e><p><l>mun<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>mun<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>mun<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>you<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>you<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>their<s n="det"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>their<s n="det"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>their<s n="det"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>theirs<s n="adj"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>they<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mun<s n="prn"/></l><r>our<s n="det"/></r></p></e>
+    <e w="1">><p><l>mun<s n="prn"/></l><r>our<s n="det"/></r></p></e>
+    <e w="1">><p><l>mun<s n="prn"/></l><r>ours<s n="adj"/></r></p></e>
+    <e><p><l>mun<s n="prn"/></l><r>we<s n="prn"/></r></p></e>
+    <e><p><l>mun<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>mun<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>mun<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>you<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>you<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>their<s n="det"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>their<s n="det"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>their<s n="det"/></r></p></e>
+    <e w="1">><p><l>son<s n="prn"/></l><r>theirs<s n="adj"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>they<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>diet<s n="prn"/></l><r>its<s n="det"/></r></p></e>
+    <e w="1">><p><l>diet<s n="prn"/></l><r>the<s n="det"/></r></p></e>
+    <e w="1">><p><l>diet<s n="prn"/></l><r>that<s n="det"/></r></p></e>
+    <e><p><l>diet<s n="prn"/></l><r>that<s n="det"/></r></p></e>
+    <e w="2">><p><l>diet<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="2">><p><l>diet<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>diet<s n="prn"/></l><r>that<s n="det"/></r></p></e>
+    <e><p><l>diet<s n="prn"/></l><r>those<s n="prn"/></r></p></e>
+    <e><p><l>diet<s n="prn"/></l><r>those<s n="prn"/></r></p></e>
+    <e><p><l>diet<s n="prn"/></l><r>this<s n="prn"/></r></p></e>
+    <e w="1">><p><l>dat<s n="prn"/></l><r>its<s n="det"/></r></p></e>
+    <e><p><l>dat<s n="prn"/></l><r>that<s n="det"/></r></p></e>
+    <e><p><l>dat<s n="prn"/></l><r>that<s n="det"/></r></p></e>
+    <e w="2">><p><l>dat<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="2">><p><l>dat<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>dat<s n="prn"/></l><r>its<s n="det"/></r></p></e>
+    <e w="1">><p><l>dat<s n="prn"/></l><r>the<s n="det"/></r></p></e>
+    <e><p><l>dat<s n="prn"/></l><r>that<s n="det"/></r></p></e>
+    <e><p><l>dat<s n="prn"/></l><r>that<s n="det"/></r></p></e>
+    <e w="2">><p><l>dat<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="2">><p><l>dat<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e w="1">><p><l>dat<s n="prn"/></l><r>that<s n="cnjadv"/></r></p></e>
+    <e><p><l>dat<s n="prn"/></l><r>that<s n="det"/></r></p></e>
+    <e><p><l>dat<s n="prn"/></l><r>those<s n="prn"/></r></p></e>
+    <e><p><l>dat<s n="prn"/></l><r>those<s n="prn"/></r></p></e>
+    <e w="1">><p><l>dat<s n="prn"/></l><r>this<s n="prn"/></r></p></e>
+    <e><p><l>dát<s n="prn"/></l><r>this<s n="det"/></r></p></e>
+    <e><p><l>dát<s n="prn"/></l><r>this<s n="prn"/></r></p></e>
+    <e><p><l>dát<s n="prn"/></l><r>this<s n="prn"/></r></p></e>
+    <e w="1">><p><l>dát<s n="prn"/></l><r>these<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dát<s n="prn"/></l><r>this<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dát<s n="prn"/></l><r>these<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dát<s n="prn"/></l><r>this<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dát<s n="prn"/></l><r>this<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dát<s n="prn"/></l><r>this<s n="adv"/></r></p></e>
+    <e w="1">><p><l>dát<s n="prn"/></l><r>this<s n="adv"/></r></p></e>
+    <e><p><l>dát<s n="prn"/></l><r>this<s n="det"/></r></p></e>
+    <e><p><l>dát<s n="prn"/></l><r>this<s n="prn"/></r></p></e>
+    <e><p><l>dát<s n="prn"/></l><r>this<s n="prn"/></r></p></e>
+    <e><p><l>dát<s n="prn"/></l><r>this<s n="prn"/></r></p></e>
+    <e><p><l>dot<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e><p><l>dot<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e><p><l>dot<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e><p><l>dot<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e><p><l>dot<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e w="1">><p><l>dot<s n="prn"/></l><r>those<s n="prn"/></r></p></e>
+    <e><p><l>dot<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e><p><l>duot<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e><p><l>duot<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e><p><l>duot<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e><p><l>duot<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e><p><l>duot<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e><p><l>duot<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e><p><l>duot<s n="prn"/></l><r>those<s n="prn"/></r></p></e>
+    <e><p><l>duot<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>each<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>any<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>every<s n="det"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>each<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>each<s n="det"/></r></p></e>
+    <e><p><l>gii<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e><p><l>gii<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>whom<s n="prn"/></r></p></e>
+    <e><p><l>gii<s n="prn"/></l><r>who<s n="prn"/></r></p></e>
+    <e><p><l>gii<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>whom<s n="prn"/></r></p></e>
+    <e><p><l>gii<s n="prn"/></l><r>who<s n="prn"/></r></p></e>
+    <e><p><l>gii<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>which<s n="det"/></r></p></e>
+    <e w="1">><p><l>guhte<s n="prn"/></l><r>each<s n="prn"/></r></p></e>
+    <e w="1">><p><l>guhte<s n="prn"/></l><r>any<s n="prn"/></r></p></e>
+    <e w="1">><p><l>guhte<s n="prn"/></l><r>every<s n="det"/></r></p></e>
+    <e w="1">><p><l>guhte<s n="prn"/></l><r>each<s n="prn"/></r></p></e>
+    <e w="1">><p><l>guhte<s n="prn"/></l><r>each<s n="det"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/></l><r>whom<s n="prn"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/></l><r>who<s n="prn"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/></l><r>whom<s n="prn"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/></l><r>who<s n="prn"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e w="1">><p><l>guhte<s n="prn"/></l><r>which<s n="det"/></r></p></e>
+    <e><p><l>mii<s n="prn"/></l><r>what<s n="prn"/></r></p></e>
+    <e><p><l>mii<s n="prn"/></l><r>what<s n="prn"/></r></p></e>
+    <e><p><l>mii<s n="prn"/></l><r>what<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>whatever<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>what<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>what<s n="det"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>where<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>which<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>which<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>which<s n="cnjsub"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>each<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>any<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>every<s n="det"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>each<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>each<s n="det"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>whom<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>who<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>whom<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>who<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>which<s n="det"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>in<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>every<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>every<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>every<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>at<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>every<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>every<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>each<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>each<s n="det"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>what<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>what<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>what<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>whatever<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>what<s n="prn"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>what<s n="det"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>where<s n="adv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>which<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>which<s n="cnjadv"/></r></p></e>
+    <e w="1">><p><l>mii<s n="prn"/></l><r>which<s n="cnjsub"/></r></p></e>
+    <e><p><l>gii<s n="prn"/></l><r>who<s n="prn"/></r></p></e>
+    <e><p><l>gii<s n="prn"/></l><r>who<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>whose<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>whose<s n="det"/></r></p></e>
+    <e><p><l>goabbá<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e><p><l>goabbá<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e w="1">><p><l>muhtun<s n="prn"/></l><r>any<s n="preadv"/></r></p></e>
+    <e w="1">><p><l>muhtun<s n="prn"/></l><r>any<s n="det"/></r></p></e>
+    <e><p><l>muhtun<s n="prn"/></l><r>somebody<s n="prn"/></r></p></e>
+    <e><p><l>muhtun<s n="prn"/></l><r>someone<s n="prn"/></r></p></e>
+    <e><p><l>muhtun<s n="prn"/></l><r>whoever<s n="prn"/></r></p></e>
+    <e><p><l>muhtun<s n="prn"/></l><r>someone<s n="prn"/></r></p></e>
+    <e w="1">><p><l>muhtun<s n="prn"/></l><r>some<s n="adv"/></r></p></e>
+    <e><p><l>juoga<s n="prn"/></l><r>something<s n="prn"/></r></p></e>
+    <e><p><l>buohkat<s n="prn"/></l><r>all<s n="prn"/></r></p></e>
+    <e w="1">><p><l>buohkat<s n="prn"/></l><r>anything<s n="prn"/></r></p></e>
+    <e><p><l>buohkat<s n="prn"/></l><r>everything<s n="prn"/></r></p></e>
+    <e><p><l>mihkke<s n="prn"/></l><r>nothing<s n="prn"/></r></p></e>
+    <e><p><l>mihkke<s n="prn"/></l><r>nothing<s n="prn"/></r></p></e>
+    <e><p><l>mihkke<s n="prn"/></l><r>nothing<s n="prn"/></r></p></e>
+    <e><p><l>mihkke<s n="prn"/></l><r>nothing<s n="prn"/></r></p></e>
+    <e><p><l>mihkke<s n="prn"/></l><r>nothing<s n="prn"/></r></p></e>
+    <e><p><l>mihkke<s n="prn"/></l><r>nothing<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>other<s n="det"/></r></p></e>
+    <e w="2">><p><l>gii<s n="prn"/></l><r>the<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>another<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>other<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>others<s n="prn"/></r></p></e>
+    <e w="1">><p><l>gii<s n="prn"/></l><r>different<s n="adj"/></r></p></e>
+    <e w="1">><p><l>eatnat<s n="prn"/></l><r>lots<s n="det"/></r></p></e>
+    <e><p><l>eatnat<s n="prn"/></l><r>many<s n="prn"/></r></p></e>
+    <e><p><l>eatnat<s n="prn"/></l><r>several<s n="prn"/></r></p></e>
+    <e w="1">><p><l>eatnat<s n="prn"/></l><r>several<s n="det"/></r></p></e>
+    <e w="1">><p><l>eatnat<s n="prn"/></l><r>several<s n="adj"/></r></p></e>
+    <e w="1">><p><l>eatnat<s n="prn"/></l><r>multiple<s n="adj"/></r></p></e>
+    <e><p><l>muhtin<s n="prn"/></l><r>few<s n="prn"/></r></p></e>
+    <e w="1">><p><l>muhtin<s n="prn"/></l><r>few<s n="n"/></r></p></e>
+    <e w="1">><p><l>soamis<s n="prn"/></l><r>somebody<s n="prn"/></r></p></e>
+    <e w="1">><p><l>soamis<s n="prn"/></l><r>someone<s n="prn"/></r></p></e>
+    <e w="1">><p><l>soamis<s n="prn"/></l><r>whoever<s n="prn"/></r></p></e>
+    <e w="1">><p><l>soamis<s n="prn"/></l><r>someone<s n="prn"/></r></p></e>
+    <e w="1">><p><l>soamis<s n="prn"/></l><r>some<s n="adv"/></r></p></e>
+    <e><p><l>seammá<s n="prn"/></l><r>same<s n="prn"/></r></p></e>
+    <e w="1">><p><l>seammá<s n="prn"/></l><r>equal<s n="n"/></r></p></e>
+    <e w="1">><p><l>seammá<s n="prn"/></l><r>same<s n="n"/></r></p></e>
+    <e w="1">><p><l>seammá<s n="prn"/></l><r>same<s n="adj"/></r></p></e>
+    <e><p><l>juohkehaš<s n="prn"/></l><r>everyone<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohkehaš<s n="prn"/></l><r>anyone<s n="prn"/></r></p></e>
+    <e><p><l>juohkehaš<s n="prn"/></l><r>everybody<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohkehaš<s n="prn"/></l><r>each<s n="adj"/></r></p></e>
+    <e><p><l>muhtin<s n="prn"/></l><r>some<s n="prn"/></r></p></e>
+    <e><p><l>guhtege<s n="prn"/></l><r>anybody<s n="prn"/></r></p></e>
+    <e><p><l>guhtege<s n="prn"/></l><r>nobody<s n="prn"/></r></p></e>
+    <e w="1">><p><l>guhtege<s n="prn"/></l><r>no<s n="prn"/></r></p></e>
+    <e><p><l>nubbi<s n="prn"/></l><r>another<s n="prn"/></r></p></e>
+    <e><p><l>nubbi<s n="prn"/></l><r>another<s n="prn"/></r></p></e>
+    <e w="1">><p><l>nubbi<s n="prn"/></l><r>second<s n="num"/></r></p></e>
+    <e w="1">><p><l>nubbi<s n="prn"/></l><r>second<s n="adj"/></r></p></e>
+    <e w="1">><p><l>nubbi<s n="prn"/></l><r>other<s n="n"/></r></p></e>
+    <e w="1">><p><l>nubbi<s n="prn"/></l><r>second<s n="n"/></r></p></e>
+    <e w="1">><p><l>nubbi<s n="prn"/></l><r>another<s n="adj"/></r></p></e>
+    <e w="1">><p><l>nubbi<s n="prn"/></l><r>another<s n="det"/></r></p></e>
+    <e w="1">><p><l>nubbi<s n="prn"/></l><r>another<s n="det"/></r></p></e>
+    <e w="1">><p><l>nubbi<s n="prn"/></l><r>different<s n="adj"/></r></p></e>
+    <e w="1">><p><l>nubbi<s n="prn"/></l><r>other<s n="adj"/></r></p></e>
+    <e w="1">><p><l>nubbi<s n="prn"/></l><r>second<s n="adj"/></r></p></e>
+    <e w="1">><p><l>nubbi<s n="prn"/></l><r>on<s n="adv"/></r></p></e>
+    <e w="1">><p><l>giige<s n="prn"/></l><r>anybody<s n="prn"/></r></p></e>
+    <e><p><l>giige<s n="prn"/></l><r>nobody<s n="prn"/></r></p></e>
+    <e w="1">><p><l>giige<s n="prn"/></l><r>no<s n="prn"/></r></p></e>
+    <e><p><l>juohke<s n="prn"/></l><r>each<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>any<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>every<s n="det"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>each<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>each<s n="det"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>whom<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>who<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>whom<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>who<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>which<s n="det"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>in<s n="adv"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>every<s n="adv"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>every<s n="adv"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>every<s n="adv"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>at<s n="adv"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>every<s n="adv"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>every<s n="adv"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>each<s n="adv"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>each<s n="det"/></r></p></e>
+    <e><p><l>eará<s n="prn"/></l><r>other<s n="det"/></r></p></e>
+    <e><p><l>eará<s n="prn"/></l><r>another<s n="prn"/></r></p></e>
+    <e><p><l>eará<s n="prn"/></l><r>other<s n="prn"/></r></p></e>
+    <e w="1">><p><l>eará<s n="prn"/></l><r>others<s n="prn"/></r></p></e>
+    <e w="1">><p><l>eará<s n="prn"/></l><r>different<s n="adj"/></r></p></e>
+    <e w="1">><p><l>eará<s n="prn"/></l><r>other<s n="n"/></r></p></e>
+    <e w="1">><p><l>eará<s n="prn"/></l><r>different<s n="adj"/></r></p></e>
+    <e w="1">><p><l>eará<s n="prn"/></l><r>other<s n="adv"/></r></p></e>
+    <e w="1">><p><l>goappašagat<s n="prn"/></l><r>both<s n="adv"/></r></p></e>
+    <e><p><l>goappašagat<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e><p><l>goappašagat<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e w="1">><p><l>goappašagat<s n="prn"/></l><r>both<s n="n"/></r></p></e>
+    <e w="1">><p><l>goappašagat<s n="prn"/></l><r>both<s n="adv"/></r></p></e>
+    <e><p><l>goappašagat<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e><p><l>goappašagat<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e w="1">><p><l>goappašagat<s n="prn"/></l><r>both<s n="n"/></r></p></e>
+    <e w="1">><p><l>goappašat<s n="prn"/></l><r>both<s n="adv"/></r></p></e>
+    <e><p><l>goappašat<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e><p><l>goappašat<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e w="1">><p><l>goappašat<s n="prn"/></l><r>both<s n="n"/></r></p></e>
+    <e w="1">><p><l>goappašat<s n="prn"/></l><r>both<s n="adv"/></r></p></e>
+    <e><p><l>goappašat<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e><p><l>goappašat<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e w="1">><p><l>goappašat<s n="prn"/></l><r>both<s n="n"/></r></p></e>
+    <e w="1">><p><l>guktot<s n="prn"/></l><r>both<s n="adv"/></r></p></e>
+    <e><p><l>guktot<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e><p><l>guktot<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e w="1">><p><l>guktot<s n="prn"/></l><r>both<s n="n"/></r></p></e>
+    <e w="1">><p><l>guktot<s n="prn"/></l><r>both<s n="adv"/></r></p></e>
+    <e><p><l>guktot<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e><p><l>guktot<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e w="1">><p><l>guktot<s n="prn"/></l><r>both<s n="n"/></r></p></e>
+    <e w="1">><p><l>goappaš<s n="prn"/></l><r>both<s n="adv"/></r></p></e>
+    <e><p><l>goappaš<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e><p><l>goappaš<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e w="1">><p><l>goappaš<s n="prn"/></l><r>both<s n="n"/></r></p></e>
+    <e><p><l>guhtege<s n="prn"/></l><r>each<s n="prn"/></r></p></e>
+    <e><p><l>okta<s n="prn"/></l><r>some<s n="det"/></r></p></e>
+    <e><p><l>okta<s n="prn"/></l><r>one<s n="prn"/></r></p></e>
+    <e w="1">><p><l>okta<s n="prn"/></l><r>the<s n="prn"/></r></p></e>
+    <e w="1">><p><l>okta<s n="prn"/></l><r>one's<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/></l><r>all<s n="prn"/></r></p></e>
+    <e w="1">><p><l>buot<s n="prn"/></l><r>anything<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/></l><r>everything<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/></l><r>all<s n="prn"/></r></p></e>
+    <e w="1">><p><l>buot<s n="prn"/></l><r>anything<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/></l><r>everything<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/></l><r>all<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/></l><r>anything<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/></l><r>everything<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/></l><r>all<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/></l><r>anything<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/></l><r>everything<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/></l><r>all<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/></l><r>anything<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/></l><r>everything<s n="prn"/></r></p></e>
+    <e><p><l>goabbat<s n="prn"/></l><r>both<s n="prn"/></r></p></e>
+    <e><p><l>goabbat<s n="prn"/></l><r>both<s n="det"/></r></p></e>
+    <e><p><l>soames<s n="prn"/></l><r>few<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>everyone<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>anyone<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>everybody<s n="prn"/></r></p></e>
+    <e w="1">><p><l>juohke<s n="prn"/></l><r>each<s n="adj"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>self<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>self<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>oneself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>myself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>yourself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>himself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>hisself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>herself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>itself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>ourselves<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>yourselves<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>theirselves<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>themselves<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>self<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>self<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>oneself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>myself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>yourself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>himself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>hisself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>herself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>itself<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>ourselves<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>yourselves<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>theirselves<s n="prn"/></r></p></e>
+    <e w="1">><p><l>ieš<s n="prn"/></l><r>themselves<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>self<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>self<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>oneself<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>myself<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>yourself<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>himself<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>hisself<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>herself<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>itself<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>ourselves<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>yourselves<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>theirselves<s n="prn"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/></l><r>themselves<s n="prn"/></r></p></e>
+    <e><p><l>máŋga<s n="num"/></l><r>lots<s n="det"/></r></p></e>
+    <e><p><l>máŋga<s n="num"/></l><r>many<s n="prn"/></r></p></e>
+    <e><p><l>máŋga<s n="num"/></l><r>several<s n="prn"/></r></p></e>
+    <e w="1">><p><l>máŋga<s n="num"/></l><r>several<s n="det"/></r></p></e>
+    <e w="1">><p><l>máŋga<s n="num"/></l><r>several<s n="adj"/></r></p></e>
+    <e w="1">><p><l>máŋga<s n="num"/></l><r>multiple<s n="adj"/></r></p></e>
+    <e w="1">><p><l>máŋga<s n="num"/></l><r>many<s n="det"/></r></p></e>
+    <e><p><l>máŋga<s n="num"/></l><r>many<s n="prn"/></r></p></e>
+    <e w="1">><p><l>diekkár<s n="prn"/></l><r>that<s n="adj"/></r></p></e>
+    <e><p><l>okta<s n="num"/></l><r>one<s n="num"/></r></p></e>
+    <e><p><l>guokte<s n="num"/></l><r>two<s n="num"/></r></p></e>
+    <e><p><l>golbma<s n="num"/></l><r>three<s n="num"/></r></p></e>
+    <e><p><l>njeallje<s n="num"/></l><r>four<s n="num"/></r></p></e>
+    <e><p><l>vihtta<s n="num"/></l><r>five<s n="num"/></r></p></e>
+    <e><p><l>guhtta<s n="num"/></l><r>six<s n="num"/></r></p></e>
+    <e><p><l>čieža<s n="num"/></l><r>seven<s n="n"/></r></p></e>
+    <e><p><l>gávcci<s n="num"/></l><r>eight<s n="num"/></r></p></e>
+    <e><p><l>ovcci<s n="num"/></l><r>nine<s n="num"/></r></p></e>
+    <e><p><l>logi<s n="num"/></l><r>ten<s n="num"/></r></p></e>
+    <e><p><l>duháhat<s n="num"/></l><r>thousand<s n="num"/></r></p></e>
+    <e><p><l>čuođi<s n="num"/></l><r>hundred<s n="num"/></r></p></e>
+    <e w="1">><p><l>moadde<s n="num"/></l><r>couple<s n="n"/></r></p></e>
+    <e w="1">><p><l>moadde<s n="num"/></l><r>pair<s n="n"/></r></p></e>
+    <e><p><l>infekšuvdna<s n="n"/></l><r>infection<s n="n"/></r></p></e>
+    <e><p><l>siepman<s n="n"/></l><r>seed<s n="n"/></r></p></e>
+    <e w="1">><p><l>siepman<s n="n"/></l><r>pip<s n="n"/></r></p></e>
+    <e w="1">><p><l>siepman<s n="n"/></l><r>pit<s n="n"/></r></p></e>
+    <e w="1">><p><l>siepman<s n="n"/></l><r>pyrene<s n="n"/></r></p></e>
+    <e><p><l>vuohkku<s n="n"/></l><r>seizure<s n="n"/></r></p></e>
+    <e><p><l>vuohkku<s n="n"/></l><r>bout<s n="n"/></r></p></e>
+    <e w="1">><p><l>vuohkku<s n="n"/></l><r>fit<s n="n"/></r></p></e>
+    <e w="1">><p><l>vuohkku<s n="n"/></l><r>ictus<s n="n"/></r></p></e>
+    <e w="1">><p><l>vuohkku<s n="n"/></l><r>raptus<s n="n"/></r></p></e>
+    <e w="1">><p><l>vuohkku<s n="n"/></l><r>scene<s n="n"/></r></p></e>
+    <e w="1">><p><l>vuohkku<s n="n"/></l><r>show-stopper<s n="n"/></r></p></e>
+    <e w="1">><p><l>vuohkku<s n="n"/></l><r>showstopper<s n="n"/></r></p></e>
+    <e w="1">><p><l>vuohkku<s n="n"/></l><r>spot<s n="n"/></r></p></e>
+    <e w="1">><p><l>vuohkku<s n="n"/></l><r>stopper<s n="n"/></r></p></e>
+    <e w="1">><p><l>vuohkku<s n="n"/></l><r>take<s n="n"/></r></p></e>
+    <e w="1">><p><l>vuohkku<s n="n"/></l><r>touch<s n="n"/></r></p></e>
+    <e><p><l>adreassa<s n="n"/></l><r>address<s n="n"/></r></p></e>
+    <e><p><l>biblioteahka<s n="n"/></l><r>library<s n="n"/></r></p></e>
+    <e w="1">><p><l>biblioteahka<s n="n"/></l><r>athenaeum<s n="n"/></r></p></e>
+    <e w="1">><p><l>biblioteahka<s n="n"/></l><r>atheneum<s n="n"/></r></p></e>
+    <e w="1">><p><l>biblioteahka<s n="n"/></l><r>bibliotheca<s n="n"/></r></p></e>
+    <e w="1">><p><l>biblioteahka<s n="n"/></l><r>circulating library<s n="n"/></r></p></e>
+    <e w="1">><p><l>biblioteahka<s n="n"/></l><r>depository library<s n="n"/></r></p></e>
+    <e w="1">><p><l>biblioteahka<s n="n"/></l><r>lending library<s n="n"/></r></p></e>
+    <e w="1">><p><l>biblioteahka<s n="n"/></l><r>public library<s n="n"/></r></p></e>
+    <e><p><l>coagan<s n="n"/></l><r>shallow<s n="n"/></r></p></e>
+    <e w="1">><p><l>coagan<s n="n"/></l><r>bar<s n="n"/></r></p></e>
+    <e w="1">><p><l>coagan<s n="n"/></l><r>shoal<s n="n"/></r></p></e>
+    <e><p><l>deatnu<s n="n"/></l><r>river<s n="n"/></r></p></e>
+    <e w="1">><p><l>deatnu<s n="n"/></l><r>tidal river<s n="n"/></r></p></e>
+    <e w="1">><p><l>deatnu<s n="n"/></l><r>tidal stream<s n="n"/></r></p></e>
+    <e w="1">><p><l>deatnu<s n="n"/></l><r>tidewater river<s n="n"/></r></p></e>
+    <e w="1">><p><l>deatnu<s n="n"/></l><r>tidewater stream<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>almond-leaves willow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>arroyo willow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>black willow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>dwarf gray willow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>dwarf grey willow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>hoary willow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>peachleaf willow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>peach-leaved willow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>prairie willow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>sage willow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>sallow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>silky willow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>Sitka willow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>swamp willow<s n="n"/></r></p></e>
+    <e><p><l>dáhkka<s n="n"/></l><r>willow<s n="n"/></r></p></e>
+    <e w="1">><p><l>dáhkka<s n="n"/></l><r>willow tree<s n="n"/></r></p></e>
+    <e><p><l>gavvar<s n="n"/></l><r>crooked<s n="n"/></r></p></e>
+    <e w="1">><p><l>gavvar<s n="n"/></l><r>anfractuous<s n="n"/></r></p></e>
+    <e><p><l>gavvar<s n="n"/></l><r>curve<s n="n"/></r></p></e>
+    <e w="1">><p><l>gavvar<s n="n"/></l><r>graphical record<s n="n"/></r></p></e>
+    <e><p><l>gavvar<s n="n"/></l><r>graph<s n="n"/></r></p></e>
+    <e w="1">><p><l>gavvar<s n="n"/></l><r>gun<s n="n"/></r></p></e>
+    <e><p><l>girjerádju<s n="n"/></l><r>library<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerádju<s n="n"/></l><r>athenaeum<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerádju<s n="n"/></l><r>atheneum<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerádju<s n="n"/></l><r>bibliotheca<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerádju<s n="n"/></l><r>circulating library<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerádju<s n="n"/></l><r>depository library<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerádju<s n="n"/></l><r>lending library<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerádju<s n="n"/></l><r>public library<s n="n"/></r></p></e>
+    <e><p><l>girjerájus<s n="n"/></l><r>library<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerájus<s n="n"/></l><r>athenaeum<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerájus<s n="n"/></l><r>atheneum<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerájus<s n="n"/></l><r>bibliotheca<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerájus<s n="n"/></l><r>circulating library<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerájus<s n="n"/></l><r>depository library<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerájus<s n="n"/></l><r>lending library<s n="n"/></r></p></e>
+    <e w="1">><p><l>girjerájus<s n="n"/></l><r>public library<s n="n"/></r></p></e>
+    <e><p><l>gárbbis<s n="n"/></l><r>boat<s n="n"/></r></p></e>
+    <e w="1">><p><l>gárbbis<s n="n"/></l><r>dinghy<s n="n"/></r></p></e>
+    <e w="1">><p><l>gárbbis<s n="n"/></l><r>dory<s n="n"/></r></p></e>
+    <e><p><l>materiála<s n="n"/></l><r>material<s n="n"/></r></p></e>
+    <e w="1">><p><l>materiála<s n="n"/></l><r>matter<s n="n"/></r></p></e>
+    <e><p><l>moalki<s n="n"/></l><r>crooked<s n="n"/></r></p></e>
+    <e w="1">><p><l>moalki<s n="n"/></l><r>anfractuous<s n="n"/></r></p></e>
+    <e><p><l>moalki<s n="n"/></l><r>curve<s n="n"/></r></p></e>
+    <e w="1">><p><l>moalki<s n="n"/></l><r>graphical record<s n="n"/></r></p></e>
+    <e w="1">><p><l>moalki<s n="n"/></l><r>graph<s n="n"/></r></p></e>
+    <e w="1">><p><l>moalki<s n="n"/></l><r>gun<s n="n"/></r></p></e>
+    <e><p><l>ollesčoahkkin<s n="n"/></l><r>plenum<s n="n"/></r></p></e>
+    <e><p><l>sábin<s n="n"/></l><r>mouse<s n="n"/></r></p></e>
+    <e><p><l>tiibma<s n="n"/></l><r>clock<s n="n"/></r></p></e>
+    <e w="1">><p><l>tiibma<s n="n"/></l><r>ticker<s n="n"/></r></p></e>
+    <e w="1">><p><l>tiibma<s n="n"/></l><r>watch<s n="n"/></r></p></e>
+    <e><p><l>áirras<s n="n"/></l><r>representative<s n="n"/></r></p></e>
+    <e w="1">><p><l>áirras<s n="n"/></l><r>agent<s n="n"/></r></p></e>
+    <e w="1">><p><l>áirras<s n="n"/></l><r>business agent<s n="n"/></r></p></e>
+    <e><p><l>áirras<s n="n"/></l><r>delegate<s n="n"/></r></p></e>
+    <e w="1">><p><l>áirras<s n="n"/></l><r>deputy<s n="n"/></r></p></e>
+    <e w="1">><p><l>áirras<s n="n"/></l><r>elected<s n="n"/></r></p></e>
+    <e w="1">><p><l>áirras<s n="n"/></l><r>exponent<s n="n"/></r></p></e>
+    <e w="1">><p><l>áirras<s n="n"/></l><r>lieutenant<s n="n"/></r></p></e>
+    <e w="1">><p><l>áirras<s n="n"/></l><r>procurator<s n="n"/></r></p></e>
+    <e w="1">><p><l>áirras<s n="n"/></l><r>spokesman<s n="n"/></r></p></e>
+    <e w="1">><p><l>áirras<s n="n"/></l><r>spokeswoman<s n="n"/></r></p></e>
+    <e w="1">><p><l>áirras<s n="n"/></l><r>Rep.<s n="n"/></r></p></e>
+    <e><p><l>beassážat<s n="n"/></l><r>Easter<s n="n"/></r></p></e>
+    <e w="1">><p><l>beassážat<s n="n"/></l><r>Eastertide<s n="n"/></r></p></e>
+    <e w="1">><p><l>beassážat<s n="n"/></l><r>Pascha<s n="n"/></r></p></e>
+    <e w="1">><p><l>beassážat<s n="n"/></l><r>Pasch<s n="n"/></r></p></e>
+    <e w="1">><p><l>beassážat<s n="n"/></l><r>Passover<s n="n"/></r></p></e>
+    <e w="1">><p><l>beassážat<s n="n"/></l><r>Pesach<s n="n"/></r></p></e>
+    <e w="1">><p><l>beassážat<s n="n"/></l><r>Pesah<s n="n"/></r></p></e>
+    <e><p><l>bussa<s n="n"/></l><r>bus<s n="n"/></r></p></e>
+    <e w="1">><p><l>bussa<s n="n"/></l><r>coach<s n="n"/></r></p></e>
+    <e w="1">><p><l>bussa<s n="n"/></l><r>double-decker<s n="n"/></r></p></e>
+    <e w="1">><p><l>bussa<s n="n"/></l><r>motorbus<s n="n"/></r></p></e>
+    <e w="1">><p><l>bussa<s n="n"/></l><r>omnibus<s n="n"/></r></p></e>
+    <e w="1">><p><l>materiála<s n="n"/></l><r>constituent<s n="n"/></r></p></e>
+    <e w="1">><p><l>materiála<s n="n"/></l><r>element<s n="n"/></r></p></e>
+    <e w="1">><p><l>materiála<s n="n"/></l><r>ingredient<s n="n"/></r></p></e>
+    <e><p><l>materiála<s n="n"/></l><r>material<s n="n"/></r></p></e>
+    <e w="1">><p><l>materiála<s n="n"/></l><r>substance<s n="n"/></r></p></e>
+    <e w="1">><p><l>materiála<s n="n"/></l><r>making<s n="n"/></r></p></e>
+    <e w="1">><p><l>materiála<s n="n"/></l><r>stuff<s n="n"/></r></p></e>
+    <e><p><l>oainnáhus<s n="n"/></l><r>sight<s n="n"/></r></p></e>
+    <e w="1">><p><l>oainnáhus<s n="n"/></l><r>apparition<s n="n"/></r></p></e>
+    <e w="1">><p><l>oainnáhus<s n="n"/></l><r>prevision<s n="n"/></r></p></e>
+    <e w="1">><p><l>oainnáhus<s n="n"/></l><r>spectacle<s n="n"/></r></p></e>
+    <e w="1">><p><l>oainnáhus<s n="n"/></l><r>vision<s n="n"/></r></p></e>
+    <e><p><l>riidu<s n="n"/></l><r>discord<s n="n"/></r></p></e>
+    <e w="1">><p><l>riidu<s n="n"/></l><r>discordance<s n="n"/></r></p></e>
+    <e w="1">><p><l>riidu<s n="n"/></l><r>dissension<s n="n"/></r></p></e>
+    <e w="1">><p><l>riidu<s n="n"/></l><r>falling out<s n="n"/></r></p></e>
+    <e w="1">><p><l>riidu<s n="n"/></l><r>friction<s n="n"/></r></p></e>
+    <e w="1">><p><l>riidu<s n="n"/></l><r>strife<s n="n"/></r></p></e>
+    <e w="3">><p><l>riidu<s n="n"/></l><r>variance<s n="n"/></r></p></e>
+    <e w="1">><p><l>riidu<s n="n"/></l><r>difference<s n="n"/></r></p></e>
+    <e><p><l>rábát<s n="n"/></l><r>spit<s n="n"/></r></p></e>
+    <e w="1">><p><l>rábát<s n="n"/></l><r>drivel<s n="n"/></r></p></e>
+    <e w="1">><p><l>rábát<s n="n"/></l><r>saliva<s n="n"/></r></p></e>
+    <e w="1">><p><l>rábát<s n="n"/></l><r>spittle<s n="n"/></r></p></e>
+    <e><p><l>šaddu<s n="n"/></l><r>planting<s n="n"/></r></p></e>
+    <e><p><l>šaddu<s n="n"/></l><r>implantation<s n="n"/></r></p></e>
+    <e w="1">><p><l>šaddu<s n="n"/></l><r>inoculation<s n="n"/></r></p></e>
+    <e w="1">><p><l>šaddu<s n="n"/></l><r>plant<s n="n"/></r></p></e>
+    <e w="1">><p><l>rábát<s n="n"/></l><r>dough<s n="n"/></r></p></e>
+    <e><p><l>jorggáldat<s n="n"/></l><r>gear<s n="n"/></r></p></e>
+    <e w="1">><p><l>jorggáldat<s n="n"/></l><r>switch<s n="n"/></r></p></e>
+    <e><p><l>viessu<s n="n"/></l><r>house<s n="n"/></r></p></e>
+    <e w="1">><p><l>viessu<s n="n"/></l><r>building<s n="n"/></r></p></e>
+    <e w="1">><p><l>viessu<s n="n"/></l><r>door<s n="n"/></r></p></e>
+    <e w="1">><p><l>viessu<s n="n"/></l><r>residence<s n="n"/></r></p></e>
+    <e w="1">><p><l>stohpu<s n="n"/></l><r>house<s n="n"/></r></p></e>
+    <e w="1">><p><l>stohpu<s n="n"/></l><r>building<s n="n"/></r></p></e>
+    <e w="1">><p><l>stohpu<s n="n"/></l><r>door<s n="n"/></r></p></e>
+    <e w="1">><p><l>stohpu<s n="n"/></l><r>residence<s n="n"/></r></p></e>
+    <e><p><l>baskkádat<s n="n"/></l><r>chokepoint<s n="n"/></r></p></e>
+    <e w="1">><p><l>baskkádat<s n="n"/></l><r>coarctation<s n="n"/></r></p></e>
+    <e><p><l>baskkádat<s n="n"/></l><r>constriction<s n="n"/></r></p></e>
+    <e w="1">><p><l>baskkádat<s n="n"/></l><r>stenosis<s n="n"/></r></p></e>
+    <e w="1">><p><l>baskkádat<s n="n"/></l><r>stricture<s n="n"/></r></p></e>
+    <e w="1">><p><l>ávnnasmolsašuvvan<s n="n"/></l><r>metabolic rate<s n="n"/></r></p></e>
+    <e><p><l>ávnnasmolsašuvvan<s n="n"/></l><r>metabolism<s n="n"/></r></p></e>
+    <e><p><l>addin<s n="n"/></l><r>issuing<s n="n"/></r></p></e>
+    <e><p><l>bátneprotesa<s n="n"/></l><r>denture<s n="n"/></r></p></e>
+    <e w="1">><p><l>bátneprotesa<s n="n"/></l><r>dental plate<s n="n"/></r></p></e>
+    <e><p><l>muitin<s n="n"/></l><r>remembrance<s n="n"/></r></p></e>
+    <e><p><l>voluma<s n="n"/></l><r>volume<s n="n"/></r></p></e>
+    <e w="1">><p><l>voluma<s n="n"/></l><r>quantity<s n="n"/></r></p></e>
+    <e><p><l>vuoigŋan<s n="n"/></l><r>breath<s n="n"/></r></p></e>
+    <e w="1">><p><l>vuoigŋan<s n="n"/></l><r>external respiration<s n="n"/></r></p></e>
+    <e w="1">><p><l>vuoigŋan<s n="n"/></l><r>respiration<s n="n"/></r></p></e>
+    <e w="1">><p><l>vuoiŋandávjodat<s n="n"/></l><r>rate<s n="n"/></r></p></e>
+    <e><p><l>nearvafierbmi<s n="n"/></l><r>nervous system<s n="n"/></r></p></e>
+    <e><p><l>buhtisindoallan<s n="n"/></l><r>hygiene<s n="n"/></r></p></e>
+    <e><p><l>albmanus<s n="n"/></l><r>instance<s n="n"/></r></p></e>
+    <e><p><l>albmanus<s n="n"/></l><r>embodiment<s n="n"/></r></p></e>
+    <e w="1">><p><l>albmanus<s n="n"/></l><r>expression<s n="n"/></r></p></e>
+    <e><p><l>albmanus<s n="n"/></l><r>incarnation<s n="n"/></r></p></e>
+    <e><p><l>albmanus<s n="n"/></l><r>manifestation<s n="n"/></r></p></e>
+    <e><p><l>inkontineansa<s n="n"/></l><r>incontinence<s n="n"/></r></p></e>
+    <e w="1">><p><l>inkontineansa<s n="n"/></l><r>stress incontinence<s n="n"/></r></p></e>
+    <e w="1">><p><l>inkontineansa<s n="n"/></l><r>urinary incontinence<s n="n"/></r></p></e>
+    <e><p><l>kárten<s n="n"/></l><r>mapping<s n="n"/></r></p></e>
+    <e><p><l>kárten<s n="n"/></l><r>survey<s n="n"/></r></p></e>
+    <e><p><l>ovddideapmi<s n="n"/></l><r>developing<s n="n"/></r></p></e>
+    <e w="1">><p><l>ovddideapmi<s n="n"/></l><r>development<s n="n"/></r></p></e>
+    <e><p><l>guovddášnearvafierbmi<s n="n"/></l><r>central nervous system<s n="n"/></r></p></e>
+    <e><p><l>nearvafierbmi<s n="n"/></l><r>nervous system<s n="n"/></r></p></e>
+    <e><p><l>fiiber<s n="n"/></l><r>fiber<s n="n"/></r></p></e>
+    <e w="1">><p><l>fiiber<s n="n"/></l><r>bassine<s n="n"/></r></p></e>
+    <e w="1">><p><l>fiiber<s n="n"/></l><r>roughage<s n="n"/></r></p></e>
+    <e w="1">><p><l>fiiber<s n="n"/></l><r>staple fiber<s n="n"/></r></p></e>
+    <e w="1">><p><l>fiiber<s n="n"/></l><r>staple fibre<s n="n"/></r></p></e>
+    <e w="1">><p><l>fiiber<s n="n"/></l><r>staple<s n="n"/></r></p></e>
+    <e w="1">><p><l>fiiber<s n="n"/></l><r>string<s n="n"/></r></p></e>
+    <e><p><l>bassan<s n="n"/></l><r>washing<s n="n"/></r></p></e>
+    <e><p><l>bassan<s n="n"/></l><r>wash<s n="n"/></r></p></e>
+    <e w="1">><p><l>bassan<s n="n"/></l><r>lavage<s n="n"/></r></p></e>
+    <e w="1">><p><l>bassan<s n="n"/></l><r>lavation<s n="n"/></r></p></e>
+    <e><p><l>rahčamuš<s n="n"/></l><r>exertion<s n="n"/></r></p></e>
+    <e w="1">><p><l>rahčamuš<s n="n"/></l><r>endeavour<s n="n"/></r></p></e>
+    <e w="1">><p><l>rahčamuš<s n="n"/></l><r>kick up<s n="n"/></r></p></e>
+    <e w="1">><p><l>rahčamuš<s n="n"/></l><r>nisus<s n="n"/></r></p></e>
+    <e w="1">><p><l>rahčamuš<s n="n"/></l><r>straining<s n="n"/></r></p></e>
+    <e w="1">><p><l>rahčamuš<s n="n"/></l><r>strain<s n="n"/></r></p></e>
+    <e><p><l>dahkulahttu<s n="n"/></l><r>prosthesis<s n="n"/></r></p></e>
+    <e><p><l>biebman<s n="n"/></l><r>nourishment<s n="n"/></r></p></e>
+    <e w="1">><p><l>biebman<s n="n"/></l><r>diet<s n="n"/></r></p></e>
+    <e w="1">><p><l>biebman<s n="n"/></l><r>food<s n="n"/></r></p></e>
+    <e w="1">><p><l>biebman<s n="n"/></l><r>ingesta<s n="n"/></r></p></e>
+    <e w="1">><p><l>biebman<s n="n"/></l><r>nutriment<s n="n"/></r></p></e>
+    <e w="1">><p><l>biebman<s n="n"/></l><r>nutrition<s n="n"/></r></p></e>
+    <e w="1">><p><l>biebman<s n="n"/></l><r>pabulum<s n="n"/></r></p></e>
+    <e><p><l>biebmu<s n="n"/></l><r>nutrition<s n="n"/></r></p></e>
+    <e><p><l>refleaksa<s n="n"/></l><r>reflex<s n="n"/></r></p></e>
+    <e w="1">><p><l>refleaksa<s n="n"/></l><r>reflex action<s n="n"/></r></p></e>
+    <e w="1">><p><l>oažžun<s n="n"/></l><r>obtention<s n="n"/></r></p></e>
+    <e><p><l>oažžun<s n="n"/></l><r>receiving<s n="n"/></r></p></e>
+    <e w="1">><p><l>oažžun<s n="n"/></l><r>availability<s n="n"/></r></p></e>
+    <e w="1">><p><l>oažžun<s n="n"/></l><r>score<s n="n"/></r></p></e>
+    <e w="1">><p><l>mudden<s n="n"/></l><r>regulation<s n="n"/></r></p></e>
+    <e><p><l>buohccedikšu<s n="n"/></l><r>health care<s n="n"/></r></p></e>
+    <e><p><l>buohccedikšu<s n="n"/></l><r>medical care<s n="n"/></r></p></e>
+    <e><p><l>buohccedikšu<s n="n"/></l><r>nursing<s n="n"/></r></p></e>
+    <e><p><l>buđaldeapmi<s n="n"/></l><r>activity<s n="n"/></r></p></e>
+    <e><p><l>aktivitehta<s n="n"/></l><r>activity<s n="n"/></r></p></e>
+    <e><p><l>diđolašvuohta<s n="n"/></l><r>cognition<s n="n"/></r></p></e>
+    <e><p><l>diđolašvuohta<s n="n"/></l><r>awareness<s n="n"/></r></p></e>
+    <e><p><l>diđolašvuohta<s n="n"/></l><r>consciousness<s n="n"/></r></p></e>
+    <e><p><l>dássi<s n="n"/></l><r>level<s n="n"/></r></p></e>
+    <e w="1">><p><l>dássi<s n="n"/></l><r>degree<s n="n"/></r></p></e>
+    <e w="1">><p><l>dássi<s n="n"/></l><r>grade<s n="n"/></r></p></e>
+    <e w="1">><p><l>dássi<s n="n"/></l><r>layer<s n="n"/></r></p></e>
+    <e w="1">><p><l>dássi<s n="n"/></l><r>plane<s n="n"/></r></p></e>
+    <e w="1">><p><l>dássi<s n="n"/></l><r>platen<s n="n"/></r></p></e>
+    <e w="1">><p><l>dássi<s n="n"/></l><r>quality<s n="n"/></r></p></e>
+    <e w="1">><p><l>dássi<s n="n"/></l><r>rate<s n="n"/></r></p></e>
+    <e w="1">><p><l>dássi<s n="n"/></l><r>tier<s n="n"/></r></p></e>
+    <e w="1">><p><l>teknologiija<s n="n"/></l><r>technologist<s n="n"/></r></p></e>
+    <e><p><l>buđohat<s n="n"/></l><r>blockage<s n="n"/></r></p></e>
+    <e w="1">><p><l>buđohat<s n="n"/></l><r>backup<s n="n"/></r></p></e>
+    <e w="1">><p><l>buđohat<s n="n"/></l><r>block<s n="n"/></r></p></e>
+    <e w="1">><p><l>buđohat<s n="n"/></l><r>jam<s n="n"/></r></p></e>
+    <e w="1">><p><l>buđohat<s n="n"/></l><r>stoppage<s n="n"/></r></p></e>
+    <e><p><l>gužža<s n="n"/></l><r>urine<s n="n"/></r></p></e>
+    <e><p><l>gosahat<s n="n"/></l><r>cough<s n="n"/></r></p></e>
+    <e><p><l>gosahat<s n="n"/></l><r>coughing<s n="n"/></r></p></e>
+    <e><p><l>refleaksa<s n="n"/></l><r>reflex<s n="n"/></r></p></e>
+    <e w="1">><p><l>refleaksa<s n="n"/></l><r>reflex action<s n="n"/></r></p></e>
+    <e><p><l>aate<s n="n"/></l><r>idea<s n="n"/></r></p></e>
+    <e w="1">><p><l>aate<s n="n"/></l><r>idealisation<s n="n"/></r></p></e>
+    <e w="1">><p><l>aate<s n="n"/></l><r>point<s n="n"/></r></p></e>
+    <e><p><l>ablatiiva<s n="n"/></l><r>ablative<s n="n"/></r></p></e>
+    <e><p><l>abohtta<s n="n"/></l><r>abbot<s n="n"/></r></p></e>
+    <e w="1">><p><l>abohtta<s n="n"/></l><r>superior<s n="n"/></r></p></e>
+    <e><p><l>abskissa<s n="n"/></l><r>abscissa<s n="n"/></r></p></e>
+    <e><p><l>absolutisma<s n="n"/></l><r>absolutism<s n="n"/></r></p></e>
+    <e w="1">><p><l>absolutisma<s n="n"/></l><r>teetotalism<s n="n"/></r></p></e>
+    <e><p><l>abstrakšuvdna<s n="n"/></l><r>abstraction<s n="n"/></r></p></e>
+    <e><p><l>addi<s n="n"/></l><r>giver<s n="n"/></r></p></e>
+    <e w="1">><p><l>addi<s n="n"/></l><r>conferrer<s n="n"/></r></p></e>
+    <e w="1">><p><l>addi<s n="n"/></l><r>issuer<s n="n"/></r></p></e>
+    <e w="1">><p><l>addi<s n="n"/></l><r>presenter<s n="n"/></r></p></e>
+    <e w="1">><p><l>addi<s n="n"/></l><r>giving<s n="adj"/></r></p></e>
+    <e><p><l>addi<s n="n"/></l><r>generous<s n="n"/></r></p></e>
+    <e w="1">><p><l>addi<s n="n"/></l><r>benefic<s n="adj"/></r></p></e>
+    <e w="1">><p><l>addi<s n="n"/></l><r>giving<s n="adj"/></r></p></e>
+    <e w="1">><p><l>addi<s n="n"/></l><r>munificent<s n="adj"/></r></p></e>
+    <e w="1">><p><l>addi<s n="n"/></l><r>sharing<s n="adj"/></r></p></e>
+    <e><p><l>addi<s n="n"/></l><r>giver<s n="n"/></r></p></e>
+    <e w="1">><p><l>addi<s n="n"/></l><r>conferrer<s n="n"/></r></p></e>
+    <e w="1">><p><l>addi<s n="n"/></l><r>issuer<s n="n"/></r></p></e>
+    <e w="1">><p><l>addi<s n="n"/></l><r>presenter<s n="n"/></r></p></e>
+    <e><p><l>addišuvdna<s n="n"/></l><r>addition<s n="n"/></r></p></e>
+    <e w="1">><p><l>addišuvdna<s n="n"/></l><r>summation<s n="n"/></r></p></e>
+    <e><p><l>adessiiva<s n="n"/></l><r>adessive<s n="n"/></r></p></e>
+    <e><p><l>adjektiiva<s n="n"/></l><r>adjective<s n="n"/></r></p></e>
+    <e><p><l>administrašuvdna<s n="n"/></l><r>administration<s n="n"/></r></p></e>
+    <e w="1">><p><l>administrašuvdna<s n="n"/></l><r>government<s n="n"/></r></p></e>
+    <e w="1">><p><l>administrašuvdna<s n="n"/></l><r>management<s n="n"/></r></p></e>
+    <e w="1">><p><l>administrašuvdna<s n="n"/></l><r>governance<s n="n"/></r></p></e>
+    <e w="1">><p><l>administrašuvdna<s n="n"/></l><r>governing<s n="n"/></r></p></e>
+    <e w="1">><p><l>administrašuvdna<s n="n"/></l><r>government activity<s n="n"/></r></p></e>
+    <e><p><l>adposišuvdna<s n="n"/></l><r>adposition<s n="n"/></r></p></e>
+    <e><p><l>adreassa<s n="n"/></l><r>address<s n="n"/></r></p></e>
+    <e><p><l>adveanta<s n="n"/></l><r>Advent<s n="n"/></r></p></e>
+    <e><p><l>advearba<s n="n"/></l><r>adverb<s n="n"/></r></p></e>
+    <e><p><l>adverbiála<s n="n"/></l><r>adverbial<s n="n"/></r></p></e>
+    <e><p><l>advokáhta<s n="n"/></l><r>advocate<s n="n"/></r></p></e>
+    <e w="1">><p><l>advokáhta<s n="n"/></l><r>attorney<s n="n"/></r></p></e>
+    <e w="1">><p><l>advokáhta<s n="n"/></l><r>lawyer<s n="n"/></r></p></e>
+    <e w="1">><p><l>advokáhta<s n="n"/></l><r>solicitor<s n="n"/></r></p></e>
+    <e w="2">><p><l>advokáhta<s n="n"/></l><r>attorneyship<s n="n"/></r></p></e>
+    <e w="1">><p><l>advokáhta<s n="n"/></l><r>barrister<s n="n"/></r></p></e>
+    <e w="1">><p><l>advokáhta<s n="n"/></l><r>law agent<s n="n"/></r></p></e>
+    <e w="1">><p><l>advokáhta<s n="n"/></l><r>litigator<s n="n"/></r></p></e>
+    <e w="1">><p><l>advokáhta<s n="n"/></l><r>pleader<s n="n"/></r></p></e>
+    <e w="1">><p><l>advokáhta<s n="n"/></l><r>sergeant-at-law<s n="n"/></r></p></e>
+    <e w="2">><p><l>advokáhta<s n="n"/></l><r>sergeant<s n="n"/></r></p></e>
+    <e w="1">><p><l>advokáhta<s n="n"/></l><r>serjeant-at-law<s n="n"/></r></p></e>
+    <e w="1">><p><l>advokáhta<s n="n"/></l><r>serjeant<s n="n"/></r></p></e>
+    <e><p><l>affiksa<s n="n"/></l><r>affix<s n="n"/></r></p></e>
+    <e><p><l>ageanta<s n="n"/></l><r>agent<s n="n"/></r></p></e>
+    <e w="1">><p><l>ageanta<s n="n"/></l><r>agentive role<s n="n"/></r></p></e>
+    <e w="1">><p><l>ageanta<s n="n"/></l><r>factor<s n="n"/></r></p></e>
+    <e w="1">><p><l>ageanta<s n="n"/></l><r>general agent<s n="n"/></r></p></e>
+    <e w="1">><p><l>ageanta<s n="n"/></l><r>operative<s n="n"/></r></p></e>
+    <e w="1">><p><l>ageanta<s n="n"/></l><r>sleeper<s n="n"/></r></p></e>
+    <e w="1">><p><l>ageanta<s n="n"/></l><r>universal agent<s n="n"/></r></p></e>
+    <e w="1">><p><l>agenda<s n="n"/></l><r>calendar<s n="n"/></r></p></e>
+    <e w="1">><p><l>agenda<s n="n"/></l><r>diary<s n="n"/></r></p></e>
+    <e w="1">><p><l>agenda<s n="n"/></l><r>planner<s n="n"/></r></p></e>
+    <e><p><l>agglutinašuvdna<s n="n"/></l><r>agglutination<s n="n"/></r></p></e>
+    <e><p><l>agronoma<s n="n"/></l><r>agronomics<s n="n"/></r></p></e>
+    <e w="1">><p><l>agronoma<s n="n"/></l><r>agronomist<s n="n"/></r></p></e>
+    <e w="1">><p><l>agronoma<s n="n"/></l><r>agronomy<s n="n"/></r></p></e>
+    <e><p><l>agálašvuohta<s n="n"/></l><r>eternity<s n="n"/></r></p></e>
+    <e w="1">><p><l>agálašvuohta<s n="n"/></l><r>eon<s n="n"/></r></p></e>
+    <e w="1">><p><l>agálašvuohta<s n="n"/></l><r>imperishableness<s n="n"/></r></p></e>
+    <e w="1">><p><l>agálašvuohta<s n="n"/></l><r>perpetuity<s n="n"/></r></p></e>
+    <e><p><l>ahki<s n="n"/></l><r>age<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahki<s n="n"/></l><r>life<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahki<s n="n"/></l><r>lifetime<s n="n"/></r></p></e>
+    <e><p><l>ahkitvuohta<s n="n"/></l><r>abrasiveness<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahkitvuohta<s n="n"/></l><r>tedium<s n="n"/></r></p></e>
+    <e><p><l>ahtanuššan<s n="n"/></l><r>growth<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>accretion<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>accumulation<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>auxesis<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>boost<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>buildup<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>escalation<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>growing<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>increase<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>juvenescence<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>vegetation<s n="n"/></r></p></e>
+    <e><p><l>ahtanuššan<s n="n"/></l><r>development<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>buildup<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>evolution<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>flowering<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>growth<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>improvement<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>march<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>process<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>progress<s n="n"/></r></p></e>
+    <e w="1">><p><l>ahtanuššan<s n="n"/></l><r>unfolding<s n="n"/></r></p></e>
+    <e><p><l>akademihkar<s n="n"/></l><r>academian<s n="n"/></r></p></e>
+    <e><p><l>akademihkar<s n="n"/></l><r>academician<s n="n"/></r></p></e>
+    <e><p><l>akademihkar<s n="n"/></l><r>academic<s n="n"/></r></p></e>
+    <e w="1">><p><l>akademihkar<s n="n"/></l><r>academics<s n="n"/></r></p></e>
+    <e><p><l>akademiija<s n="n"/></l><r>academia<s n="n"/></r></p></e>
+    <e><p><l>akademiija<s n="n"/></l><r>academy<s n="n"/></r></p></e>
+    <e><p><l>akkusatiiva<s n="n"/></l><r>accusative<s n="n"/></r></p></e>
+    <e><p><l>aktevra<s n="n"/></l><r>actor<s n="n"/></r></p></e>
+    <e><p><l>aktiiva<s n="n"/></l><r>active<s n="n"/></r></p></e>
+    <e w="1">><p><l>aktiiva<s n="n"/></l><r>active voice<s n="n"/></r></p></e>
+    <e w="1">><p><l>aktiiva<s n="n"/></l><r>activist<s n="n"/></r></p></e>
+    <e w="1">><p><l>aktiiva<s n="n"/></l><r>fourth person<s n="n"/></r></p></e>
+    <e w="1">><p><l>aktiiva<s n="n"/></l><r>active<s n="adj"/></r></p></e>
+    <e w="1">><p><l>aktio<s n="n"/></l><r>action<s n="n"/></r></p></e>
+    <e><p><l>aktivista<s n="n"/></l><r>activist<s n="n"/></r></p></e>
+    <e><p><l>aktivitehta<s n="n"/></l><r>activeness<s n="n"/></r></p></e>
+    <e w="1">><p><l>aktivitehta<s n="n"/></l><r>aggressiveness<s n="n"/></r></p></e>
+    <e><p><l>aktuáhtor<s n="n"/></l><r>actuator<s n="n"/></r></p></e>
+    <e><p><l>akustihkka<s n="n"/></l><r>acoustics<s n="n"/></r></p></e>
+    <e w="1">><p><l>akšuvdna<s n="n"/></l><r>movement<s n="n"/></r></p></e>
+    <e w="1">><p><l>akšuvdna<s n="n"/></l><r>action<s n="n"/></r></p></e>
+    <e w="1">><p><l>akšuvdna<s n="n"/></l><r>business concern<s n="n"/></r></p></e>
+    <e w="1">><p><l>akšuvdna<s n="n"/></l><r>maneuver<s n="n"/></r></p></e>
+    <e><p><l>akšuvdna<s n="n"/></l><r>motion<s n="n"/></r></p></e>
+    <e w="1">><p><l>akšuvdna<s n="n"/></l><r>move<s n="n"/></r></p></e>
+    <e w="1">><p><l>akšuvdna<s n="n"/></l><r>shop<s n="n"/></r></p></e>
+    <e w="1">><p><l>akšuvdna<s n="n"/></l><r>store<s n="n"/></r></p></e>
+    <e w="1">><p><l>albbas<s n="n"/></l><r>catamount<s n="n"/></r></p></e>
+    <e w="1">><p><l>albbas<s n="n"/></l><r>common lynx<s n="n"/></r></p></e>
+    <e w="1">><p><l>albbas<s n="n"/></l><r>Eurasian lynx<s n="n"/></r></p></e>
+    <e><p><l>albbas<s n="n"/></l><r>lynx<s n="n"/></r></p></e>
+    <e><p><l>albmasuoigi<s n="n"/></l><r>accident<s n="n"/></r></p></e>
+    <e><p><l>albmeassi<s n="n"/></l><r>heavens<s n="n"/></r></p></e>
+    <e><p><l>albmi<s n="n"/></l><r>sky<s n="n"/></r></p></e>
+    <e w="1">><p><l>albmi<s n="n"/></l><r>empyrean<s n="n"/></r></p></e>
+    <e w="1">><p><l>albmi<s n="n"/></l><r>heaven<s n="n"/></r></p></e>
+    <e w="1">><p><l>albmi<s n="n"/></l><r>Heaven<s n="n"/></r></p></e>
+    <e><p><l>albmoneapmi<s n="n"/></l><r>phenomenon<s n="n"/></r></p></e>
+    <e w="1">><p><l>albmoneapmi<s n="n"/></l><r>activity<s n="n"/></r></p></e>
+    <e><p><l>aldna<s n="n"/></l><r>gum<s n="n"/></r></p></e>
+    <e><p><l>alfabehta<s n="n"/></l><r>alphabet<s n="n"/></r></p></e>
+    <e><p><l>alfabehta<s n="n"/></l><r>letter<s n="n"/></r></p></e>
+    <e w="1">><p><l>alfabehta<s n="n"/></l><r>alphabet<s n="n"/></r></p></e>
+    <e w="1">><p><l>alfabehta<s n="n"/></l><r>alphabet<s n="n"/></r></p></e>
+    <e w="1">><p><l>alfabehta<s n="n"/></l><r>letter<s n="n"/></r></p></e>
+    <e><p><l>algoritma<s n="n"/></l><r>algorithm<s n="n"/></r></p></e>
+    <e><p><l>alimat<s n="n"/></l><r>hip<s n="n"/></r></p></e>
+    <e><p><l>alimat<s n="n"/></l><r>pelvis<s n="n"/></r></p></e>
+    <e w="1">><p><l>alimusriekti<s n="n"/></l><r>elevated<s n="adj"/></r></p></e>
+    <e w="1">><p><l>alimusriekti<s n="n"/></l><r>high-level<s n="adj"/></r></p></e>
+    <e w="1">><p><l>alimusriekti<s n="n"/></l><r>high<s n="adj"/></r></p></e>
+    <e w="1">><p><l>alimusriekti<s n="n"/></l><r>lofty<s n="adj"/></r></p></e>
+    <e w="1">><p><l>alimusriekti<s n="n"/></l><r>pitched<s n="adj"/></r></p></e>
+    <e w="1">><p><l>alimusriekti<s n="n"/></l><r>tall<s n="adj"/></r></p></e>
+    <e><p><l>alit<s n="n"/></l><r>butterwort<s n="n"/></r></p></e>
+    <e><p><l>alitdiehpperássi<s n="n"/></l><r>melancholy thistle<s n="n"/></r></p></e>
+    <e><p><l>alitgáiski<s n="n"/></l><r>beech fern<s n="n"/></r></p></e>
+    <e w="1">><p><l>alitgáiski<s n="n"/></l><r>broad beech fern<s n="n"/></r></p></e>
+    <e w="1">><p><l>alitgáiski<s n="n"/></l><r>long beech fern<s n="n"/></r></p></e>
+    <e w="1">><p><l>alitgáiski<s n="n"/></l><r>narrow beech fern<s n="n"/></r></p></e>
+    <e w="1">><p><l>alitgáiski<s n="n"/></l><r>northern beech fern<s n="n"/></r></p></e>
+    <e w="1">><p><l>alitgáiski<s n="n"/></l><r>southern beech fern<s n="n"/></r></p></e>
+    <e><p><l>alitnárti<s n="n"/></l><r>purple saxifrage<s n="n"/></r></p></e>
+    <e><p><l>alkohola<s n="n"/></l><r>alcohol<s n="n"/></r></p></e>
+    <e w="1">><p><l>alkohola<s n="n"/></l><r>ethanol<s n="n"/></r></p></e>
+    <e><p><l>alkoholihkar<s n="n"/></l><r>alcoholic<s n="n"/></r></p></e>
+    <e><p><l>alkoholisma<s n="n"/></l><r>alcoholism<s n="n"/></r></p></e>
+    <e w="1">><p><l>alkoholisma<s n="n"/></l><r>alcoholism abuse<s n="n"/></r></p></e>
+    <e><p><l>alkoholista<s n="n"/></l><r>alcoholic<s n="n"/></r></p></e>
+    <e><p><l>allamielalašvuohta<s n="n"/></l><r>arrogance<s n="n"/></r></p></e>
+    <e w="1">><p><l>allamielalašvuohta<s n="n"/></l><r>assumption<s n="n"/></r></p></e>
+    <e w="1">><p><l>allamielalašvuohta<s n="n"/></l><r>hubris<s n="n"/></r></p></e>
+    <e w="1">><p><l>allamielalašvuohta<s n="n"/></l><r>superciliousness<s n="n"/></r></p></e>
+    <e w="1">><p><l>allamielalašvuohta<s n="n"/></l><r>superiority<s n="n"/></r></p></e>
+    <e><p><l>allaskuvla<s n="n"/></l><r>academy<s n="n"/></r></p></e>
+    <e><p><l>allatiiva<s n="n"/></l><r>allative<s n="n"/></r></p></e>
+    <e><p><l>allatvuohta<s n="n"/></l><r>height<s n="n"/></r></p></e>
+    <e w="1">><p><l>allatvuohta<s n="n"/></l><r>altitude<s n="n"/></r></p></e>
+    <e w="1">><p><l>allatvuohta<s n="n"/></l><r>elevation<s n="n"/></r></p></e>
+    <e w="1">><p><l>allatvuohta<s n="n"/></l><r>highness<s n="n"/></r></p></e>
+    <e w="1">><p><l>allatvuohta<s n="n"/></l><r>high<s n="n"/></r></p></e>
+    <e w="1">><p><l>allatvuohta<s n="n"/></l><r>level<s n="n"/></r></p></e>
+    <e w="1">><p><l>allatvuohta<s n="n"/></l><r>tallness<s n="n"/></r></p></e>
+    <e w="1">><p><l>allatvuohta<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
+    <e><p><l>allegoriija<s n="n"/></l><r>allegory<s n="n"/></r></p></e>
+    <e w="1">><p><l>allegoriija<s n="n"/></l><r>parable<s n="n"/></r></p></e>
+    <e><p><l>allergiija<s n="n"/></l><r>allergy<s n="n"/></r></p></e>
+    <e><p><l>allodat<s n="n"/></l><r>height<s n="n"/></r></p></e>
+    <e w="1">><p><l>allodat<s n="n"/></l><r>altitude<s n="n"/></r></p></e>
+    <e w="1">><p><l>allodat<s n="n"/></l><r>elevation<s n="n"/></r></p></e>
+    <e w="1">><p><l>allodat<s n="n"/></l><r>highness<s n="n"/></r></p></e>
+    <e w="1">><p><l>allodat<s n="n"/></l><r>high<s n="n"/></r></p></e>
+    <e w="1">><p><l>allodat<s n="n"/></l><r>level<s n="n"/></r></p></e>
+    <e w="1">><p><l>allodat<s n="n"/></l><r>tallness<s n="n"/></r></p></e>
+    <e><p><l>allodatnjuiken<s n="n"/></l><r>high jump<s n="n"/></r></p></e>
+    <e><p><l>allomorfa<s n="n"/></l><r>allomorph<s n="n"/></r></p></e>
+    <e><p><l>almmenáhkki<s n="n"/></l><r>almanac<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmenáhkki<s n="n"/></l><r>calendar<s n="n"/></r></p></e>
+    <e><p><l>almmolašvuohta<s n="n"/></l><r>fame<s n="n"/></r></p></e>
+    <e><p><l>almmolašvuohta<s n="n"/></l><r>publicity<s n="n"/></r></p></e>
+    <e><p><l>almmuhus<s n="n"/></l><r>advert<s n="n"/></r></p></e>
+    <e><p><l>almmuhus<s n="n"/></l><r>announcement<s n="n"/></r></p></e>
+    <e><p><l>almmuhus<s n="n"/></l><r>notice<s n="n"/></r></p></e>
+    <e><p><l>almmuhus<s n="n"/></l><r>notification<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmuhus<s n="n"/></l><r>advertizement<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmuhus<s n="n"/></l><r>annunciation<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmuhus<s n="n"/></l><r>apprisal<s n="n"/></r></p></e>
+    <e w="2">><p><l>almmuhus<s n="n"/></l><r>card<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmuhus<s n="n"/></l><r>posting<s n="n"/></r></p></e>
+    <e w="2">><p><l>almmuhus<s n="n"/></l><r>sign<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmustus<s n="n"/></l><r>epiphany<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmustus<s n="n"/></l><r>revelation<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmustus<s n="n"/></l><r>apocalypse<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmustus<s n="n"/></l><r>apparition<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmustus<s n="n"/></l><r>divine revelation<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmustus<s n="n"/></l><r>manifestation<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmustus<s n="n"/></l><r>sight<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmustus<s n="n"/></l><r>spectacle<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmustus<s n="n"/></l><r>theophany<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmustus<s n="n"/></l><r>vision<s n="n"/></r></p></e>
+    <e><p><l>almmái<s n="n"/></l><r>man<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmái<s n="n"/></l><r>fellow<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmái<s n="n"/></l><r>gent<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmái<s n="n"/></l><r>hubby<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmái<s n="n"/></l><r>husband<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmái<s n="n"/></l><r>male<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmái<s n="n"/></l><r>stiff<s n="n"/></r></p></e>
+    <e><p><l>almmáiolmmoš<s n="n"/></l><r>man<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmáiolmmoš<s n="n"/></l><r>fellow<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmáiolmmoš<s n="n"/></l><r>gent<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmáiolmmoš<s n="n"/></l><r>hubby<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmáiolmmoš<s n="n"/></l><r>husband<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmáiolmmoš<s n="n"/></l><r>male<s n="n"/></r></p></e>
+    <e w="1">><p><l>almmáiolmmoš<s n="n"/></l><r>stiff<s n="n"/></r></p></e>
+    <e><p><l>aloe<s n="n"/></l><r>alloy<s n="n"/></r></p></e>
+    <e w="1">><p><l>aloe<s n="n"/></l><r>amalgam<s n="n"/></r></p></e>
+    <e w="1">><p><l>aloe<s n="n"/></l><r>composition<s n="n"/></r></p></e>
+    <e w="1">><p><l>aloe<s n="n"/></l><r>intermixture<s n="n"/></r></p></e>
+    <e w="1">><p><l>aloe<s n="n"/></l><r>mix<s n="n"/></r></p></e>
+    <e w="1">><p><l>aloe<s n="n"/></l><r>mixture<s n="n"/></r></p></e>
+    <e><p><l>alumiidna<s n="n"/></l><r>aluminium<s n="n"/></r></p></e>
+    <e w="1">><p><l>alumiidna<s n="n"/></l><r>aluminum<s n="n"/></r></p></e>
+    <e><p><l>alva<s n="n"/></l><r>energy<s n="n"/></r></p></e>
+    <e w="1">><p><l>alva<s n="n"/></l><r>juice<s n="n"/></r></p></e>
+    <e w="1">><p><l>aládas<s n="n"/></l><r>stump<s n="n"/></r></p></e>
+    <e w="1">><p><l>aládas<s n="n"/></l><r>pulpit<s n="n"/></r></p></e>
+    <e w="1">><p><l>aládas<s n="n"/></l><r>reviewing stand<s n="n"/></r></p></e>
+    <e><p><l>alásrássi<s n="n"/></l><r>andromeda<s n="n"/></r></p></e>
+    <e w="1">><p><l>alásrássi<s n="n"/></l><r>common bog rosemary<s n="n"/></r></p></e>
+    <e w="1">><p><l>alásrássi<s n="n"/></l><r>marsh andromeda<s n="n"/></r></p></e>
+    <e><p><l>aláš<s n="n"/></l><r>surface<s n="n"/></r></p></e>
+    <e w="1">><p><l>aláš<s n="n"/></l><r>coat<s n="n"/></r></p></e>
+    <e w="1">><p><l>aláš<s n="n"/></l><r>face<s n="n"/></r></p></e>
+    <e w="1">><p><l>aláš<s n="n"/></l><r>sheet<s n="n"/></r></p></e>
+    <e w="1">><p><l>aláš<s n="n"/></l><r>skin<s n="n"/></r></p></e>
+    <e w="1">><p><l>aláš<s n="n"/></l><r>superficies<s n="n"/></r></p></e>
+    <e w="1">><p><l>aláš<s n="n"/></l><r>texture<s n="n"/></r></p></e>
+    <e><p><l>amatevra<s n="n"/></l><r>amateur<s n="n"/></r></p></e>
+    <e w="1">><p><l>amatevra<s n="n"/></l><r>layman<s n="n"/></r></p></e>
+    <e w="1">><p><l>amatevra<s n="n"/></l><r>layperson<s n="n"/></r></p></e>
+    <e><p><l>ambassadevra<s n="n"/></l><r>ambassador<s n="n"/></r></p></e>
+    <e><p><l>ambassadevra<s n="n"/></l><r>emissary<s n="n"/></r></p></e>
+    <e><p><l>ambassadevra<s n="n"/></l><r>envoy<s n="n"/></r></p></e>
+    <e w="1">><p><l>ambassadevra<s n="n"/></l><r>high commissioner<s n="n"/></r></p></e>
+    <e><p><l>ambišuvdna<s n="n"/></l><r>ambition<s n="n"/></r></p></e>
+    <e><p><l>ambišuvdna<s n="n"/></l><r>ambitiousness<s n="n"/></r></p></e>
+    <e><p><l>ambulánsa<s n="n"/></l><r>ambulance<s n="n"/></r></p></e>
+    <e><p><l>ametysta<s n="n"/></l><r>amethyst<s n="n"/></r></p></e>
+    <e><p><l>ampera<s n="n"/></l><r>ampere<s n="n"/></r></p></e>
+    <e w="1">><p><l>ampera<s n="n"/></l><r>amp<s n="n"/></r></p></e>
+    <e><p><l>analogiija<s n="n"/></l><r>analog<s n="n"/></r></p></e>
+    <e><p><l>analogiija<s n="n"/></l><r>analogue<s n="n"/></r></p></e>
+    <e><p><l>analogiija<s n="n"/></l><r>analogy<s n="n"/></r></p></e>
+    <e w="1">><p><l>analysa<s n="n"/></l><r>assay<s n="n"/></r></p></e>
+    <e><p><l>analysáhtor<s n="n"/></l><r>analyser<s n="n"/></r></p></e>
+    <e w="1">><p><l>analysáhtor<s n="n"/></l><r>analyzer<s n="n"/></r></p></e>
+    <e><p><l>anatomiija<s n="n"/></l><r>anatomy<s n="n"/></r></p></e>
+    <e><p><l>anemiija<s n="n"/></l><r>anaemia<s n="n"/></r></p></e>
+    <e><p><l>anemiija<s n="n"/></l><r>anemia<s n="n"/></r></p></e>
+    <e w="1">><p><l>annotašuvdna<s n="n"/></l><r>tag<s n="n"/></r></p></e>
+    <e><p><l>anolašvuohta<s n="n"/></l><r>applicability<s n="n"/></r></p></e>
+    <e w="1">><p><l>anolašvuohta<s n="n"/></l><r>practicability<s n="n"/></r></p></e>
+    <e w="1">><p><l>anolašvuohta<s n="n"/></l><r>serviceability<s n="n"/></r></p></e>
+    <e><p><l>antagonisma<s n="n"/></l><r>antagonism<s n="n"/></r></p></e>
+    <e><p><l>anteanna<s n="n"/></l><r>antenna<s n="n"/></r></p></e>
+    <e w="1">><p><l>anteanna<s n="n"/></l><r>aerial<s n="n"/></r></p></e>
+    <e><p><l>antihkka<s n="n"/></l><r>antique<s n="n"/></r></p></e>
+    <e w="1">><p><l>antihkka<s n="n"/></l><r>Antiquity<s n="n"/></r></p></e>
+    <e w="1">><p><l>antihkka<s n="n"/></l><r>classical antiquity<s n="n"/></r></p></e>
+    <e><p><l>antikristus<s n="n"/></l><r>Antichrist<s n="n"/></r></p></e>
+    <e><p><l>antologiija<s n="n"/></l><r>anthology<s n="n"/></r></p></e>
+    <e w="1">><p><l>antologiija<s n="n"/></l><r>garland<s n="n"/></r></p></e>
+    <e w="1">><p><l>antologiija<s n="n"/></l><r>miscellany<s n="n"/></r></p></e>
+    <e><p><l>antropologa<s n="n"/></l><r>anthropologist<s n="n"/></r></p></e>
+    <e><p><l>antropologiija<s n="n"/></l><r>anthropology<s n="n"/></r></p></e>
+    <e><p><l>apoastal<s n="n"/></l><r>apostle<s n="n"/></r></p></e>
+    <e w="1">><p><l>apoastal<s n="n"/></l><r>Apostle<s n="n"/></r></p></e>
+    <e><p><l>apokope<s n="n"/></l><r>apocope<s n="n"/></r></p></e>
+    <e><p><l>apostal<s n="n"/></l><r>apostle<s n="n"/></r></p></e>
+    <e w="1">><p><l>apostal<s n="n"/></l><r>Apostle<s n="n"/></r></p></e>
+    <e><p><l>apostrofa<s n="n"/></l><r>apostrophe<s n="n"/></r></p></e>
+    <e w="1">><p><l>apotehka<s n="n"/></l><r>chemist's<s n="n"/></r></p></e>
+    <e w="1">><p><l>apotehka<s n="n"/></l><r>drugstore<s n="n"/></r></p></e>
+    <e><p><l>apotehka<s n="n"/></l><r>pharmacy<s n="n"/></r></p></e>
+    <e w="1">><p><l>apotehka<s n="n"/></l><r>apothecary's shop<s n="n"/></r></p></e>
+    <e w="1">><p><l>apotehka<s n="n"/></l><r>chemist's shop<s n="n"/></r></p></e>
+    <e><p><l>apotehkár<s n="n"/></l><r>apothecary<s n="n"/></r></p></e>
+    <e w="1">><p><l>apotehkár<s n="n"/></l><r>chemist<s n="n"/></r></p></e>
+    <e w="1">><p><l>apotehkár<s n="n"/></l><r>druggist<s n="n"/></r></p></e>
+    <e w="1">><p><l>apotehkár<s n="n"/></l><r>pill pusher<s n="n"/></r></p></e>
+    <e><p><l>apparáhta<s n="n"/></l><r>machine<s n="n"/></r></p></e>
+    <e w="1">><p><l>apparáhta<s n="n"/></l><r>apparatus<s n="n"/></r></p></e>
+    <e w="1">><p><l>apparáhta<s n="n"/></l><r>appliance<s n="n"/></r></p></e>
+    <e w="1">><p><l>apparáhta<s n="n"/></l><r>contrivance<s n="n"/></r></p></e>
+    <e><p><l>apparáhta<s n="n"/></l><r>device<s n="n"/></r></p></e>
+    <e w="1">><p><l>apparáhta<s n="n"/></l><r>instrument<s n="n"/></r></p></e>
+    <e w="1">><p><l>apparáhta<s n="n"/></l><r>ride<s n="n"/></r></p></e>
+    <e w="1">><p><l>apparáhta<s n="n"/></l><r>set<s n="n"/></r></p></e>
+    <e w="1">><p><l>apparáhta<s n="n"/></l><r>thing<s n="n"/></r></p></e>
+    <e w="1">><p><l>apparáhta<s n="n"/></l><r>thingummy<s n="n"/></r></p></e>
+    <e><p><l>appellatiiva<s n="n"/></l><r>common noun<s n="n"/></r></p></e>
+    <e><p><l>appelsiidna<s n="n"/></l><r>orange<s n="n"/></r></p></e>
+    <e w="1">><p><l>appelsiidna<s n="n"/></l><r>sweet orange<s n="n"/></r></p></e>
+    <e w="1">><p><l>appelsiidna<s n="n"/></l><r>sweet orange tree<s n="n"/></r></p></e>
+    <e><p><l>arena<s n="n"/></l><r>arena<s n="n"/></r></p></e>
+    <e w="1">><p><l>arena<s n="n"/></l><r>forum<s n="n"/></r></p></e>
+    <e><p><l>areála<s n="n"/></l><r>area<s n="n"/></r></p></e>
+    <e w="1">><p><l>areála<s n="n"/></l><r>expanse<s n="n"/></r></p></e>
+    <e w="1">><p><l>areála<s n="n"/></l><r>land area<s n="n"/></r></p></e>
+    <e w="1">><p><l>areála<s n="n"/></l><r>surface area<s n="n"/></r></p></e>
+    <e><p><l>argumeanta<s n="n"/></l><r>argument<s n="n"/></r></p></e>
+    <e w="1">><p><l>argumeanta<s n="n"/></l><r>quodlibet<s n="n"/></r></p></e>
+    <e><p><l>aritmetihkka<s n="n"/></l><r>arithmetic<s n="n"/></r></p></e>
+    <e><p><l>arkeologa<s n="n"/></l><r>archaeologist<s n="n"/></r></p></e>
+    <e w="1">><p><l>arkeologa<s n="n"/></l><r>archeologist<s n="n"/></r></p></e>
+    <e><p><l>arkeologiija<s n="n"/></l><r>archaeology<s n="n"/></r></p></e>
+    <e><p><l>arkeologiija<s n="n"/></l><r>archeology<s n="n"/></r></p></e>
+    <e w="1">><p><l>arkeologiija<s n="n"/></l><r>palaetiology<s n="n"/></r></p></e>
+    <e w="1">><p><l>arkeologiija<s n="n"/></l><r>paletiology<s n="n"/></r></p></e>
+    <e w="1">><p><l>arkeologiija<s n="n"/></l><r>protoarchaeology<s n="n"/></r></p></e>
+    <e w="1">><p><l>arkeologiija<s n="n"/></l><r>protoarcheology<s n="n"/></r></p></e>
+    <e><p><l>arkiiva<s n="n"/></l><r>archive<s n="n"/></r></p></e>
+    <e w="1">><p><l>arkiiva<s n="n"/></l><r>archives<s n="n"/></r></p></e>
+    <e w="1">><p><l>arkiiva<s n="n"/></l><r>chancery<s n="n"/></r></p></e>
+    <e><p><l>arkiteakta<s n="n"/></l><r>architect<s n="n"/></r></p></e>
+    <e><p><l>arkitektuvra<s n="n"/></l><r>architecture<s n="n"/></r></p></e>
+    <e><p><l>arméa<s n="n"/></l><r>army<s n="n"/></r></p></e>
+    <e w="1">><p><l>arméa<s n="n"/></l><r>Army<s n="n"/></r></p></e>
+    <e><p><l>arméa<s n="n"/></l><r>military<s n="n"/></r></p></e>
+    <e><p><l>arnihkka<s n="n"/></l><r>arnica<s n="n"/></r></p></e>
+    <e w="1">><p><l>arnihkka<s n="n"/></l><r>heartleaf arnica<s n="n"/></r></p></e>
+    <e><p><l>artefákta<s n="n"/></l><r>artefact<s n="n"/></r></p></e>
+    <e><p><l>artefákta<s n="n"/></l><r>artifact<s n="n"/></r></p></e>
+    <e><p><l>artihkal<s n="n"/></l><r>article<s n="n"/></r></p></e>
+    <e w="1">><p><l>artihkal<s n="n"/></l><r>contribution<s n="n"/></r></p></e>
+    <e w="1">><p><l>artihkal<s n="n"/></l><r>paper<s n="n"/></r></p></e>
+    <e><p><l>artilleriija<s n="n"/></l><r>artillery<s n="n"/></r></p></e>
+    <e w="1">><p><l>artilleriija<s n="n"/></l><r>ordnance<s n="n"/></r></p></e>
+    <e><p><l>artista<s n="n"/></l><r>artist<s n="n"/></r></p></e>
+    <e w="1">><p><l>artista<s n="n"/></l><r>creative person<s n="n"/></r></p></e>
+    <e><p><l>arva<s n="n"/></l><r>energy<s n="n"/></r></p></e>
+    <e w="1">><p><l>arva<s n="n"/></l><r>juice<s n="n"/></r></p></e>
+    <e><p><l>arvedávgi<s n="n"/></l><r>rainbow<s n="n"/></r></p></e>
+    <e><p><l>arveoakti<s n="n"/></l><r>rain<s n="n"/></r></p></e>
+    <e w="1">><p><l>arveoakti<s n="n"/></l><r>rain shower<s n="n"/></r></p></e>
+    <e w="1">><p><l>arveoakti<s n="n"/></l><r>scattering<s n="n"/></r></p></e>
+    <e w="1">><p><l>arveoakti<s n="n"/></l><r>sprinkle<s n="n"/></r></p></e>
+    <e w="1">><p><l>arveoakti<s n="n"/></l><r>sprinkling<s n="n"/></r></p></e>
+    <e><p><l>arvi<s n="n"/></l><r>rain<s n="n"/></r></p></e>
+    <e w="1">><p><l>arvi<s n="n"/></l><r>downfall<s n="n"/></r></p></e>
+    <e w="1">><p><l>arvi<s n="n"/></l><r>pelting<s n="n"/></r></p></e>
+    <e w="1">><p><l>arvi<s n="n"/></l><r>precipitation<s n="n"/></r></p></e>
+    <e w="1">><p><l>arvi<s n="n"/></l><r>rainfall<s n="n"/></r></p></e>
+    <e w="1">><p><l>arvi<s n="n"/></l><r>spraying<s n="n"/></r></p></e>
+    <e><p><l>arába<s n="n"/></l><r>arab<s n="n"/></r></p></e>
+    <e w="1">><p><l>arába<s n="n"/></l><r>Arab<s n="n"/></r></p></e>
+    <e w="1">><p><l>arába<s n="n"/></l><r>Arab<s n="adj"/></r></p></e>
+    <e><p><l>asbeasta<s n="n"/></l><r>asbestos<s n="n"/></r></p></e>
+    <e><p><l>asfálta<s n="n"/></l><r>asphalt<s n="n"/></r></p></e>
+    <e w="1">><p><l>asfálta<s n="n"/></l><r>bitumen<s n="n"/></r></p></e>
+    <e w="1">><p><l>asfálta<s n="n"/></l><r>blacktopping<s n="n"/></r></p></e>
+    <e w="1">><p><l>asfálta<s n="n"/></l><r>blacktop<s n="n"/></r></p></e>
+    <e w="1">><p><l>asfálta<s n="n"/></l><r>macadam<s n="n"/></r></p></e>
+    <e w="1">><p><l>asfálta<s n="n"/></l><r>tarmacadam<s n="n"/></r></p></e>
+    <e><p><l>aski<s n="n"/></l><r>hemline<s n="n"/></r></p></e>
+    <e><p><l>aski<s n="n"/></l><r>hem<s n="n"/></r></p></e>
+    <e w="1">><p><l>aski<s n="n"/></l><r>lap covering<s n="n"/></r></p></e>
+    <e w="1">><p><l>aski<s n="n"/></l><r>lappet<s n="n"/></r></p></e>
+    <e w="1">><p><l>aski<s n="n"/></l><r>lap<s n="n"/></r></p></e>
+    <e><p><l>aski<s n="n"/></l><r>lap<s n="n"/></r></p></e>
+    <e w="1">><p><l>aski<s n="n"/></l><r>cord<s n="n"/></r></p></e>
+    <e w="1">><p><l>aski<s n="n"/></l><r>fathom<s n="n"/></r></p></e>
+    <e w="1">><p><l>aski<s n="n"/></l><r>fthm<s n="n"/></r></p></e>
+    <e><p><l>aspeakta<s n="n"/></l><r>aspect<s n="n"/></r></p></e>
+    <e><p><l>aspirašuvdna<s n="n"/></l><r>aspiration<s n="n"/></r></p></e>
+    <e><p><l>assimilašuvdna<s n="n"/></l><r>assimilation<s n="n"/></r></p></e>
+    <e><p><l>assisteanta<s n="n"/></l><r>assistant<s n="n"/></r></p></e>
+    <e><p><l>assodat<s n="n"/></l><r>thickness<s n="n"/></r></p></e>
+    <e w="1">><p><l>assodat<s n="n"/></l><r>stoutness<s n="n"/></r></p></e>
+    <e><p><l>assosiašuvdna<s n="n"/></l><r>association<s n="n"/></r></p></e>
+    <e><p><l>astoáigi<s n="n"/></l><r>leisure<s n="n"/></r></p></e>
+    <e w="1">><p><l>astoáigi<s n="n"/></l><r>free time<s n="n"/></r></p></e>
+    <e w="1">><p><l>astoáigi<s n="n"/></l><r>leisure time<s n="n"/></r></p></e>
+    <e w="1">><p><l>astoáigi<s n="n"/></l><r>spare time<s n="n"/></r></p></e>
+    <e w="1">><p><l>astoáigi<s n="n"/></l><r>time off<s n="n"/></r></p></e>
+    <e w="1">><p><l>asttuáigi<s n="n"/></l><r>leisure<s n="n"/></r></p></e>
+    <e w="1">><p><l>asttuáigi<s n="n"/></l><r>free time<s n="n"/></r></p></e>
+    <e w="1">><p><l>asttuáigi<s n="n"/></l><r>leisure time<s n="n"/></r></p></e>
+    <e w="1">><p><l>asttuáigi<s n="n"/></l><r>spare time<s n="n"/></r></p></e>
+    <e w="1">><p><l>asttuáigi<s n="n"/></l><r>time off<s n="n"/></r></p></e>
+    <e><p><l>ateasta<s n="n"/></l><r>certificate<s n="n"/></r></p></e>
+    <e w="1">><p><l>ateasta<s n="n"/></l><r>affirmation<s n="n"/></r></p></e>
+    <e><p><l>ateasta<s n="n"/></l><r>attestation<s n="n"/></r></p></e>
+    <e w="1">><p><l>ateasta<s n="n"/></l><r>demonstration<s n="n"/></r></p></e>
+    <e w="1">><p><l>ateasta<s n="n"/></l><r>diploma<s n="n"/></r></p></e>
+    <e w="1">><p><l>ateasta<s n="n"/></l><r>excuse<s n="n"/></r></p></e>
+    <e w="1">><p><l>ateasta<s n="n"/></l><r>monstrance<s n="n"/></r></p></e>
+    <e w="1">><p><l>ateasta<s n="n"/></l><r>proof<s n="n"/></r></p></e>
+    <e w="1">><p><l>ateasta<s n="n"/></l><r>report card<s n="n"/></r></p></e>
+    <e w="1">><p><l>ateasta<s n="n"/></l><r>report<s n="n"/></r></p></e>
+    <e w="1">><p><l>ateasta<s n="n"/></l><r>subornation<s n="n"/></r></p></e>
+    <e w="1">><p><l>ateasta<s n="n"/></l><r>substantiation<s n="n"/></r></p></e>
+    <e w="1">><p><l>ateasta<s n="n"/></l><r>testimony<s n="n"/></r></p></e>
+    <e w="1">><p><l>ateasta<s n="n"/></l><r>seal<s n="n"/></r></p></e>
+    <e><p><l>ateisma<s n="n"/></l><r>atheism<s n="n"/></r></p></e>
+    <e><p><l>ateista<s n="n"/></l><r>atheist<s n="n"/></r></p></e>
+    <e><p><l>atlas<s n="n"/></l><r>atlas<s n="n"/></r></p></e>
+    <e><p><l>atmosfeara<s n="n"/></l><r>atmosphere<s n="n"/></r></p></e>
+    <e w="1">><p><l>atmosfeara<s n="n"/></l><r>air<s n="n"/></r></p></e>
+    <e w="1">><p><l>atmosfeara<s n="n"/></l><r>air space<s n="n"/></r></p></e>
+    <e w="1">><p><l>atmosfeara<s n="n"/></l><r>airspace<s n="n"/></r></p></e>
+    <e><p><l>atnin<s n="n"/></l><r>usage<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnin<s n="n"/></l><r>access<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnin<s n="n"/></l><r>application<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnin<s n="n"/></l><r>disposal<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnin<s n="n"/></l><r>employment<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnin<s n="n"/></l><r>exercise<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnin<s n="n"/></l><r>manipulation<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnin<s n="n"/></l><r>operation<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnin<s n="n"/></l><r>use<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnin<s n="n"/></l><r>utilisation<s n="n"/></r></p></e>
+    <e><p><l>atnin<s n="n"/></l><r>wearing<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnin<s n="n"/></l><r>wear<s n="n"/></r></p></e>
+    <e><p><l>atnu<s n="n"/></l><r>usage<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnu<s n="n"/></l><r>access<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnu<s n="n"/></l><r>application<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnu<s n="n"/></l><r>disposal<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnu<s n="n"/></l><r>employment<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnu<s n="n"/></l><r>exercise<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnu<s n="n"/></l><r>manipulation<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnu<s n="n"/></l><r>operation<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnu<s n="n"/></l><r>use<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnu<s n="n"/></l><r>utilisation<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnu<s n="n"/></l><r>wearing<s n="n"/></r></p></e>
+    <e w="1">><p><l>atnu<s n="n"/></l><r>wear<s n="n"/></r></p></e>
+    <e><p><l>atoma<s n="n"/></l><r>atom<s n="n"/></r></p></e>
+    <e w="1">><p><l>atoma<s n="n"/></l><r>monad<s n="n"/></r></p></e>
+    <e w="1">><p><l>atta<s n="n"/></l><r>gift<s n="n"/></r></p></e>
+    <e w="1">><p><l>attribuhtta<s n="n"/></l><r>adjunct<s n="n"/></r></p></e>
+    <e><p><l>attribuhtta<s n="n"/></l><r>attribute<s n="n"/></r></p></e>
+    <e w="1">><p><l>attribuhtta<s n="n"/></l><r>complement<s n="n"/></r></p></e>
+    <e><p><l>attus<s n="n"/></l><r>alms<s n="n"/></r></p></e>
+    <e w="1">><p><l>attus<s n="n"/></l><r>dole<s n="n"/></r></p></e>
+    <e w="1">><p><l>attus<s n="n"/></l><r>handout<s n="n"/></r></p></e>
+    <e w="1">><p><l>attus<s n="n"/></l><r>Maundy<s n="n"/></r></p></e>
+    <e><p><l>attáldat<s n="n"/></l><r>gift<s n="n"/></r></p></e>
+    <e w="1">><p><l>attáldat<s n="n"/></l><r>bestowal<s n="n"/></r></p></e>
+    <e w="1">><p><l>attáldat<s n="n"/></l><r>bestowment<s n="n"/></r></p></e>
+    <e w="1">><p><l>attáldat<s n="n"/></l><r>boon<s n="n"/></r></p></e>
+    <e w="1">><p><l>attáldat<s n="n"/></l><r>donation<s n="n"/></r></p></e>
+    <e w="1">><p><l>attáldat<s n="n"/></l><r>favour<s n="n"/></r></p></e>
+    <e w="1">><p><l>attáldat<s n="n"/></l><r>giveaway<s n="n"/></r></p></e>
+    <e w="1">><p><l>attáldat<s n="n"/></l><r>lagniappe<s n="n"/></r></p></e>
+    <e w="1">><p><l>attáldat<s n="n"/></l><r>present<s n="n"/></r></p></e>
+    <e><p><l>audio<s n="n"/></l><r>audio<s n="np"/></r></p></e>
+    <e><p><l>audio<s n="n"/></l><r>audio<s n="n"/></r></p></e>
+    <e w="1">><p><l>audiovisuála<s n="n"/></l><r>audiovisual<s n="adj"/></r></p></e>
+    <e><p><l>automatiseren<s n="n"/></l><r>automation<s n="n"/></r></p></e>
+    <e><p><l>automáhtta<s n="n"/></l><r>automaton<s n="n"/></r></p></e>
+    <e w="1">><p><l>autonoma<s n="n"/></l><r>autonomic<s n="adj"/></r></p></e>
+    <e w="1">><p><l>autonoma<s n="n"/></l><r>autonomous<s n="adj"/></r></p></e>
+    <e w="1">><p><l>autonoma<s n="n"/></l><r>self-governing<s n="adj"/></r></p></e>
+    <e><p><l>autonomalaš<s n="adj"/></l><r>autonomic<s n="adj"/></r></p></e>
+    <e><p><l>autonomalaš<s n="adj"/></l><r>autonomous<s n="adj"/></r></p></e>
+    <e w="1">><p><l>autonomalaš<s n="adj"/></l><r>self-governing<s n="adj"/></r></p></e>
+    <e><p><l>autonomiija<s n="n"/></l><r>autonomy<s n="n"/></r></p></e>
+    <e><p><l>autoritehta<s n="n"/></l><r>authority<s n="n"/></r></p></e>
+    <e w="1">><p><l>autoritehta<s n="n"/></l><r>imperium<s n="n"/></r></p></e>
+    <e w="1">><p><l>aviisa<s n="n"/></l><r>leaf<s n="n"/></r></p></e>
+    <e w="1">><p><l>aviisa<s n="n"/></l><r>blade<s n="n"/></r></p></e>
+    <e w="1">><p><l>aviisa<s n="n"/></l><r>folio<s n="n"/></r></p></e>
+    <e w="1">><p><l>aviisa<s n="n"/></l><r>leaflet<s n="n"/></r></p></e>
+    <e><p><l>aviisa<s n="n"/></l><r>magazine<s n="n"/></r></p></e>
+    <e><p><l>aviisa<s n="n"/></l><r>paper<s n="n"/></r></p></e>
+    <e w="1">><p><l>aviisa<s n="n"/></l><r>scale leaf<s n="n"/></r></p></e>
+    <e w="1">><p><l>aviisa<s n="n"/></l><r>scale<s n="n"/></r></p></e>
+    <e><p><l>aviisa<s n="n"/></l><r>newspaper<s n="n"/></r></p></e>
+    <e w="1">><p><l>aviisa<s n="n"/></l><r>gazette<s n="n"/></r></p></e>
+    <e><p><l>avvi<s n="n"/></l><r>belt<s n="n"/></r></p></e>
+    <e w="1">><p><l>avvi<s n="n"/></l><r>girdle<s n="n"/></r></p></e>
+    <e w="1">><p><l>avvi<s n="n"/></l><r>sash<s n="n"/></r></p></e>
+    <e w="1">><p><l>avádat<s n="n"/></l><r>zone<s n="n"/></r></p></e>
+    <e w="1">><p><l>avádat<s n="n"/></l><r>belt<s n="n"/></r></p></e>
+    <e w="1">><p><l>avádat<s n="n"/></l><r>fare-stage<s n="n"/></r></p></e>
+    <e><p><l>avádat<s n="n"/></l><r>region<s n="n"/></r></p></e>
+    <e><p><l>avádat<s n="n"/></l><r>sector<s n="n"/></r></p></e>
+    <e><p><l>aváhat<s n="n"/></l><r>waist<s n="n"/></r></p></e>
+    <e><p><l>ađa<s n="n"/></l><r>core<s n="n"/></r></p></e>
+    <e w="1">><p><l>ađa<s n="n"/></l><r>burden<s n="n"/></r></p></e>
+    <e w="1">><p><l>ađa<s n="n"/></l><r>crux<s n="n"/></r></p></e>
+    <e w="1">><p><l>ađa<s n="n"/></l><r>gist<s n="n"/></r></p></e>
+    <e w="1">><p><l>ađa<s n="n"/></l><r>grass roots<s n="n"/></r></p></e>
+    <e w="1">><p><l>ađa<s n="n"/></l><r>head<s n="n"/></r></p></e>
+    <e w="1">><p><l>ađa<s n="n"/></l><r>heart and soul<s n="n"/></r></p></e>
+    <e><p><l>ađa<s n="n"/></l><r>kernel<s n="n"/></r></p></e>
+    <e w="1">><p><l>ađa<s n="n"/></l><r>marrow<s n="n"/></r></p></e>
+    <e w="1">><p><l>ađa<s n="n"/></l><r>nitty-gritty<s n="n"/></r></p></e>
+    <e><p><l>ađa<s n="n"/></l><r>nucleus<s n="n"/></r></p></e>
+    <e w="1">><p><l>ađa<s n="n"/></l><r>pith<s n="n"/></r></p></e>
+    <e w="1">><p><l>ađa<s n="n"/></l><r>point<s n="n"/></r></p></e>
+    <e w="1">><p><l>ađa<s n="n"/></l><r>quiddity<s n="n"/></r></p></e>
+    <e w="1">><p><l>ađa<s n="n"/></l><r>substance<s n="n"/></r></p></e>
+    <e><p><l>badjebáza<s n="n"/></l><r>surplus<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjebáza<s n="n"/></l><r>overage<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjebáza<s n="n"/></l><r>surplusage<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjebáza<s n="n"/></l><r>top-up<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjebáza<s n="n"/></l><r>trade deficit<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjelbáza<s n="n"/></l><r>surplus<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjelbáza<s n="n"/></l><r>overage<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjelbáza<s n="n"/></l><r>surplusage<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjelbáza<s n="n"/></l><r>top-up<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjelbáza<s n="n"/></l><r>trade deficit<s n="n"/></r></p></e>
+    <e><p><l>badjelgeahččanvuohta<s n="n"/></l><r>arrogance<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjelgeahččanvuohta<s n="n"/></l><r>assumption<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjelgeahččanvuohta<s n="n"/></l><r>hubris<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjelgeahččanvuohta<s n="n"/></l><r>superciliousness<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjelgeahččanvuohta<s n="n"/></l><r>superiority<s n="n"/></r></p></e>
+    <e><p><l>badji<s n="n"/></l><r>episode<s n="n"/></r></p></e>
+    <e w="1">><p><l>badji<s n="n"/></l><r>cycle<s n="n"/></r></p></e>
+    <e w="1">><p><l>badji<s n="n"/></l><r>installment<s n="n"/></r></p></e>
+    <e w="1">><p><l>badji<s n="n"/></l><r>instalment<s n="n"/></r></p></e>
+    <e w="1">><p><l>badji<s n="n"/></l><r>passage<s n="n"/></r></p></e>
+    <e w="1">><p><l>badji<s n="n"/></l><r>pass<s n="n"/></r></p></e>
+    <e w="1">><p><l>badji<s n="n"/></l><r>period<s n="n"/></r></p></e>
+    <e w="1">><p><l>badji<s n="n"/></l><r>spell<s n="n"/></r></p></e>
+    <e w="1">><p><l>badji<s n="n"/></l><r>stint<s n="n"/></r></p></e>
+    <e w="1">><p><l>badji<s n="n"/></l><r>time constant<s n="n"/></r></p></e>
+    <e><p><l>badjosat<s n="n"/></l><r>high country<s n="n"/></r></p></e>
+    <e><p><l>badjosat<s n="n"/></l><r>upland<s n="n"/></r></p></e>
+    <e><p><l>badjosat<s n="n"/></l><r>highland<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjosat<s n="n"/></l><r>highlands<s n="n"/></r></p></e>
+    <e w="1">><p><l>badjosat<s n="n"/></l><r>plateau<s n="n"/></r></p></e>
+    <e><p><l>badni<s n="n"/></l><r>spinner<s n="n"/></r></p></e>
+    <e w="1">><p><l>badni<s n="n"/></l><r>caprimulgid<s n="n"/></r></p></e>
+    <e w="1">><p><l>badni<s n="n"/></l><r>European goatsucker<s n="n"/></r></p></e>
+    <e w="1">><p><l>badni<s n="n"/></l><r>European nightjar<s n="n"/></r></p></e>
+    <e w="1">><p><l>badni<s n="n"/></l><r>forest tent caterpillar<s n="n"/></r></p></e>
+    <e w="1">><p><l>badni<s n="n"/></l><r>goatsucker<s n="n"/></r></p></e>
+    <e w="1">><p><l>badni<s n="n"/></l><r>mosquito hawk<s n="n"/></r></p></e>
+    <e w="1">><p><l>badni<s n="n"/></l><r>nightjar<s n="n"/></r></p></e>
+    <e w="1">><p><l>badni<s n="n"/></l><r>thread maker<s n="n"/></r></p></e>
+    <e w="1">><p><l>badni<s n="n"/></l><r>thrower<s n="n"/></r></p></e>
+    <e w="1">><p><l>badni<s n="n"/></l><r>throwster<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadallan<s n="n"/></l><r>direction<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadallan<s n="n"/></l><r>control function<s n="n"/></r></p></e>
+    <e><p><l>bagadallan<s n="n"/></l><r>guidance<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadallan<s n="n"/></l><r>lead<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadallan<s n="n"/></l><r>pilotage<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadallan<s n="n"/></l><r>piloting<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadallan<s n="n"/></l><r>stage direction<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadallan<s n="n"/></l><r>steering<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadallan<s n="n"/></l><r>supervision<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadallan<s n="n"/></l><r>tuition<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadallan<s n="n"/></l><r>tutelage<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadallan<s n="n"/></l><r>tutorship<s n="n"/></r></p></e>
+    <e><p><l>bagadalli<s n="n"/></l><r>director<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadalli<s n="n"/></l><r>coach<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadalli<s n="n"/></l><r>controller<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadalli<s n="n"/></l><r>counsellor<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadalli<s n="n"/></l><r>counselor<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadalli<s n="n"/></l><r>instructor<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadalli<s n="n"/></l><r>jockey<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadalli<s n="n"/></l><r>stage director<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadalli<s n="n"/></l><r>steerer<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadalli<s n="n"/></l><r>wise man<s n="n"/></r></p></e>
+    <e><p><l>bagadas<s n="n"/></l><r>concentrate<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadas<s n="n"/></l><r>caulking<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadas<s n="n"/></l><r>caulk<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadas<s n="n"/></l><r>gasket<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadas<s n="n"/></l><r>sealant<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadas<s n="n"/></l><r>sealer<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadas<s n="n"/></l><r>seal<s n="n"/></r></p></e>
+    <e><p><l>bagadeaddji<s n="n"/></l><r>grower<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>breeder<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>educationalist<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>foster-nurse<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>propagator<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>raiser<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>schoolman<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>director<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>coach<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>controller<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>counsellor<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>counselor<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>instructor<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>jockey<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>stage director<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>steerer<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeaddji<s n="n"/></l><r>wise man<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeapmi<s n="n"/></l><r>correction<s n="n"/></r></p></e>
+    <e><p><l>bagadeapmi<s n="n"/></l><r>counseling<s n="n"/></r></p></e>
+    <e><p><l>bagadeapmi<s n="n"/></l><r>counselling<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadeapmi<s n="n"/></l><r>help desk<s n="n"/></r></p></e>
+    <e><p><l>bagadus<s n="n"/></l><r>upbringing<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadus<s n="n"/></l><r>breeding<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadus<s n="n"/></l><r>culture<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadus<s n="n"/></l><r>nurture<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadus<s n="n"/></l><r>rearing<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadus<s n="n"/></l><r>help<s n="n"/></r></p></e>
+    <e><p><l>bagadus<s n="n"/></l><r>instruction<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadus<s n="n"/></l><r>guideline<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadus<s n="n"/></l><r>rubric<s n="n"/></r></p></e>
+    <e w="1">><p><l>bagadus<s n="n"/></l><r>rule<s n="n"/></r></p></e>
+    <e><p><l>baggi<s n="n"/></l><r>chub<s n="n"/></r></p></e>
+    <e w="1">><p><l>baggi<s n="n"/></l><r>fatty<s n="n"/></r></p></e>
+    <e w="1">><p><l>baggi<s n="n"/></l><r>plump<s n="n"/></r></p></e>
+    <e><p><l>bahodat<s n="n"/></l><r>evilness<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahodat<s n="n"/></l><r>maleficence<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahodat<s n="n"/></l><r>wickedness<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahodat<s n="n"/></l><r>badness<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahodat<s n="n"/></l><r>evil<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahodat<s n="n"/></l><r>malignity<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahodat<s n="n"/></l><r>nefariousness<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahodat<s n="n"/></l><r>severity<s n="n"/></r></p></e>
+    <e><p><l>bahta<s n="n"/></l><r>arse<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahta<s n="n"/></l><r>ass<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahta<s n="n"/></l><r>butt<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahta<s n="n"/></l><r>rump<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahta<s n="n"/></l><r>buttock<s n="n"/></r></p></e>
+    <e><p><l>bahágas<s n="n"/></l><r>demon<s n="n"/></r></p></e>
+    <e><p><l>bahágas<s n="n"/></l><r>devil<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahágas<s n="n"/></l><r>cacodaemon<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahágas<s n="n"/></l><r>cacodemon<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahágas<s n="n"/></l><r>Devil<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahágas<s n="n"/></l><r>imp<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahálaš<s n="n"/></l><r>demon<s n="n"/></r></p></e>
+    <e><p><l>bahálaš<s n="n"/></l><r>devil<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahálaš<s n="n"/></l><r>cacodaemon<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahálaš<s n="n"/></l><r>cacodemon<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahálaš<s n="n"/></l><r>Devil<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahálaš<s n="n"/></l><r>imp<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahávuohta<s n="n"/></l><r>evilness<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahávuohta<s n="n"/></l><r>maleficence<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahávuohta<s n="n"/></l><r>wickedness<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahávuohta<s n="n"/></l><r>badness<s n="n"/></r></p></e>
+    <e><p><l>bahávuohta<s n="n"/></l><r>evil<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahávuohta<s n="n"/></l><r>malignity<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahávuohta<s n="n"/></l><r>nefariousness<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahávuohta<s n="n"/></l><r>severity<s n="n"/></r></p></e>
+    <e><p><l>bahčavuohta<s n="n"/></l><r>bitterness<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahčavuohta<s n="n"/></l><r>acerbity<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahčavuohta<s n="n"/></l><r>acridity<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahčavuohta<s n="n"/></l><r>acridness<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahčavuohta<s n="n"/></l><r>acrimony<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahčavuohta<s n="n"/></l><r>animosity<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahčavuohta<s n="n"/></l><r>embitterment<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahčavuohta<s n="n"/></l><r>rancour<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahčavuohta<s n="n"/></l><r>spite<s n="n"/></r></p></e>
+    <e w="1">><p><l>bahčavuohta<s n="n"/></l><r>vitriol<s n="n"/></r></p></e>
+    <e><p><l>baika<s n="n"/></l><r>shit<s n="n"/></r></p></e>
+    <e w="1">><p><l>baika<s n="n"/></l><r>crap<s n="adj"/></r></p></e>
+    <e w="1">><p><l>baika<s n="n"/></l><r>shite<s n="adj"/></r></p></e>
+    <e w="1">><p><l>baika<s n="n"/></l><r>shit<s n="adj"/></r></p></e>
+    <e w="1">><p><l>baika<s n="n"/></l><r>crappy<s n="ij"/></r></p></e>
+    <e w="1">><p><l>baika<s n="n"/></l><r>shit<s n="ij"/></r></p></e>
+    <e w="1">><p><l>baika<s n="n"/></l><r>shitty<s n="ij"/></r></p></e>
+    <e><p><l>baikabava<s n="n"/></l><r>constipation<s n="n"/></r></p></e>
+    <e w="1">><p><l>baikabava<s n="n"/></l><r>irregularity<s n="n"/></r></p></e>
+    <e w="1">><p><l>baikabava<s n="n"/></l><r>obstipation<s n="n"/></r></p></e>
+    <e><p><l>baittohat<s n="n"/></l><r>offside<s n="n"/></r></p></e>
+    <e w="1">><p><l>baittohat<s n="n"/></l><r>offsides<s n="n"/></r></p></e>
+    <e w="1">><p><l>baittohat<s n="n"/></l><r>wilderness<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajildus<s n="n"/></l><r>jacket<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajildus<s n="n"/></l><r>external<s n="adj"/></r></p></e>
+    <e><p><l>bajilgeahčču<s n="n"/></l><r>surveillance<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajilgeahčču<s n="n"/></l><r>guardianship<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajilgeahčču<s n="n"/></l><r>invigilation<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajilgeahčču<s n="n"/></l><r>monitoring<s n="n"/></r></p></e>
+    <e><p><l>bajilčála<s n="n"/></l><r>header<s n="n"/></r></p></e>
+    <e><p><l>bajilčála<s n="n"/></l><r>headline<s n="n"/></r></p></e>
+    <e><p><l>bajilčála<s n="n"/></l><r>title<s n="n"/></r></p></e>
+    <e><p><l>bajilčála<s n="n"/></l><r>heading<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajilčála<s n="n"/></l><r>lemma<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajilčála<s n="n"/></l><r>rubric<s n="n"/></r></p></e>
+    <e><p><l>bajimus_hoavda<s n="n"/></l><r>Chief Executive<s n="n"/></r></p></e>
+    <e><p><l>bajimus_hoavda<s n="n"/></l><r>commander in chief<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajimus_hoavda<s n="n"/></l><r>pendragon<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajuš<s n="n"/></l><r>head<s n="n"/></r></p></e>
+    <e><p><l>bajuš<s n="n"/></l><r>top<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajuš<s n="n"/></l><r>upper<s n="n"/></r></p></e>
+    <e><p><l>bajábealli<s n="n"/></l><r>upper side<s n="n"/></r></p></e>
+    <e><p><l>bajábealli<s n="n"/></l><r>upside<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajábealli<s n="n"/></l><r>upper<s n="n"/></r></p></e>
+    <e><p><l>bajádus<s n="n"/></l><r>increase<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajádus<s n="n"/></l><r>cost increase<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajádus<s n="n"/></l><r>hike<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajádus<s n="n"/></l><r>raise<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajádus<s n="n"/></l><r>rise<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajádus<s n="n"/></l><r>raisable<s n="adj"/></r></p></e>
+    <e><p><l>baján<s n="n"/></l><r>thunder<s n="n"/></r></p></e>
+    <e w="1">><p><l>baján<s n="n"/></l><r>thunderstorm<s n="n"/></r></p></e>
+    <e><p><l>bajándálki<s n="n"/></l><r>thunder<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajándálki<s n="n"/></l><r>thunderstorm<s n="n"/></r></p></e>
+    <e><p><l>bajándávgi<s n="n"/></l><r>rainbow<s n="n"/></r></p></e>
+    <e><p><l>bajásdoalahus<s n="n"/></l><r>upkeep<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajásdoalahus<s n="n"/></l><r>found<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajásdoalahus<s n="n"/></l><r>maintenance<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajásdoalahus<s n="n"/></l><r>maintenance staff<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajásdoalahus<s n="n"/></l><r>sustainment<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajásdoalahus<s n="n"/></l><r>sustenance<s n="n"/></r></p></e>
+    <e><p><l>bajásčuožžileapmi<s n="n"/></l><r>Resurrection<s n="n"/></r></p></e>
+    <e><p><l>bajásšaddan<s n="n"/></l><r>upbringing<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajásšaddan<s n="n"/></l><r>breeding<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajásšaddan<s n="n"/></l><r>culture<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajásšaddan<s n="n"/></l><r>nurture<s n="n"/></r></p></e>
+    <e w="1">><p><l>bajásšaddan<s n="n"/></l><r>rearing<s n="n"/></r></p></e>
+    <e><p><l>bakku<s n="n"/></l><r>hazel grouse<s n="n"/></r></p></e>
+    <e><p><l>bakteara<s n="n"/></l><r>bacteria<s n="n"/></r></p></e>
+    <e><p><l>bakteara<s n="n"/></l><r>bacterium<s n="n"/></r></p></e>
+    <e w="1">><p><l>bakteara<s n="n"/></l><r>germ<s n="n"/></r></p></e>
+    <e w="1">><p><l>bakteara<s n="n"/></l><r>trichomonad<s n="n"/></r></p></e>
+    <e w="1">><p><l>balddonas<s n="n"/></l><r>spook<s n="n"/></r></p></e>
+    <e w="1">><p><l>balddonas<s n="n"/></l><r>fantasm<s n="n"/></r></p></e>
+    <e w="1">><p><l>balddonas<s n="n"/></l><r>phantasma<s n="n"/></r></p></e>
+    <e w="1">><p><l>balddonas<s n="n"/></l><r>specter<s n="n"/></r></p></e>
+    <e><p><l>baldu<s n="n"/></l><r>ice floe<s n="n"/></r></p></e>
+    <e><p><l>baleahtta<s n="n"/></l><r>ballet<s n="n"/></r></p></e>
+    <e w="1">><p><l>baleahtta<s n="n"/></l><r>concert dance<s n="n"/></r></p></e>
+    <e><p><l>baleš<s n="n"/></l><r>cowardice<s n="n"/></r></p></e>
+    <e w="1">><p><l>baleš<s n="n"/></l><r>cowardliness<s n="n"/></r></p></e>
+    <e><p><l>balloŋŋa<s n="n"/></l><r>balloon<s n="n"/></r></p></e>
+    <e><p><l>ballu<s n="n"/></l><r>fear<s n="n"/></r></p></e>
+    <e w="1">><p><l>ballu<s n="n"/></l><r>apprehension<s n="n"/></r></p></e>
+    <e w="1">><p><l>ballu<s n="n"/></l><r>disheartenment<s n="n"/></r></p></e>
+    <e w="1">><p><l>ballu<s n="n"/></l><r>dismay<s n="n"/></r></p></e>
+    <e w="1">><p><l>ballu<s n="n"/></l><r>dread<s n="n"/></r></p></e>
+    <e w="1">><p><l>ballu<s n="n"/></l><r>scare<s n="n"/></r></p></e>
+    <e w="1">><p><l>ballu<s n="n"/></l><r>trepidation<s n="n"/></r></p></e>
+    <e w="1">><p><l>ballu<s n="n"/></l><r>fear<s n="adj"/></r></p></e>
+    <e><p><l>balláda<s n="n"/></l><r>ballad<s n="n"/></r></p></e>
+    <e><p><l>balláda<s n="n"/></l><r>ballade<s n="n"/></r></p></e>
+    <e w="1">><p><l>balláda<s n="n"/></l><r>lay<s n="n"/></r></p></e>
+    <e w="1">><p><l>balláda<s n="n"/></l><r>minstrelsy<s n="n"/></r></p></e>
+    <e><p><l>balsambohppel<s n="n"/></l><r>balsam poplar<s n="n"/></r></p></e>
+    <e><p><l>balva<s n="n"/></l><r>cloud<s n="n"/></r></p></e>
+    <e w="1">><p><l>balva<s n="n"/></l><r>cascade<s n="n"/></r></p></e>
+    <e w="1">><p><l>balva<s n="n"/></l><r>grass<s n="n"/></r></p></e>
+    <e w="1">><p><l>balva<s n="n"/></l><r>marijuana<s n="n"/></r></p></e>
+    <e><p><l>balánsa<s n="n"/></l><r>balance<s n="n"/></r></p></e>
+    <e w="1">><p><l>balánsa<s n="n"/></l><r>counterbalance<s n="n"/></r></p></e>
+    <e w="1">><p><l>balánsa<s n="n"/></l><r>equilibrium<s n="n"/></r></p></e>
+    <e w="1">><p><l>balánsa<s n="n"/></l><r>equipoise<s n="n"/></r></p></e>
+    <e w="1">><p><l>balánsa<s n="n"/></l><r>poise<s n="n"/></r></p></e>
