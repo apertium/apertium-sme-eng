@@ -6,6 +6,8 @@ import xml.etree.ElementTree
 from argparse import ArgumentParser, FileType
 from typing import TextIO
 
+from termcolor import colored
+
 
 def parseilr(ilr) -> dict[str, str]:
     """parse an i or l or r structure into a lexeme."""
@@ -25,7 +27,7 @@ def parseilr(ilr) -> dict[str, str]:
     return lexeme
 
 
-def parsee(e) -> dict[dict[str, str], dict[str, str]]:
+def parsee(e) -> dict[str, dict[str, str]]:
     """parse an e structure into a lexeme pair."""
     lexpair = {}
     for child in e:
@@ -41,7 +43,7 @@ def parsee(e) -> dict[dict[str, str], dict[str, str]]:
     return lexpair
 
 
-def parsesection(section) -> list[dict[dict[str, str], dict[str, str]]]:
+def parsesection(section) -> list[dict[str, dict[str, str]]]:
     """parse an actual dictionary section into lexeme pairs."""
     lexpairs = []
     for child in section:
@@ -51,7 +53,7 @@ def parsesection(section) -> list[dict[dict[str, str], dict[str, str]]]:
     return lexpairs
 
 
-def parsedix(dixfile: TextIO) -> list[dict[dict[str,str], dict[str, str]]]:
+def parsedix(dixfile: TextIO) -> list[dict[str, dict[str, str]]]:
     """read apertium bi dix file, create a data structure of lexeme pairs."""
     dixtree = xml.etree.ElementTree.parse(dixfile)
     root = dixtree.getroot()
@@ -89,15 +91,34 @@ def main():
             continue
         if not middel["lemma"]:
             continue
-        print(f"** new word: {sourcel["lemma"]}**")
+        print(colored(f"** new word: {sourcel["lemma"]}**", "magenta"))
         for lexpair2 in dix2:
             if lexpair2["sl"]["lemma"] == middel["lemma"]:
                 targetl = lexpair2["tl"]
                 if not targetl["lemma"]:
                     continue
-                print(sourcel["lemma"] + "." + ".".join(sourcel["tags"]),
-                      middel["lemma"] + "." + ".".join(middel["tags"]),
-                      targetl["lemma"] + "." + ".".join(targetl["tags"]),
+                stags = ""
+                if "tags" in sourcel:
+                    stags += "." + ".".join(sourcel["tags"])
+                else:
+                    continue
+                if "paradigms" in sourcel:
+                    stags += "|" + "|".join(sourcel["paradigms"])
+                mtags = ""
+                if "tags" in middel:
+                    mtags += "." + ".".join(middel["tags"])
+                if "paradigms" in sourcel:
+                    mtags += "|" + "|".join(middel["paradigms"])
+                ttags = ""
+                if "tags" in targetl:
+                    ttags += "." + ".".join(targetl["tags"])
+                else:
+                    continue
+                if "paradigms" in targetl:
+                    ttags += "|" + "|".join(targetl["paradigms"])
+                print(colored(sourcel["lemma"], "red") + stags,
+                      colored(middel["lemma"], "blue") + mtags,
+                      colored(targetl["lemma"], "green") + ttags,
                       sep=" <=> ")
                 answer = input("yes / no / maybe = 1-100 / quit ? ")
                 if answer in ["y", "yes"]:
