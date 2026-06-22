@@ -84,6 +84,7 @@ def main():
     print("<dictionary>", file=options.output)
     print("  <alphabet/>", file=options.output)
     print("  <section id=\"crossdix\" type=\"standard\">", file=options.output)
+    prev = ""
     for lexpair in dix1:
         sourcel = lexpair["sl"]
         middel = lexpair["tl"]
@@ -91,7 +92,12 @@ def main():
             continue
         if not middel["lemma"]:
             continue
-        print(colored(f"** new word: {sourcel["lemma"]}**", "magenta"))
+        if sourcel["lemma"] != prev:
+            print(colored(f"** ** ** new word: {sourcel["lemma"]}** ** **",
+                          "magenta"))
+            prev = sourcel["lemma"]
+        else:
+            print(colored(f"new pivot: {middel["lemma"]}", "gray"))
         for lexpair2 in dix2:
             if lexpair2["sl"]["lemma"] == middel["lemma"]:
                 targetl = lexpair2["tl"]
@@ -137,6 +143,10 @@ def main():
                           file=options.output)
                 elif answer in ["q", "quit"]:
                     print("ok quitting")
+                    print(f"    <!-- premature quit at {sourcel} -->",
+                          file=options.output)
+                    print("  </section>", file=options.output)
+                    print("</dictionary>", file=options.output)
                     sys.exit(0)
                 elif answer in ["n", "no"]:
                     print("skipping")
