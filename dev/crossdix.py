@@ -97,7 +97,7 @@ def main():
                           "magenta"))
             prev = sourcel["lemma"]
         else:
-            print(colored(f"new pivot: {middel["lemma"]}", "gray"))
+            print(colored(f"new pivot: {middel["lemma"]}", "yellow"))
         for lexpair2 in dix2:
             if lexpair2["sl"]["lemma"] == middel["lemma"]:
                 targetl = lexpair2["tl"]
