@@ -77,6 +77,8 @@ def main():
     argp.add_argument("-y", "--no-interactive", default=False,
                       action="store_true",
                       help="answer yes to all questions DANGER TERROR HORROR")
+    argp.add_argument("-r", "--resume-at", type=str, metavar="LEXEME",
+                      help="continue crossing from source LEXEME")
     options = argp.parse_args()
     dix1 = parsedix(options.first_dix)
     dix2 = parsedix(options.second_dix)
@@ -85,6 +87,9 @@ def main():
     print("  <alphabet/>", file=options.output)
     print("  <section id=\"crossdix\" type=\"standard\">", file=options.output)
     prev = ""
+    resuming = False
+    if options.resume_at:
+        resuming = options.resume_at
     for lexpair in dix1:
         sourcel = lexpair["sl"]
         middel = lexpair["tl"]
@@ -92,6 +97,12 @@ def main():
             continue
         if not middel["lemma"]:
             continue
+        if resuming and sourcel["lemma"] != resuming:
+            print(f"skipping {sourcel["lemma"]} waiting for {resuming}...")
+            continue
+        elif resuming and sourcel["lemma"] == resuming:
+            print(f"found resumption point {resuming}")
+            resuming = False
         if sourcel["lemma"] != prev:
             print(colored(f"** ** ** new word: {sourcel["lemma"]}** ** **",
                           "magenta"))
