@@ -2,45 +2,133 @@
 !! ATTRIBUTE CATEGORIES
 !!!!!!!!!!!!!!!
 
-number = sg pl du sp ;
-case = nom acc gen locill par abe ess ;
+number = (ND sp) sg pl du sp ND ;
+gender = (GD mf) m f mf GD;
 det_type = def ind dem itg;
-tense = pres past fut ifi pri fti;
+tense = pres past pret fut ifi pri fti imp pot ;
+mood = indic cond ;
+voice = (VD actv) actv pasv VD ;
+person = p1 p2 p3 ;
+npclass = top ant al cog ;
+comp = pst cmp sup ;
+numtype = card ord ;
+inf = inf subs ger ;
+prntype = dem itg pers qu ;
+case = nom gen acc loc ill abe ins com par ;
+ptcp = pp pprs prsprc prfprc ;
+tviv = tv iv ;
 
 !!!!!!!!!!!!!!!
 !! OUTPUT PATTERNS
 !!!!!!!!!!!!!!!
 
 n: _.number.case;
+pr: _;
 adj: _.gender.number;
+verb_pp: _.tviv.ptcp;
+verb_inf: _.tviv.inf;
+verb_fin: _.tviv.mood.tense.person.number.case;
+!!vbhaver: _.voice.tense.person.number.case;
+!!vblex: _.voice.tense.person.number.case;
+!!vbser: _.voice.tense.person.number.case;
+!!vaux: _.voice.tense.person.number.case;
+!!vbmod: _.voice.tense.person.number.case;
+!!vbdo: _.voice.tense.person.number.case;
+np: _.npclass.gender.number.case;
+det: _.prntype.person.number.case;
+adj_pred: _.comp.number.case;
+adj_attr: _.<attr>;
+num: _.numtype.number.case;
+prn: _.prntype.person.number.case;
+adv: _;
 
-NP: _ ;
+S: _;
+VP: _;
+NP: _.number;
+NUMP: _;
+
+V: _;
+N: _;
+DET: _;
+A: _;
+NUM: _;
+PRN: _;
+NEG: _;
 
 !!!!!!!!!!!!!!!
 !! TAG-REWRITE RULES
 !!!!!!!!!!!!!!!
 
-tense > tense : ifi past, pri pres, fti fut;
+tense > tense : pri pres, past pret ;
+ptcp > ptcp : pp prfprc, pprs prsprc ;
 
 !!!!!!!!!!!!!!!
 !! MACROS
 !!!!!!!!!!!!!!!
 
-det: (if (1.det_type = def or 1.det_type = ind)
-         1(det_def)
-      else
-         1(det_default));
+vblex: (always 1(verb)) ;
+vbser: (always 1(verb)) ;
+vbhaver: (always 1(verb)) ;
+vaux: (always 1(verb)) ;
+vbmod: (always 1(verb)) ;
+vbdo: (always 1(verb)) ;
+
+verb: (if (1.inf = inf) 1(verb_inf)
+       elif (1.inf = ger) 1(verb_inf)
+       elif (1.inf = subs) 1(verb_inf)[case="",voice="",number=""]
+        elif (1.ptcp = pp) 1(verb_pp)[comp=pst,case=nom]
+        elif (1.ptcp = pprs) 1(verb_pp)[comp=pst,case=nom]
+        else 1(verb_fin)[number=(if (1.number = sp) sg else 1.number),
+                         mood=indic]
+       ) ;
 
 !!!!!!!!!!!!!!!
 !! REDUCTION RULES
 !!!!!!!!!!!!!!!
 
-NP -> n { 1[case=nom] } ;
+S -> VP NP { 1 _ 2 } ;
+VP -> do@vblex np adv have@vblex { leat@vaux.actv.[1.tense>tense].[1.person].[1.number]
+                               ko@adv _ 2[case=loc] _ 3 } |
+      np do@vbdo not@adv have@vblex { 1[case=loc] _ ii@vaux.neg.actv.p3.sg _
+                                      leat@vaux.actv.[2.tense>tense].conneg } |
+      do@vbdo prn vblex { 3[voice=actv,inf="",tense=1.tense,person=2.person,number=2.number]
+                          go@adv _ 2 } |
+      vbmod not@adv { ii@vaux.neg.actv.p3.sg _
+                      1[voice=actv,person=p3,number=sg] } |
+      np have@vblex { 1[case=loc] _ 2[voice=actv] } |
+      n have@vblex { 1[case=loc] _ 2[voice=actv] } |
+      prn have@vblex { 1[case=loc] _ 2[voice=actv] } |
+      NP V { 1 _ 2 } ;
 
-! Example rule:
-! Input:  ^ראש<n><m><sg>/hovud<n><nt><sg>$ ^גדול<adj><m><sg>/stor<adj><nt><sg>$
-! Output: ^stor<adj><nt><sg>$ ^hovud<n><nt><sg>$
-! NP -> n.$number adj { 2[gender=1.gender, number=1.number] _ 1 } ;
+NEG -> no@adv { ii@vaux.neg.actv.p3.sg } ;
+V -> to@pr vblex.inf { 2[voice=actv,person="",number=sg] } |
+     vbser vblex.ger { 1 _ 2[voice=actv,case=loc,number=sg] } |
+     vbhaver vblex.pp { 1[lem=leat,voice=actv] _ 
+                        2[voice=actv,number=1.number] } |
+     vblex.inf { 1[voice=actv,person="",number=sg] } |
+     vbser.inf { 1[voice=actv,person="",number=sg] } |
+     vblex { 1[voice=actv,person=p3,number=sg] } |
+     vbser { 1[voice=actv,number=1.number,person=p3] } |
+     vaux { 1[voice=actv,number=sg,person=p3] } |
+     vbmod { 1[voice=actv,number=sg,person=p3] } |
+     vbser { 1[voice=actv,number=sg,person=p3] } |
+     vbdo { 1[voice=actv,number=sg,person=p3]  } ;
+NP -> in@pr det n { 3[case=loc] } |
+      from@pr np { 2[case=loc] } |
+      pr det n { 3[case=gen] _ 1 } |
+      pr n { 2[case=gen] _ 1 } |
+      the@det n { 2[lemcase=1.lemcase,case=nom] } |
+      a@det n { 2[lemcase=1.lemcase,case=nom] } ;
+NUMP -> num n { 1[case=nom,number=sg] _ 2[case=par] } ; !! fixme: semicongruence
+N -> n { 1[case=nom] } |
+     np { 1[case=nom] } ;
+A -> adj { 1(adj_attr)[case=nom,
+             comp=(if (1.comp="") pst else 1.comp),
+             number=(if (1.number=sp) sg else 1.number)] };
+NUM -> num { 1[case=nom,number=sg] } ;
+PRN -> prn { 1[person=(if (1.prntype/tl=pers) 1.person else ""),
+               case=(if (1.case not = "") 1.case else nom)] } ; 
+DET -> det { 1[case=(if (1.case not = "") 1.case else nom)] } ;
 
 ! Resources:
 ! https://wiki.apertium.org/wiki/Apertium-recursive
