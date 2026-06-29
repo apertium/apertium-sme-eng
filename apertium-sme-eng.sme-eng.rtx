@@ -2,41 +2,293 @@
 !! ATTRIBUTE CATEGORIES
 !!!!!!!!!!!!!!!
 
-number = (ND sg) sg pl sp ND;
-det_type = def ind dem itg;
-tense = pres past fut ifi pri fti;
+number = sg pl sp du ;
+gender = m f mf nt ;
+det_type = def ind dem itg pos qnt ;
+def = def ind ;
+tense = pres past pri cni pot imp ;
+person = p1 p2 p3 ;
+inf = inf ;
+npclass = ant top al cog ;
+prnclass = pers itg ind pos dem ;
+sint = sint ;
+ject = subj obj ;
+voice = actv pasv ;
+participle = pp pprs agent ;
+advtype = itg ;
+case = nom acc gen loc ill abe com ins par ;
+advcases = loc ill abe com ins ;
 
 !!!!!!!!!!!!!!!
 !! OUTPUT PATTERNS
 !!!!!!!!!!!!!!!
 
-n: _.number;
-adj: _.gender.number;
-det_default: _.det_type;
-det_def: _.det_type.number;
+n: _.number; !! house.n.sg
+adj: _.sint; !! warm.adj.sint
+det: _.det_type.number; !! the.det.ind.sg
+vblex_fin: _.tense.person.number; !! walk.vblex.pres.p3.sg
+vblex_inf: _.inf; !! walk.inf
+vblex_pp: _.participle; !! walk.pp
+vbser_fin: _.tense.person.number; !! be.vbser.pres.p3.sg
+vbser_inf: _.inf; !! be.inf
+vbser_pp: _.participle; !! be.pp
+vbmod_fin: _.tense.person.number; !! can.vbmod.pres.p3.sg
+vbmod_inf: _.inf; !! walk.in
+vbmod_pp: _.participle; !! walk.pp
+vaux_fin: _.tense.person.number;  !! ?
+vaux_inf: _.inf; !! walk.inf
+vaux_pp: _.participle; !! walk.pp
+vbhaver: _.tense.person.number;
+np: _.npclass.gender.number;      !! Jack.np.ant.m.sg
+prn: _.prnclass.ject.person.gender.number; !! prpers.prn.subj.p2.mf.sp
+adv: _.advtype;
+num: _.number; !! one.sg two.pl :-(
+post: _;
+pr: _;
+cnjcoo: _;
+punct: _;
 
-NP: _.number;
+S: _;                   !! "sentence"
+VP: _;                            !! verb phrase
+NP: _.case.number;                     !! noun phrase
+DP: _.case.number;                !! phrase wihtout determiner thing
+PP: _;      !! prepositiional phrase
+NUMP: _.case.number;
+ADVL: _;
+
+V: _.person.number;
+N: _.case.number;
+PROP: _.case.number;
+A: _.case.number;
+DET: _.case.number;
+NEG: _;
+PRN: _.case.number;
+ADV: _;
+NUM: _;
+
 
 !!!!!!!!!!!!!!!
 !! TAG-REWRITE RULES
 !!!!!!!!!!!!!!!
 
-tense > tense : ifi past, pri pres, fti fut;
+tense > tense : pri pres ;
+participle > participle : agent pprs ;
 
 !!!!!!!!!!!!!!!
 !! MACROS
 !!!!!!!!!!!!!!!
 
-det: (if (1.det_type = def or 1.det_type = ind)
-         1(det_def)
-      else
-         1(det_default));
+!! maybe
+maybe_pr: (if (1.case = loc) [in@pr _]
+           elif (1.case/sl = ill) [into@pr _]
+           elif (1.case/sl = abe) [without@pr _]
+           elif (1.case/sl = ins) [with@pr _]
+           else []) ;
+maybe_art: (if (1.case = par and 1.number = sg) [a@det.ind.sg _]
+            elif (1.case = acc and 1.number= sg) [the@det.def.sp _]
+            elif (1.case = gen and 1.number= sg) [the@det.def.sp _]
+            elif (1.number = pl) []
+            elif (1.case = nom and 1.number = sg)
+                (if (1.def = def) [the@det.def.sp _]
+                 else [a@det.ind.sg _])
+            else [the@det.def.sp _] ) ;
+pro_undrop: (if (1.person = p1 and 1.number = sg)
+                 [prpers@prn.subj.p1.mf.sg _]
+             elif (1.person = p2 and 1.number = sg)
+                   [prpers@prn.subj.p2.mf.sp _]
+             elif (1.person = p3 and 1.number = sg)
+                   []
+             elif (1.person = p1 and 1.number = du)
+                   [prpers@prn.subj.p1.mf.pl _]
+             elif (1.person = p2 and 1.number = du)
+                   [prpers@prn.subj.p2.mf.sp _]
+             elif (1.person = p3 and 1.number = du)
+                   []
+             elif (1.person = p1 and 1.number = pl)
+                   [prpers@prn.subj.p1.mf.pl _]
+             elif (1.person = p2 and 1.number = pl)
+                   [prpers@prn.subj.p2.mf.sp _]
+             elif (1.person = p3 and 1.number = pl)
+                   []
+             else []) ;
+!! split pos into subs
+vblex: (if (1.inf = inf) 1(vblex_inf)
+        elif (1.participle = pp) 1(vblex_pp)
+        elif (1.participle = pprs) 1(vblex_pp)
+        elif (1.tense = cni) [shall@vbmod.past _ 1(vblex_inf)[inf=inf]]
+        else 1(vblex_fin)) ;
+vbser: (if (1.inf = inf) 1(vbser_inf)
+        elif (1.participle = pp) 1(vbser_pp)
+        elif (1.participle = pprs) 1(vbser_pp)
+        elif (1.tense = cni) [shall@vbmod.past _ 1(vbser_inf)[inf=inf]]
+        else 1(vbser_fin)) ;
+vbmod: (if (1.inf = inf) 1(vbmod_inf)
+        elif (1.participle = pp) 1(vbmod_pp)
+        elif (1.participle = pprs) 1(vbmod_pp)
+        elif (1.tense = cni) [shall@vbmod.past _ 1(vbmod_inf)[inf=inf]]
+        else 1(vbmod_fin)) ;
+vaux: (if (1.inf = inf) 1(vaux_inf)
+        elif (1.participle = pp) 1(vaux_pp)
+        elif (1.participle = pprs) 1(vaux_pp)
+        elif (1.tense = cni) [shall@vbmod.past _ 1(vaux_inf)[inf=inf]]
+        else 1(vaux_fin)) ;
 
 !!!!!!!!!!!!!!!
 !! REDUCTION RULES
 !!!!!!!!!!!!!!!
 
-NP -> n { 1 } ;
+S -> VP NP { 1 _
+             *(maybe_pr)[case=2.case]
+             *(maybe_art)[case=2.case,number=2.number,def=def]
+             2 } |
+     VP ADVL { 1 _ 2 } |
+     NP { ! stray NP
+          *(maybe_pr)[case=1.case]
+          *(maybe_art)[case=1.case,number=1.number,def=ind]
+          1
+        } |
+     DP { ! stray DP
+          *(maybe_pr)[case=1.case]
+          1
+        } | !stray nump
+     NUMP {
+          *(maybe_pr)[case=1.case]
+          *(maybe_art)[case=1.case,number=1.number,def=ind]
+          1
+        } |
+     ADVL { 1 } ;
+
+ADVL -> NP ?(case in advcases) {
+            *(maybe_pr)[case=1.case]
+            *(maybe_art)[case=1.case,number=1.number,def=ind]
+            1
+            } |
+        ADV { 1 } ;
+VP -> !possessive stuff
+      n.*.sg.loc leat@vblex.* {
+        *(maybe_art)[case=1.case,number=1.number,def=def]
+        1 _ have@vbhaver.pres.p3.sg } |
+      np.*.sg.loc leat@vblex.* {
+        1 _ have@vbhaver.pres.p3.sg } |
+      prn.*.sg.loc leat@vblex.* {
+        1 _ have@vbhaver.pres.p3.sg } |
+      prn.*.sg.loc leat@vaux.* {
+        1 _ have@vbhaver.pres.p3.sg } |
+      prn.*.pl.loc leat@vaux.* {
+        1 _ have@vbhaver.pres } |
+      np.*.sg.loc ii@vaux.* leat@vblex.* {
+        1 _ do@vaux.pres.p3.sg _ not@adv _ have@vbhaver.inf } |
+      leat@vaux.* go@qst np.*.sg.loc {
+        do@vaux.pres.p3.sg _ 3 _ have@vbhaver.inf } |
+      leat@vaux.* go@qst adv np.*.sg.loc {
+        do@vaux.pres.p3.sg _ 4 _ 3 _ have@vbhaver.inf } |
+      ! negations
+      ii@vaux vblex { do@vaux.pres.p3.sg _ not@adv _ 2 } |
+      ii@vaux vaux { 2[person = "", number = ""] _ not@adv } |
+      ! perfect
+      leat@vaux vblex.actv.pp { 1[lem=have,pos_tag=vbhaver,number="",
+                tense=(if (1.tense = pri) pres
+                       elif (1.tense = past) past
+                       else pres)] _ 2(vblex_pp) } |
+      ! normal verb phrases
+      NP V {
+        *(maybe_pr)[case=1.case]
+        *(maybe_art)[case=1.case,number=1.number,def=def]
+        1 _ 2 } |
+      DP V {
+        *(maybe_pr)[case=1.case]
+        1 _ 2 } |
+      PRN V {
+        *(maybe_pr)[case=1.case]
+        1 _ 2 } |
+      V ko@qst {
+        do@vbdo.pres _
+        *(pro_undrop)[person=1.person,number=1.number]
+        1 } |
+      V {
+        *(pro_undrop)[person=1.person,number=1.number]
+        1 } ;
+NP -> A N ja@cnjcoo N ?(1.case = 2.case and 2.case = 4.case)
+                    [$number=pl,$case=1.case]
+                    { 1 _ 2 _ 3 _ 4 } |
+      N ja@cnjcoo N ?(1.case = 3.case) [$number=pl,$case=1.case]
+                    { 1 _ 2 _ 3 } |
+      PROP ja@cnjcoo PROP ?(1.case = 3.case) [$number=pl,$case=1.case]
+                    { 1 _ 2 _ 3 } |
+      A ,@punct A %N ?(1.case=3.case and 3.case=4.case) { 1 2 _ 3 _ 4 } |
+      vblex.*.pp.* %N ?(1.case = 2.case) { 1 _ 2 } |
+      A %N ?(1.case=2.case) { 1 _ 2 } |
+      N.*.gen %N { 1 's@gen _ 2 } |
+      %N { 1 } ;
+DP -> %PROP { 1 } |
+      DET %N ?(1.case=2.case) { 1 _ 2 } ;
+PP -> NP.*.gen post { 2 _ the@det.def.sp _ 1 } |
+      PRN.*.gen post { 2 _ 1 } |
+      DET.*.gen post { 2 _ 1 } ;  ! that darned possessive structure
+NUMP -> num.*.sg.gen n.*.sg.gen %n { ! 4 metres something
+            1 _ 2 _ 3
+        } |
+        num.*.sg.nom n.sg.par [$case=nom,$number=pl]  { 1 _ 2[number=pl] } ;
+
+NEG -> ii@vaux { no@adv } |
+       ii-@n  { no@adv } ;
+A -> %adj { 1 } ;
+N -> n.*.cmp %n { 1 _ 2 } |
+     %n { 1 } ;
+PROP -> %np { 1 } ;
+V -> %vblex.pasv.*.impers { be@vbser.[1.tense].p3.sg _ 1(vblex_pp)[participle=pp] } |
+     %vblex.*.inf { to@pr _ 1(vblex_inf) } |
+     %vblex.agent { 1(vblex_pp) } | ! XXX
+     %vblex {
+            1[person = (if (1.person = p3 and 1.number = sg and 1.tense>tense = pres)
+                            p3
+                         else ""),
+               number = (if (1.person = p3 and 1.number = sg and 1.tense>tense = pres)
+                            sg
+                        else "")]
+           }  |
+    %vbmod {
+            1[person = (if (1.person = p3 and 1.number = sg and 1.tense>tense = pres)
+                            p3
+                        else ""),
+               number = (if (1.person = p3 and 1.number = sg and 1.tense>tense = pres)
+                            sg
+                        else "")]
+           } |
+    %vbser {
+            1[person = (if (1.person = p3 and 1.number = sg and 1.tense>tense = pres)
+                            p3
+                        else-if (1.person = p1 and 1.number = sg and 1.tense>tense = pres)
+                            p1
+                        else ""),
+              number = (if (1.number = sg and 1.person = p1 and 1.tense>tense = pres)
+                            sg
+                        else-if (1.number = sg and 1.person = p3 and 1.tense>tense = pres)
+                            sg
+                        else "")]
+          } |
+    %vaux {
+            1[person = (if ((1.person = p3) and (1.number = sg) and (1.tense>tense = pres))
+                            p3
+                        else-if (1.person = p1 and 1.number = sg and 1.tense>tense = pres)
+                            p1
+                        else ""),
+              number = (if (1.number = sg and 1.person = p1 and 1.tense>tense = pres)
+                            sg
+                        else-if (1.number = sg and 1.person = p3 and 1.tense>tense = pres)
+                            sg
+                        else "")]
+          };
+DET -> %det { 1 } |
+       %prn.pers.*.gen { 1(det) } ;
+PRN -> %prn.pers { 1[prnclass=""] } |
+        %prn { 1 } ;
+ADV -> adv { 1 } |
+    ! idioms
+    hyvänen@adj aika@adv { good@adj.sint _ heaven@n.pl } ;
+NUM -> num { 1[number = (if (1.lem/sl = "yksi") sg else pl)] } |
+    ! idioms and stuff
+    pari@num { 1(n) } ;
 
 ! Example rule:
 ! Input:  ^ראש<n><m><sg>/hovud<n><nt><sg>$ ^גדול<adj><m><sg>/stor<adj><m><sg>$
