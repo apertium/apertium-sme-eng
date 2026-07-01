@@ -28,6 +28,7 @@ adj: _.gender.number;
 verb_pp: _.tviv.ptcp;
 verb_inf: _.tviv.inf;
 verb_fin: _.tviv.mood.tense.person.number.case;
+verb_conneg: _.tviv.mood.tense.<conneg>;
 !!vbhaver: _.voice.tense.person.number.case;
 !!vblex: _.voice.tense.person.number.case;
 !!vbser: _.voice.tense.person.number.case;
@@ -86,35 +87,62 @@ verb: (if (1.inf = inf) 1(verb_inf)
 !! REDUCTION RULES
 !!!!!!!!!!!!!!!
 
-S -> VP NP { 1 _ 2 } ;
+S -> VP NP { 1 _ 2[case=acc] } ;
 VP -> do@vblex np adv have@vblex { leat@vaux.actv.[1.tense>tense].[1.person].[1.number]
                                ko@adv _ 2[case=loc] _ 3 } |
-      np do@vbdo not@adv have@vblex { 1[case=loc] _ ii@vaux.neg.actv.p3.sg _
+      np do@vbdo not@adv have@vblex { 1[case=loc] _ ii@vblex.iv.neg.indic.p3.sg _
                                       leat@vaux.actv.[2.tense>tense].conneg } |
       do@vbdo prn vblex { 3[voice=actv,inf="",tense=1.tense,person=2.person,number=2.number]
-                          go@adv _ 2 } |
-      vbmod not@adv { ii@vaux.neg.actv.p3.sg _
-                      1[voice=actv,person=p3,number=sg] } |
+                          go@pcle.qst _ 2 } |
+      prpers@prn.subj do@vbdo not@adv vblex { 1 _
+                      ii@vblex.iv.neg.indic.[1.person].[1.number] _
+                      4(verb_conneg)[tense=pres,mood=indic] } |
+      prpers@prn.subj vbmod not@adv vblex { 1 _ 
+                      ii@vblex.iv.neg.indic.[1.person].[1.number] _
+                      2(verb_conneg)[tense=pres,mood=indic] _
+                      4(verb_inf) } |
       np have@vblex { 1[case=loc] _ 2[voice=actv] } |
       n have@vblex { 1[case=loc] _ 2[voice=actv] } |
       prn have@vblex { 1[case=loc] _ 2[voice=actv] } |
       NP V { 1 _ 2 } ;
 
 NEG -> no@adv { ii@vaux.neg.actv.p3.sg } ;
-V -> to@pr vblex.inf { 2[voice=actv,person="",number=sg] } |
-     vbser vblex.ger { 1 _ 2[voice=actv,case=loc,number=sg] } |
-     vbhaver vblex.pp { 1[lem=leat,voice=actv] _ 
-                        2[voice=actv,number=1.number] } |
-     vblex.inf { 1[voice=actv,person="",number=sg] } |
-     vbser.inf { 1[voice=actv,person="",number=sg] } |
-     vblex { 1[voice=actv,person=p3,number=sg] } |
-     vbser { 1[voice=actv,number=1.number,person=p3] } |
-     vaux { 1[voice=actv,number=sg,person=p3] } |
-     vbmod { 1[voice=actv,number=sg,person=p3] } |
-     vbser { 1[voice=actv,number=sg,person=p3] } |
-     vbdo { 1[voice=actv,number=sg,person=p3]  } ;
-NP -> in@pr det n { 3[case=loc] } |
+V -> to@pr vblex.inf { 2[person="",number=sg] } |
+     vbser vblex.ger { 1 _ 2[case=loc,number=sg] } |
+     vbhaver vblex.pp { 1[lem=leat] _ 
+                        2[number=1.number] } |
+     vblex.inf { 1[person="",number=sg] } |
+     vbser.inf { 1[person="",number=sg] } |
+     vbdo prpers@prn.subj vblex det n { 3[person=1.person,number=1.number]
+                                        go@pcle.qst _
+                                        2 _
+                                      5[case=acc] } |
+     vbdo prpers@prn.subj vblex { 3[person=1.person,number=1.number] 
+                                  go@pcle.qst _
+                                  2
+                                  } |
+     prpers@prn.subj vblex det n { 1 _ 2[person=1.person,number=1.number] _
+                                      4[case=acc] } |
+     prpers@prn.subj vblex { 1 _ 2[person=1.person,number=1.number] } |
+     prpers@prn.subj vbser { 1 _ 2[person=1.person,number=1.number] } |
+     prpers@prn.subj vbmod { 1 _ 2[person=1.person,number=1.number] } |
+     prpers@prn.subj both@cnjcoo vblex { 3[person=1.person,number=du] } |
+     prpers@prn.subj both@det vblex { 3[person=1.person,number=du] } |
+     prpers@prn.subj both@prn vblex { 3[person=1.person,number=du] } |
+     vblex det n { 1[person=p3,number=sg] _ 3[case=acc] } |
+     vblex { 1[person=p3,number=sg] } |
+     vbser { 1[number=1.number,person=p3] } |
+     vaux { 1[number=sg,person=p3] } |
+     vbmod { 1[number=sg,person=p3] } |
+     vbser { 1[number=sg,person=p3] } |
+     vbdo { 1[number=sg,person=p3]  } ;
+NP -> n of@pr det n {3[case=gen] _ 1 } |
+      n of@pr np {3[case=gen] _ 1 } |
+      num of@pr num {1[case=nom] _ 3[case=loc] } |
+      in@pr det n { 3[case=loc] } |
+      in@pr n num { 2[case=loc] _ 3[case=nom,number=sg] } |
       from@pr np { 2[case=loc] } |
+      in@pr num { 2[case=loc,number=sg] } |
       pr det n { 3[case=gen] _ 1 } |
       pr n { 2[case=gen] _ 1 } |
       the@det n { 2[lemcase=1.lemcase,case=nom] } |
