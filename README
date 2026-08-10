@@ -1,5 +1,9 @@
 # Northern Sami and English: `apertium-sme-eng`
 
+> **NB:** This system is an experiment sent for WMT shared task 2026, it is
+> not meant as a production use translator at the current level. For more
+> details, read the cited papers (TBA).
+
 This is an Apertium language pair for translating between Northern Sami and
 English. What you can use this language package for:
 
@@ -81,9 +85,9 @@ house
 
 ## For more information
 
-* https://wiki.apertium.org/wiki/Installation
-* https://wiki.apertium.org/wiki/apertium-sme-eng
-* https://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
+* <https://wiki.apertium.org/wiki/Installation>
+* <https://wiki.apertium.org/wiki/apertium-sme-eng>
+* <https://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary>
 
 ## Help and support
 
