@@ -137,7 +137,16 @@ def main():
                       colored(middel["lemma"], "blue") + mtags,
                       colored(targetl["lemma"], "green") + ttags,
                       sep=" <=> ")
-                answer = input("yes / no / maybe = 1-100 / quit ? ")
+                defaultanswer = "y"
+                if " " in sourcel["lemma"] or " " in targetl["lemma"]:
+                    defaultanswer = "1"
+                if stags != ttags:
+                    defaultanswer = "n"
+                answer = input("yes / no / maybe = 1-100 / quit "
+                               f"[{defaultanswer}] ? ")
+                if not answer or answer.strip() == "":
+                    print(f"reading {answer} as default {defaultanswer}")
+                    answer = defaultanswer
                 if answer in ["y", "yes"]:
                     print("adding")
                     print(f"    <e><p><l>{sourcel["lemma"]}"
