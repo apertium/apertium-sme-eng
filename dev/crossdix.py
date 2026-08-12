@@ -137,7 +137,7 @@ def main():
                       colored(middel["lemma"], "blue") + mtags,
                       colored(targetl["lemma"], "green") + ttags,
                       sep=" <=> ")
-                defaultanswer = "y"
+                defaultanswer = "42"
                 if " " in sourcel["lemma"] or " " in targetl["lemma"]:
                     defaultanswer = "1"
                 if stags != ttags:
